@@ -15,6 +15,8 @@
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
 | 2026-05-29 | en-US | ![](https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-29 | zh-CN | ![](https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-29 | ja-JP | ![](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-05-28 | en-US | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-05-28 | zh-CN | ![](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-05-28 | ja-JP | ![](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
@@ -22,8 +24,6 @@
 | 2026-05-28 | fr-FR | ![](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-05-27 | en-US | ![](https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-05-27 | zh-CN | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-05-27 | ja-JP | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-05-27 | de-DE | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
