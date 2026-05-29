@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bing Wallpapers</title>
+  <meta name="description" content="每日 Bing 壁纸自动采集与展示">
+  <link rel="stylesheet" href="/assets/app.css">
+  <style>
+    .lang-redirect { display:flex; flex-direction:column; align-items:center; justify-content:center;
+      min-height:80vh; text-align:center; font-family:system-ui,sans-serif; }
+    .lang-redirect h1 { font-size:1.4rem; margin-bottom:1rem; }
+    .lang-redirect .region-list { display:flex; flex-wrap:wrap; gap:0.6rem; justify-content:center; margin-top:1rem; }
+    .lang-redirect .region-list a { padding:0.5rem 1rem; border:1px solid #d1d5db; border-radius:8px;
+      text-decoration:none; color:#374151; transition:all 0.15s; }
+    .lang-redirect .region-list a:hover { background:#3b82f6; color:#fff; border-color:#3b82f6; }
+  </style>
+</head>
+<body>
+  <div class="lang-redirect">
+    <h1>Bing Wallpapers</h1>
+    <p id="redirect-msg">Detecting your language...</p>
+    <p>Or choose your region:</p>
+    <div class="region-list" id="region-list"></div>
+  </div>
+  <script>
+    (function(){
+      var regions = ["en-US","zh-CN","ja-JP","de-DE","fr-FR"];
+      var langMap = {"zh":"zh-CN","zh-cn":"zh-CN","zh-tw":"zh-CN","zh-hk":"zh-CN","ja":"ja-JP","de":"de-DE","fr":"fr-FR","pt-br":"pt-BR","pt":"pt-BR","ko":"ko-KR","en":"en-US","en-us":"en-US","en-gb":"en-GB","en-au":"en-AU","en-in":"en-IN"};
+      var labels = {"en-US":"English (US)","zh-CN":"中文 (中国)","ja-JP":"日本語","de-DE":"Deutsch","fr-FR":"Français","en-GB":"English (UK)","en-AU":"English (AU)","en-IN":"English (IN)","pt-BR":"Português (BR)","ko-KR":"한국어"};
+      var defaultRegion = "en-US";
+
+      // 渲染地区列表
+      var list = document.getElementById("region-list");
+      for (var i = 0; i < regions.length; i++) {
+        var r = regions[i];
+        var a = document.createElement("a");
+        a.href = "/" + r + "/";
+        a.textContent = labels[r] || r;
+        list.appendChild(a);
+      }
+
+      // 尝试从 localStorage 读取上次选择
+      var saved = localStorage.getItem("region");
+      if (saved && regions.indexOf(saved) !== -1) {
+        window.location.replace("/" + saved + "/");
+        return;
+      }
+
+      // 匹配浏览器语言
+      var browserLangs = navigator.languages || [navigator.language || navigator.userLanguage || ""];
+      for (var j = 0; j < browserLangs.length; j++) {
+        var lang = browserLangs[j].toLowerCase();
+        // 精确匹配
+        if (langMap[lang] && regions.indexOf(langMap[lang]) !== -1) {
+          localStorage.setItem("region", langMap[lang]);
+          window.location.replace("/" + langMap[lang] + "/");
+          return;
+        }
+        // 前缀匹配（如 zh-tw → zh）
+        var prefix = lang.split("-")[0];
+        if (langMap[prefix] && regions.indexOf(langMap[prefix]) !== -1) {
+          localStorage.setItem("region", langMap[prefix]);
+          window.location.replace("/" + langMap[prefix] + "/");
+          return;
+        }
+      }
+
+      // 无法匹配，跳转默认地区
+      document.getElementById("redirect-msg").textContent = "Redirecting to " + (labels[defaultRegion] || defaultRegion) + "...";
+      localStorage.setItem("region", defaultRegion);
+      setTimeout(function(){ window.location.replace("/" + defaultRegion + "/"); }, 800);
+    })();
+  </script>
+</body>
+</html>

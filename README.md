@@ -1,50 +1,35 @@
 # Bing Wallpapers
 
-每日 Bing 壁纸自动采集与静态站点生成项目。
+每日 Bing 壁纸自动采集与展示
 
-## 功能
+## 今日壁纸
 
-- 每日自动获取 Bing 壁纸元数据
-- 支持多个市场区域（en-US、zh-CN 等）
-- 生成静态网站展示壁纸画廊
-- 自动归档历史壁纸数据
-- 支持客户端搜索与暗色主题
-- GitHub Actions 自动更新
-- Vercel 静态站点部署
+[![A 'peak' into history](https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-## 技术栈
+**日期：** 2026-05-29
+**区域：** en-US
+**描述：** Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)
 
-- TypeScript 5.x
-- Node.js 20 LTS
-- pnpm
-- Nunjucks 模板引擎
-- Vitest 测试框架
-- Biome 代码规范
-- GitHub Actions
-- Vercel
+## 最新壁纸
 
-## 开发
+| 日期 | 区域 | 预览 | 下载 |
+|---|---|---|---|
+| 2026-05-29 | en-US | ![](https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-28 | en-US | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-28 | zh-CN | ![](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-28 | ja-JP | ![](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_JA-JP1474604254_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-28 | de-DE | ![](https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_DE-DE3618626129_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-28 | fr-FR | ![](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SummitEverest_FR-FR5658913315_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-27 | en-US | ![](https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-27 | zh-CN | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-27 | ja-JP | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-05-27 | de-DE | ![](https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HwaesongFortress_DE-DE4428807756_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
-```bash
-# 安装依赖
-pnpm install
+## 项目说明
 
-# 类型检查
-pnpm typecheck
-
-# 运行测试
-pnpm test
-
-# 更新壁纸数据并生成站点
-pnpm update
-
-# 仅构建站点
-pnpm build:site
-```
-
-## 部署
-
-本项目支持 Vercel 自动部署。将代码推送到 GitHub 后，Vercel 会自动构建并部署静态站点。
+- 支持区域：de-DE, en-US, fr-FR, ja-JP, zh-CN
+- 归档月份数：1
+- 数据来源：Bing 每日壁纸
 
 ## 许可证
 
@@ -52,4 +37,4 @@ pnpm build:site
 
 ## 声明
 
-本项目为独立实现，不隶属于 Microsoft Corporation。Bing 和相关商标归 Microsoft Corporation 所有。
+本项目为独立实现。Bing 和相关商标归 Microsoft Corporation 所有。
