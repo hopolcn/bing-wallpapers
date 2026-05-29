@@ -1,0 +1,39 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+{% if todayWallpaper %}
+<section class="hero">
+  <img src="{{ todayWallpaper.imageUrl }}" alt="{{ todayWallpaper.title }}" class="hero-image">
+  <div class="hero-overlay">
+    <h1 class="hero-title">{{ todayWallpaper.title }}</h1>
+    <p class="hero-meta">{{ todayWallpaper.date }} · {{ todayWallpaper.region }}</p>
+    <p class="hero-copyright">{{ todayWallpaper.copyright }}</p>
+    <a href="{{ todayWallpaper.downloadUrl }}" class="btn-download" target="_blank" rel="noopener">{{ uiText.download4K }}</a>
+  </div>
+</section>
+{% endif %}
+
+<section class="gallery-section">
+  <h2>{{ uiText.latestWallpapers }}</h2>
+  <div class="region-filter">
+    <button class="filter-btn active" data-region="all">{{ uiText.allRegions }}</button>
+    {% for r in regions %}
+    <button class="filter-btn" data-region="{{ r }}">{{ r }}</button>
+    {% endfor %}
+  </div>
+  <div class="gallery-grid" id="gallery">
+    {% for item in wallpapers %}
+    {% include "partials/gallery-card.njk" %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="archive-nav">
+  <h2>{{ uiText.monthlyArchive }}</h2>
+  <div class="month-links">
+    {% for month in months %}
+    <a href="/{{ region }}/months/{{ month.key }}.html" class="month-link">{{ month.key }} ({{ month.count }})</a>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

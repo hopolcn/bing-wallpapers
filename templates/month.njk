@@ -1,0 +1,22 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+<section class="month-page">
+  <div class="page-header">
+    <h1>{{ monthKey }} {{ uiText.monthlyArchive }}</h1>
+    <p>{{ uiText.totalWallpapers | replace("{count}", wallpaperCount) }}</p>
+  </div>
+
+  <div class="month-nav">
+    {% if prevMonth %}<a href="/{{ region }}/months/{{ prevMonth }}.html" class="nav-prev">← {{ prevMonth }}</a>{% endif %}
+    <a href="/{{ region }}/" class="nav-home">{{ uiText.backHome }}</a>
+    {% if nextMonth %}<a href="/{{ region }}/months/{{ nextMonth }}.html" class="nav-next">{{ nextMonth }} →</a>{% endif %}
+  </div>
+
+  <div class="gallery-grid">
+    {% for item in wallpapers %}
+    {% include "partials/gallery-card.njk" %}
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

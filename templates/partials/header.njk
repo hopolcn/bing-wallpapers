@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="/{{ region }}/" class="logo">🖼 {{ siteTitle }}</a>
+    <nav class="nav-links">
+      <a href="/{{ region }}/">{{ uiText.home }}</a>
+      {% for month in recentMonths %}
+      <a href="/{{ region }}/months/{{ month.key }}.html">{{ month.label }}</a>
+      {% endfor %}
+    </nav>
+    <div class="header-actions">
+      <select id="region-select" class="region-select" aria-label="Region">
+        {% for r in availableRegions %}
+        <option value="/{{ r }}/" {% if r == region %}selected{% endif %}>{{ regionLabels[r] or r }}</option>
+        {% endfor %}
+      </select>
+      <input type="text" id="search-input" placeholder="{{ uiText.search }}" class="search-input" aria-label="{{ uiText.search }}">
+      <button id="theme-toggle" class="theme-toggle" aria-label="{{ uiText.themeToggle }}">🌙</button>
+    </div>
+  </div>
+</header>

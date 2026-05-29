@@ -1,0 +1,33 @@
+{
+  "name": "bing-wallpapers",
+  "version": "1.0.0",
+  "description": "每日 Bing 壁纸自动采集与静态站点生成项目",
+  "type": "module",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "update": "tsx src/cli.ts update",
+    "build:site": "tsx src/cli.ts build",
+    "validate": "tsx src/cli.ts validate",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "format": "biome format --write .",
+    "lint": "biome check .",
+    "lint:fix": "biome check --write ."
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.0",
+    "@types/node": "^25.9.1",
+    "@types/nunjucks": "^3.2.6",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0",
+    "vitest": "^3.1.0"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.4"
+  }
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bing-wallpapers.vercel.app/sitemap.xml

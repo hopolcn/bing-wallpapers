@@ -1,0 +1,14 @@
+<div class="gallery-card" data-region="{{ item.region }}" data-date="{{ item.date }}" data-title="{{ item.title }}" data-copyright="{{ item.copyright }}">
+  <a href="/{{ region }}/days/{{ item.date | replace("-", "/") }}.html" class="card-link">
+    <div class="card-image">
+      <img src="{{ item.thumbnailUrl }}" alt="{{ item.title }}" loading="lazy" decoding="async">
+    </div>
+    <div class="card-body">
+      <h3 class="card-title">{{ item.title }}</h3>
+      <p class="card-meta">
+        <span class="card-date">{{ item.date }}</span>
+        <span class="card-region">{{ item.region }}</span>
+      </p>
+    </div>
+  </a>
+</div>

@@ -1,0 +1,52 @@
+name: 每日壁纸更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "12 16 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-wallpaper-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 安装 pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: 安装 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: pnpm
+
+      - name: 安装依赖
+        run: pnpm install --frozen-lockfile
+
+      - name: 更新壁纸数据并构建站点
+        run: pnpm run update
+
+      - name: 配置 Git 提交身份
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: 提交并推送变更
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "没有文件变更，跳过提交。"
+            exit 0
+          fi
+          git add README.md data/ site/
+          git commit -m "chore: update wallpaper archive"
+          git push

@@ -1,0 +1,30 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+<section class="detail-page">
+  <div class="detail-image">
+    <img src="{{ wallpaper.imageUrl }}" alt="{{ wallpaper.title }}" decoding="async">
+  </div>
+
+  <div class="detail-info">
+    <h1>{{ wallpaper.title }}</h1>
+    <p class="detail-meta">
+      <span>{{ wallpaper.date }}</span>
+      <span>{{ wallpaper.region }}</span>
+    </p>
+    <p class="detail-copyright">{{ wallpaper.copyright }}</p>
+    {% if wallpaper.copyrightLink %}
+    <p class="detail-source"><a href="{{ wallpaper.copyrightLink }}" target="_blank" rel="noopener">{{ uiText.imageSource }}</a></p>
+    {% endif %}
+    <div class="detail-actions">
+      <a href="{{ wallpaper.downloadUrl }}" class="btn-download" target="_blank" rel="noopener">{{ uiText.download4K }}</a>
+    </div>
+  </div>
+
+  <div class="detail-nav">
+    {% if prevDay %}<a href="/{{ region }}/days/{{ prevDay | replace("-", "/") }}.html" class="nav-prev">← {{ prevDay }}</a>{% endif %}
+    <a href="/{{ region }}/months/{{ monthKey }}.html" class="nav-month">{{ monthKey }}</a>
+    {% if nextDay %}<a href="/{{ region }}/days/{{ nextDay | replace("-", "/") }}.html" class="nav-next">{{ nextDay }} →</a>{% endif %}
+  </div>
+</section>
+{% endblock %}

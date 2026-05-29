@@ -1,0 +1,12 @@
+Bing Wallpapers Project
+Copyright 2026 Bing Wallpapers Project
+
+This project is an independent TypeScript/Node.js implementation inspired by
+the general idea of automatically collecting and presenting Bing daily wallpapers.
+It does not copy source code, templates, assets, comments, or implementation
+structure from any prior project.
+
+Bing and related marks are trademarks of Microsoft Corporation. This project is
+not affiliated with or endorsed by Microsoft.
+
+This product is licensed under the Apache License, Version 2.0.

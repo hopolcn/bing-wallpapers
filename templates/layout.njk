@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ pageTitle }} — {{ siteTitle }}</title>
+  <meta name="description" content="{{ pageDescription }}">
+  <meta property="og:title" content="{{ pageTitle }}">
+  <meta property="og:description" content="{{ pageDescription }}">
+  {% if ogImage %}<meta property="og:image" content="{{ ogImage }}">{% endif %}
+  <link rel="stylesheet" href="/assets/app.css">
+</head>
+<body>
+  {% include "partials/header.njk" %}
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+  {% include "partials/footer.njk" %}
+  <script src="/assets/app.js" defer></script>
+</body>
+</html>
