@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Where the road stops, the ride begins](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Fancy feathers](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-06-03
+**日期：** 2026-06-04
 **区域：** en-US
-**描述：** Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)
+**描述：** Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-06-04 | en-US | ![](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-03 | en-US | ![](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-03 | ja-JP | ![](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-03 | de-DE | ![](https://www.bing.com/th?id=OHR.PreeningEgret_DE-DE1842151218_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_DE-DE1842151218_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-03 | fr-FR | ![](https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-02 | en-US | ![](https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-02 | ja-JP | ![](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_JA-JP9112700614_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-02 | de-DE | ![](https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_DE-DE2578527889_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-02 | fr-FR | ![](https://www.bing.com/th?id=OHR.BardenasReales_FR-FR5179078081_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_FR-FR5179078081_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-01 | en-US | ![](https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-01 | zh-CN | ![](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
