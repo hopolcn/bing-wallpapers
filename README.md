@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Fancy feathers](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![The quiet power of an unclaimed world](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-06-04
+**日期：** 2026-06-05
 **区域：** en-US
-**描述：** Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)
+**描述：** View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-06-05 | en-US | ![](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-04 | en-US | ![](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-04 | de-DE | ![](https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-04 | fr-FR | ![](https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-03 | en-US | ![](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-03 | ja-JP | ![](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-03 | de-DE | ![](https://www.bing.com/th?id=OHR.PreeningEgret_DE-DE1842151218_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_DE-DE1842151218_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-03 | fr-FR | ![](https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_FR-FR5555518390_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-02 | en-US | ![](https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
