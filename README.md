@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![The quiet power of an unclaimed world](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Wander often, wonder more](https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-06-05
+**日期：** 2026-06-06
 **区域：** en-US
-**描述：** View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)
+**描述：** Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-06-06 | en-US | ![](https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-06 | zh-CN | ![](https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-06 | ja-JP | ![](https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Limpets_JA-JP0282972005_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-05 | en-US | ![](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HikingNatchez_JA-JP9730895087_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-05 | de-DE | ![](https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-05 | fr-FR | ![](https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Cyanea_FR-FR6314357714_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-04 | en-US | ![](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-04 | de-DE | ![](https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_DE-DE1297494610_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-04 | fr-FR | ![](https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WedLapland_FR-FR5600667341_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-03 | en-US | ![](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
