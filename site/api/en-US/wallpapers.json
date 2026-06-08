@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-06-08:57394d041fbf72b8e4a2a7a655d8e7b6",
+    "region": "en-US",
+    "date": "2026-06-08",
+    "title": "Drift with the current",
+    "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)",
+    "copyrightLink": "https://www.bing.com/search?q=World+Oceans+Day&form=hpcapt&filters=HpDate%3a%2220260608_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Drift%20with%20the%20current",
+    "createdAt": "2026-06-08T18:34:25.907Z",
+    "updatedAt": "2026-06-08T18:34:25.907Z"
+  },
+  {
     "id": "en-US:2026-06-07:df4fe01ec1d8fc8215fc47eb61db674d",
     "region": "en-US",
     "date": "2026-06-07",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Plant%20your%20kingdom",
     "createdAt": "2026-06-07T17:39:01.419Z",
-    "updatedAt": "2026-06-07T17:39:01.419Z"
+    "updatedAt": "2026-06-08T18:34:25.909Z"
   },
   {
     "id": "en-US:2026-06-06:27800678f53bd05858ca33ad7c2b26ca",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wander%20often%2C%20wonder%20more",
     "createdAt": "2026-06-06T17:33:36.746Z",
-    "updatedAt": "2026-06-07T17:39:01.420Z"
+    "updatedAt": "2026-06-08T18:34:25.909Z"
   },
   {
     "id": "en-US:2026-06-05:25bb7cc44c4301458110a58178f91892",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20quiet%20power%20of%20an%20unclaimed%20world",
     "createdAt": "2026-06-05T18:06:21.602Z",
-    "updatedAt": "2026-06-07T17:39:01.420Z"
+    "updatedAt": "2026-06-08T18:34:25.909Z"
   },
   {
     "id": "en-US:2026-06-04:f4cdcef26e713810819d975c799b04d0",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Fancy%20feathers",
     "createdAt": "2026-06-04T18:28:34.748Z",
-    "updatedAt": "2026-06-07T17:39:01.420Z"
+    "updatedAt": "2026-06-08T18:34:25.909Z"
   },
   {
     "id": "en-US:2026-06-03:f59cb46a00756beeb35c2f78bc37ef09",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20the%20road%20stops%2C%20the%20ride%20begins",
     "createdAt": "2026-06-03T19:57:14.550Z",
-    "updatedAt": "2026-06-07T17:39:01.420Z"
+    "updatedAt": "2026-06-08T18:34:25.909Z"
   },
   {
     "id": "en-US:2026-06-02:ffefc2befdab095daa0d96353ade2012",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Between%20the%20blues",
     "createdAt": "2026-06-02T19:51:48.193Z",
-    "updatedAt": "2026-06-07T17:39:01.420Z"
+    "updatedAt": "2026-06-08T18:34:25.909Z"
   },
   {
     "id": "en-US:2026-06-01:acdae0644e1af36a388c31870839456f",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RockefellerPride_EN-US1087499810_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Pride%20in%20plain%20sight",
     "createdAt": "2026-06-01T20:24:12.450Z",
-    "updatedAt": "2026-06-07T17:39:01.420Z"
+    "updatedAt": "2026-06-08T18:34:25.909Z"
   },
   {
     "id": "en-US:2026-05-31:22096a97c5886bf7f0e38f96aab3b614",
