@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![A splash of blue](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Quiet strength](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-06-10
+**日期：** 2026-06-11
 **区域：** en-US
-**描述：** Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)
+**描述：** Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-06-11 | en-US | ![](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-11 | zh-CN | ![](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-11 | ja-JP | ![](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-10 | en-US | ![](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-10 | zh-CN | ![](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-10 | ja-JP | ![](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-10 | de-DE | ![](https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Limpets_DE-DE3433588374_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-10 | fr-FR | ![](https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Limpets_FR-FR7051500113_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-09 | en-US | ![](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-09 | zh-CN | ![](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-09 | ja-JP | ![](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-09 | de-DE | ![](https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Hnausapollur_DE-DE2307473274_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-09 | fr-FR | ![](https://www.bing.com/th?id=OHR.Hnausapollur_FR-FR5863849593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Hnausapollur_FR-FR5863849593_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-08 | en-US | ![](https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-08 | zh-CN | ![](https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
