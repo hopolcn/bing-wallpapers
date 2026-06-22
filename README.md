@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Feathered fathers](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A lush kingdom](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-06-21
+**日期：** 2026-06-22
 **区域：** en-US
-**描述：** King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)
+**描述：** Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-06-22 | en-US | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-22 | zh-CN | ![](https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-22 | ja-JP | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-21 | en-US | ![](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-21 | zh-CN | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-21 | ja-JP | ![](https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Fujisan_JA-JP1483326201_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-21 | de-DE | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_DE-DE3985266590_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-21 | fr-FR | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_FR-FR2142936548_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-20 | en-US | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-20 | zh-CN | ![](https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-20 | ja-JP | ![](https://www.bing.com/th?id=OHR.EggDad_JA-JP1066785458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.EggDad_JA-JP1066785458_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-20 | de-DE | ![](https://www.bing.com/th?id=OHR.EggDad_DE-DE1185821144_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.EggDad_DE-DE1185821144_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-20 | fr-FR | ![](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-19 | en-US | ![](https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
