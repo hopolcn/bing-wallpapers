@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Signature on the horizon](https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Pollen meets wings](https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-06-23
+**日期：** 2026-06-24
 **区域：** en-US
-**描述：** Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)
+**描述：** Butterfly pollinating on yellow flower (© lzh/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-06-24 | en-US | ![](https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-24 | zh-CN | ![](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-24 | ja-JP | ![](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-23 | en-US | ![](https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-23 | zh-CN | ![](https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-23 | ja-JP | ![](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-23 | de-DE | ![](https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BFPollin_DE-DE1648202484_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-06-23 | fr-FR | ![](https://www.bing.com/th?id=OHR.BFPollin_FR-FR2895321472_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BFPollin_FR-FR2895321472_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-22 | en-US | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-06-22 | zh-CN | ![](https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-22 | ja-JP | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_JA-JP6908853562_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-22 | de-DE | ![](https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Fujisan_DE-DE4332870275_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-22 | fr-FR | ![](https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Fujisan_FR-FR9764365414_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-21 | en-US | ![](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-06-21 | zh-CN | ![](https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
