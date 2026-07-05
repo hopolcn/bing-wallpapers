@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![The story continues](https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Sea of purple](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-07-04
+**日期：** 2026-07-05
 **区域：** en-US
-**描述：** Liberty Bell and Independence Hall, Independence National Historical Park, Philadelphia, Pennsylvania (© f11photo/Shutterstock)
+**描述：** Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-07-05 | en-US | ![](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-04 | en-US | ![](https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-04 | de-DE | ![](https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-04 | fr-FR | ![](https://www.bing.com/th?id=OHR.LavenderRows_FR-FR9535531184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_FR-FR9535531184_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-03 | en-US | ![](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-03 | ja-JP | ![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-03 | de-DE | ![](https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-03 | fr-FR | ![](https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-02 | en-US | ![](https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
