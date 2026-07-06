@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Sea of purple](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A city written in centuries](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-07-05
+**日期：** 2026-07-06
 **区域：** en-US
-**描述：** Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)
+**描述：** Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-07-06 | en-US | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-06 | zh-CN | ![](https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-06 | ja-JP | ![](https://www.bing.com/th?id=OHR.Tanabata2026_JA-JP9678732410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Tanabata2026_JA-JP9678732410_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-05 | en-US | ![](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-05 | de-DE | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-05 | fr-FR | ![](https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-04 | en-US | ![](https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-04 | de-DE | ![](https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-04 | fr-FR | ![](https://www.bing.com/th?id=OHR.LavenderRows_FR-FR9535531184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LavenderRows_FR-FR9535531184_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-03 | en-US | ![](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
