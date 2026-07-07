@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-07-07:4922cba0435c24074c10b525682c1640",
+    "region": "en-US",
+    "date": "2026-07-07",
+    "title": "Color, craft, and canopy life",
+    "copyright": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)",
+    "copyrightLink": "https://www.bing.com/search?q=plate-billed+mountain+toucan&form=hpcapt&filters=HpDate%3a%2220260707_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Color%2C%20craft%2C%20and%20canopy%20life",
+    "createdAt": "2026-07-07T18:16:50.039Z",
+    "updatedAt": "2026-07-07T18:16:50.039Z"
+  },
+  {
+    "id": "zh-CN:2026-07-07:ec9c5dabe6aea83191bc1ec9373b10e5",
+    "region": "zh-CN",
+    "date": "2026-07-07",
+    "title": "远古火山的回响",
+    "copyright": "阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%8D%B1%E5%9C%B0%E9%A9%AC%E6%8B%89+%E9%98%BF%E8%92%82%E7%89%B9%E5%85%B0%E6%B9%96&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E8%BF%9C%E5%8F%A4%E7%81%AB%E5%B1%B1%E7%9A%84%E5%9B%9E%E5%93%8D",
+    "createdAt": "2026-07-07T18:16:50.039Z",
+    "updatedAt": "2026-07-07T18:16:50.039Z"
+  },
+  {
+    "id": "ja-JP:2026-07-07:430a88ce7ab0f2db2d441442bbb2b26d",
+    "region": "ja-JP",
+    "date": "2026-07-07",
+    "title": "静けさにしずむ湖",
+    "copyright": "アティトラン湖, グアテマラ (© shayes17/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%82%A2%E3%83%86%E3%82%A3%E3%83%88%E3%83%A9%E3%83%B3%E6%B9%96&form=hpcapt&filters=HpDate%3a%2220260707_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeAtitlan_JA-JP9857275970_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E9%9D%99%E3%81%91%E3%81%95%E3%81%AB%E3%81%97%E3%81%9A%E3%82%80%E6%B9%96",
+    "createdAt": "2026-07-07T18:16:50.039Z",
+    "updatedAt": "2026-07-07T18:16:50.039Z"
+  },
+  {
     "id": "en-US:2026-07-06:c073d5c1e448e12ddec3b478a970a0ba",
     "region": "en-US",
     "date": "2026-07-06",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20city%20written%20in%20centuries",
     "createdAt": "2026-07-06T18:19:34.705Z",
-    "updatedAt": "2026-07-06T18:19:34.706Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "zh-CN:2026-07-06:5dec9fd9a34fe28d450ef19ba8f0c2ee",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%9E%97%E5%86%A0%E5%8D%8E%E5%BD%A9",
     "createdAt": "2026-07-06T18:19:34.706Z",
-    "updatedAt": "2026-07-06T18:19:34.706Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "ja-JP:2026-07-06:d640a4f963886ca3fbdb19641c1d7c85",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Tanabata2026_JA-JP9678732410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%B8%83%E5%A4%95%E3%81%AE%E4%BC%9D%E7%B5%B1%E8%A1%8C%E4%BA%8B",
     "createdAt": "2026-07-06T18:19:34.706Z",
-    "updatedAt": "2026-07-06T18:19:34.706Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
+  },
+  {
+    "id": "de-DE:2026-07-06:7c9b7238435b45d6b69614f0cb3e8d18",
+    "region": "de-DE",
+    "date": "2026-07-06",
+    "title": "Farbenpracht im Blätterdach",
+    "copyright": "Leistenschnabeltukan mit Orchideen, Ecuador (© Murray Cooper/Minden Pictures)",
+    "copyrightLink": "https://www.bing.com/search?q=Leistenschnabeltukan&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_DE-DE0710570038_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Farbenpracht%20im%20Bl%C3%A4tterdach",
+    "createdAt": "2026-07-07T18:16:50.040Z",
+    "updatedAt": "2026-07-07T18:16:50.040Z"
+  },
+  {
+    "id": "fr-FR:2026-07-06:91336be912df85cd57286309a99c702e",
+    "region": "fr-FR",
+    "date": "2026-07-06",
+    "title": "Un bec pas si plat",
+    "copyright": "Toucan montagnard à bec plat avec des orchidées, Équateur (© Murray Cooper/Minden Pictures)",
+    "copyrightLink": "https://www.bing.com/search?q=toucan+montagnard&form=hpcapt&filters=HpDate%3a%2220260706_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_FR-FR9785340325_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Un%20bec%20pas%20si%20plat",
+    "createdAt": "2026-07-07T18:16:50.040Z",
+    "updatedAt": "2026-07-07T18:16:50.040Z"
   },
   {
     "id": "en-US:2026-07-05:372a8af5db8e7a4c1ed26fd5ebdf9c5c",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Sea%20of%20purple",
     "createdAt": "2026-07-05T17:30:51.908Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "zh-CN:2026-07-05:5fe8048718dd99dd6da2680389dbeff8",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%99%BE%E4%BB%A3%E9%95%8C%E5%88%BB%E4%B9%8B%E5%9F%8E",
     "createdAt": "2026-07-05T17:30:51.908Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "ja-JP:2026-07-05:c9c1e82263a3bb4eb6219f3eab132563",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SyracuseItaly_JA-JP9524720514_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A4%95%E7%84%BC%E3%81%91%E3%81%AB%E6%9F%93%E3%81%BE%E3%82%8B%E6%B5%B7%E3%81%AB%E7%AA%81%E3%81%8D%E5%87%BA%E3%81%9F%E7%9F%B3%E9%80%A0%E8%A6%81%E5%A1%9E",
     "createdAt": "2026-07-05T17:30:51.908Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "de-DE:2026-07-05:afd3929232b8a7700223863c00babd3e",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SyracuseItaly_DE-DE7459831277_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Im%20Licht%20der%20Jahrhunderte",
     "createdAt": "2026-07-06T18:19:34.706Z",
-    "updatedAt": "2026-07-06T18:19:34.706Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "fr-FR:2026-07-05:3d3e735aa9108e589a4dc1fe522f25e1",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SyracuseItaly_FR-FR9604430573_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Des%20si%C3%A8cles%20d%E2%80%99Histoire",
     "createdAt": "2026-07-06T18:19:34.706Z",
-    "updatedAt": "2026-07-06T18:19:34.706Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "en-US:2026-07-04:2305647bd26b9ac3970297aaa8dc4d10",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LibertyHall_EN-US2562041614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20story%20continues",
     "createdAt": "2026-07-04T17:17:11.632Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "zh-CN:2026-07-04:490c9611f01ef2aaa93c8291872d30a4",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%B4%AB%E8%89%B2%E8%8A%B1%E6%B5%B7",
     "createdAt": "2026-07-04T17:17:11.632Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "ja-JP:2026-07-04:9182db6c4601f6da73fb8b367f6bc60a",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%B8%80%E9%9D%A2%E3%81%AB%E5%BA%83%E3%81%8C%E3%82%8B%E7%B4%AB%E8%89%B2%E3%81%AE%E3%83%A9%E3%83%99%E3%83%B3%E3%83%80%E3%83%BC%E7%95%91",
     "createdAt": "2026-07-04T17:17:11.633Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "de-DE:2026-07-04:8e26d949a0a42db2296f82cfa8a4f1a3",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LavenderRows_DE-DE5950929230_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20Meer%20aus%20Lila",
     "createdAt": "2026-07-05T17:30:51.908Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "fr-FR:2026-07-04:41be40c44471f84f7bc53496e278d3b7",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LavenderRows_FR-FR9535531184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Les%20mers%20pourpres",
     "createdAt": "2026-07-05T17:30:51.908Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "en-US:2026-07-03:ed2378c77a79f32b2c4f5565afb8b6a7",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20poetry%20of%20vanishing%20light",
     "createdAt": "2026-07-03T17:44:46.359Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "zh-CN:2026-07-03:4504349c6e8fa14cfd46f887e438f6b0",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%AD%A4%E8%A1%8C%EF%BC%8C%E4%B8%8D%E8%99%9A%E7%BB%95%E9%81%93",
     "createdAt": "2026-07-03T17:44:46.360Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "ja-JP:2026-07-03:e7c6c64bbd8899e2b27e6d6da17da2bd",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%9E%9D%E3%81%AB%E6%AD%A2%E3%81%BE%E3%82%8B%E3%83%A6%E3%83%8B%E3%83%BC%E3%82%AF%E3%81%AA%E3%82%AA%E3%82%AA%E3%83%8F%E3%82%B7",
     "createdAt": "2026-07-03T17:44:46.360Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "de-DE:2026-07-03:0ffd73faa8eeb5a7727e4301b48c5559",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KaysersbergVillage_DE-DE1031882295_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Im%20Herzen%20des%20Elsass",
     "createdAt": "2026-07-04T17:17:11.633Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "fr-FR:2026-07-03:194d9c22392893893a11df2c47bdc8d9",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KaysersbergVillage_FR-FR8479653154_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Faire%20un%20Tour%20au%20village",
     "createdAt": "2026-07-04T17:17:11.633Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "en-US:2026-07-02:916536f37cf8c432a8a6612c47d177ac",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Inside%20Esna's%20sacred%20universe",
     "createdAt": "2026-07-02T18:00:39.966Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "zh-CN:2026-07-02:bc00032bb7f67febb7a74b19bf07b167",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B5%81%E5%85%89%E4%B9%8B%E8%AF%97",
     "createdAt": "2026-07-02T18:00:39.967Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "ja-JP:2026-07-02:b24b470585645cb1659d27cdbbbbb7b3",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BoneyardBeach_JA-JP3339035555_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A4%95%E7%84%BC%E3%81%91%E3%81%AB%E6%9F%93%E3%81%BE%E3%82%8B%E6%B0%B4%E8%BE%BA%E3%81%A8%E6%9E%AF%E3%82%8C%E6%9C%A8",
     "createdAt": "2026-07-02T18:00:39.967Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "de-DE:2026-07-02:6c4d1de547ecd3aa8159e80cf6b4c256",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FirefliesJapan_DE-DE4398668270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Die%20Poesie%20des%20schwindenden%20Lichts",
     "createdAt": "2026-07-03T17:44:46.360Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "fr-FR:2026-07-02:7ce3185a56076df60785fd507449f42b",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FirefliesJapan_FR-FR8593158782_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=La%20f%C3%A9erie%20des%20lucioles",
     "createdAt": "2026-07-03T17:44:46.360Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "en-US:2026-07-01:95865323e32c3d492fbb703f6c35399a",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Canada%2C%20carved%20by%20the%20Atlantic",
     "createdAt": "2026-07-01T18:14:21.103Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "zh-CN:2026-07-01:f65ddd6a84f4c169a15d0c462c0b3498",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%B5%B0%E8%BF%9B%E5%9F%83%E6%96%AF%E7%BA%B3%E7%A5%9E%E5%9C%A3%E7%9A%84%E4%B8%96%E7%95%8C",
     "createdAt": "2026-07-01T18:14:21.103Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "ja-JP:2026-07-01:a7acaa0878d5418566b9b2994f3a4859",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%8F%A4%E4%BB%A3%E7%A5%9E%E6%AE%BF%E3%81%AE%E5%A3%AE%E9%BA%97%E3%81%AA%E5%86%85%E9%83%A8%E7%A9%BA%E9%96%93",
     "createdAt": "2026-07-01T18:14:21.103Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "de-DE:2026-07-01:de8e340c23cbd24df7fea83434242bdc",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TempleEsna_DE-DE2277338406_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20Blick%20in%20Esnas%20Universum",
     "createdAt": "2026-07-02T18:00:39.967Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "fr-FR:2026-07-01:88258a0dbc8b9e34a0de243d53049119",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TempleEsna_FR-FR7122811032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Dans%20l'univers%20sacr%C3%A9%20d'Esna",
     "createdAt": "2026-07-02T18:00:39.967Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "en-US:2026-06-30:0f87e5bbe9a42af9639433e88687fd43",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20shadows%20stretch%20tall",
     "createdAt": "2026-06-30T18:10:42.193Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "zh-CN:2026-06-30:f62b9b3a63257a6066fec82f3c5eef25",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A4%A7%E8%A5%BF%E6%B4%8B%E9%9B%95%E7%90%A2%E8%80%8C%E6%88%90%E7%9A%84%E5%8A%A0%E6%8B%BF%E5%A4%A7",
     "createdAt": "2026-06-30T18:10:42.193Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "ja-JP:2026-06-30:f29b55c728da4b962b32acaa903f185d",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E3%82%AB%E3%83%8A%E3%83%80%E3%81%AE%E6%97%A5",
     "createdAt": "2026-06-30T18:10:42.193Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "de-DE:2026-06-30:7866e38cb7aeebcbdd4e2ea78e02a61e",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Rebh%C3%A4nge%20im%20Abendlicht",
     "createdAt": "2026-07-01T18:14:21.103Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "fr-FR:2026-06-30:f3854863621e90a0c1ce325367dbd5e8",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Le%20Canada%2C%20sculpt%C3%A9%20par%20l'Atlantique",
     "createdAt": "2026-07-01T18:14:21.103Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "en-US:2026-06-29:3c112be0e3ae2e95636c386c7074c66e",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MasaiGiraffe_DE-DE5053384610_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wo%20sich%20die%20Schatten%20in%20die%20L%C3%A4nge%20ziehen",
     "createdAt": "2026-06-30T18:10:42.193Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "fr-FR:2026-06-29:e11d7ccee6a7d2f3f77c0b137077ec6d",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Jouer%20%C3%A0%20l%E2%80%99ombre%20la%20plus%20longue",
     "createdAt": "2026-06-30T18:10:42.193Z",
-    "updatedAt": "2026-07-06T18:19:34.709Z"
+    "updatedAt": "2026-07-07T18:16:50.041Z"
   },
   {
     "id": "en-US:2026-06-28:e5d162121cfb2b5ce71b9998a9db2836",
