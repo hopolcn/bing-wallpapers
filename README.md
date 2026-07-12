@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Where Brittany meets the tide](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A wilder side of Maine](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-07-11
+**日期：** 2026-07-12
 **区域：** en-US
-**描述：** Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)
+**描述：** Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-07-12 | en-US | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-12 | zh-CN | ![](https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-12 | ja-JP | ![](https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-11 | en-US | ![](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-11 | zh-CN | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-11 | ja-JP | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-11 | de-DE | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KatahdinWWNM_DE-DE4221964213_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-11 | fr-FR | ![](https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KatahdinWWNM_FR-FR2337328139_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-10 | en-US | ![](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-10 | zh-CN | ![](https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-10 | ja-JP | ![](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-10 | de-DE | ![](https://www.bing.com/th?id=OHR.AurayBrittany_DE-DE3196003934_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurayBrittany_DE-DE3196003934_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-10 | fr-FR | ![](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurayBrittany_FR-FR2151221761_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-09 | en-US | ![](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-09 | zh-CN | ![](https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
