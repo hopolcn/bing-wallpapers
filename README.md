@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![The reward after the climb](https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A waterfront chameleon](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-07-15
+**日期：** 2026-07-16
 **区域：** en-US
-**描述：** Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)
+**描述：** Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-07-16 | en-US | ![](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-16 | zh-CN | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-16 | ja-JP | ![](https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-15 | en-US | ![](https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-15 | zh-CN | ![](https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-15 | ja-JP | ![](https://www.bing.com/th?id=OHR.NavyPier_JA-JP0160307645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavyPier_JA-JP0160307645_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-15 | de-DE | ![](https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavyPier_DE-DE6672447932_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-15 | fr-FR | ![](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-14 | en-US | ![](https://www.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-14 | zh-CN | ![](https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-14 | ja-JP | ![](https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-14 | de-DE | ![](https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MarieLake_DE-DE6487639165_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-14 | fr-FR | ![](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LemonShark_FR-FR4291742004_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-13 | en-US | ![](https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-13 | zh-CN | ![](https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
