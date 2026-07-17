@@ -1,5 +1,19 @@
 [
   {
+    "id": "ja-JP:2026-07-17:1e1de8411cbd33f2ce6b2bab8e1e6db7",
+    "region": "ja-JP",
+    "date": "2026-07-17",
+    "title": "水面に映る幻想的な石橋",
+    "copyright": "ラコツ橋, ドイツ (© Mike Mareen/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%83%A9%E3%82%B3%E3%83%84%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220260717_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E6%B0%B4%E9%9D%A2%E3%81%AB%E6%98%A0%E3%82%8B%E5%B9%BB%E6%83%B3%E7%9A%84%E3%81%AA%E7%9F%B3%E6%A9%8B",
+    "createdAt": "2026-07-17T17:21:41.057Z",
+    "updatedAt": "2026-07-17T17:21:41.057Z"
+  },
+  {
     "id": "ja-JP:2026-07-16:795c4398e80bf3670572ee12c1208963",
     "region": "ja-JP",
     "date": "2026-07-16",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E7%A5%87%E5%9C%92%E7%A5%AD%E3%80%81%E5%89%8D%E7%A5%AD%E3%81%AE%E5%B1%B1%E9%89%BE%E5%B7%A1%E8%A1%8C",
     "createdAt": "2026-07-16T17:37:45.620Z",
-    "updatedAt": "2026-07-16T17:37:45.620Z"
+    "updatedAt": "2026-07-17T17:21:41.059Z"
   },
   {
     "id": "ja-JP:2026-07-15:00eaa816c6411013b757a9e5997f709f",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NavyPier_JA-JP0160307645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B4%BB%E6%B0%97%E3%81%82%E3%81%B5%E3%82%8C%E3%82%8B%E6%A1%9F%E6%A9%8B%E3%81%AE%E5%A4%9C%E6%99%AF",
     "createdAt": "2026-07-15T17:35:37.271Z",
-    "updatedAt": "2026-07-16T17:37:45.624Z"
+    "updatedAt": "2026-07-17T17:21:41.059Z"
   },
   {
     "id": "ja-JP:2026-07-14:94139723b1d0d0b5bf070cb6b6eba153",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MarieLake_JA-JP9898730602_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%B1%B1%E3%80%85%E3%81%AB%E5%9B%B2%E3%81%BE%E3%82%8C%E3%81%9F%E6%B9%96",
     "createdAt": "2026-07-14T17:32:53.955Z",
-    "updatedAt": "2026-07-16T17:37:45.624Z"
+    "updatedAt": "2026-07-17T17:21:41.059Z"
   },
   {
     "id": "ja-JP:2026-07-13:cedeff0a53b208bc6d59bb49fb8c9ae7",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LemonShark_JA-JP9266528977_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E3%82%B5%E3%83%A1%E5%95%93%E7%99%BA%E3%81%AE%E6%97%A5",
     "createdAt": "2026-07-13T18:04:38.600Z",
-    "updatedAt": "2026-07-16T17:37:45.624Z"
+    "updatedAt": "2026-07-17T17:21:41.059Z"
   },
   {
     "id": "ja-JP:2026-07-12:042a2997e889542ec37f672ae3b1b8a8",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E5%9B%BD%E9%9A%9B%E5%B2%A9%E3%81%AE%E6%97%A5",
     "createdAt": "2026-07-12T17:14:03.137Z",
-    "updatedAt": "2026-07-16T17:37:45.624Z"
+    "updatedAt": "2026-07-17T17:21:41.059Z"
   },
   {
     "id": "ja-JP:2026-07-11:620dbefe02e9518a7409220dc2e1f5c5",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KatahdinWWNM_JA-JP6177719073_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%9D%99%E3%81%8B%E3%81%AA%E6%B1%A0%E3%81%AB%E6%98%A0%E3%82%8B%E9%AC%B1%E8%92%BC%E3%81%A8%E3%81%97%E3%81%9F%E6%A3%AE",
     "createdAt": "2026-07-11T17:12:30.999Z",
-    "updatedAt": "2026-07-16T17:37:45.624Z"
+    "updatedAt": "2026-07-17T17:21:41.059Z"
   },
   {
     "id": "ja-JP:2026-07-10:00daff9f231c180c8948d437ac8a0620",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AurayBrittany_JA-JP5965695214_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B8%AF%E3%81%AB%E5%81%9C%E6%B3%8A%E3%81%99%E3%82%8B%E8%A6%B3%E5%85%89%E8%88%B9",
     "createdAt": "2026-07-10T17:58:42.278Z",
-    "updatedAt": "2026-07-16T17:37:45.624Z"
+    "updatedAt": "2026-07-17T17:21:41.059Z"
   },
   {
     "id": "ja-JP:2026-07-09:71bcd16ec3fc8aab3cae42a191bb2ae0",
