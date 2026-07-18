@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![A Greek escape](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Going full circle](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-07-17
+**日期：** 2026-07-18
 **区域：** en-US
-**描述：** Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)
+**描述：** Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-07-18 | en-US | ![](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-18 | zh-CN | ![](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-18 | ja-JP | ![](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-17 | en-US | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-17 | ja-JP | ![](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-17 | de-DE | ![](https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-17 | fr-FR | ![](https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-16 | en-US | ![](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-16 | zh-CN | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-16 | ja-JP | ![](https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-16 | de-DE | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_DE-DE2887576952_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-16 | fr-FR | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_FR-FR3414218342_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-15 | en-US | ![](https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-15 | zh-CN | ![](https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
