@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Going full circle](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Wings at rest](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-07-18
+**日期：** 2026-07-19
 **区域：** en-US
-**描述：** Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)
+**描述：** Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-07-19 | en-US | ![](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-19 | ja-JP | ![](https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-18 | en-US | ![](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-18 | zh-CN | ![](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-18 | ja-JP | ![](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-18 | de-DE | ![](https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-18 | fr-FR | ![](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-17 | en-US | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-17 | ja-JP | ![](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_JA-JP0713285567_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-17 | de-DE | ![](https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_DE-DE6987454445_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-17 | fr-FR | ![](https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_FR-FR5259113427_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-16 | en-US | ![](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-16 | zh-CN | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
