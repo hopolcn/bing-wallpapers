@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Wings at rest](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![The lunar perspective](https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-07-19
+**日期：** 2026-07-20
 **区域：** en-US
-**描述：** Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)
+**描述：** Moon and Earth captured by the Artemis II crew (© NASA)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-07-20 | en-US | ![](https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-20 | zh-CN | ![](https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-20 | ja-JP | ![](https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-19 | en-US | ![](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-19 | ja-JP | ![](https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-19 | de-DE | ![](https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Artemis_DE-DE7510070152_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-07-19 | fr-FR | ![](https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Artemis_FR-FR5561744161_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-18 | en-US | ![](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-18 | zh-CN | ![](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-18 | ja-JP | ![](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_JA-JP1327555795_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-18 | de-DE | ![](https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_DE-DE7127271974_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-18 | fr-FR | ![](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirundoRustica_FR-FR5403619513_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-17 | en-US | ![](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
