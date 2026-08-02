@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![The power of Kīlauea](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Daughter of the Baltic](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-08-01
+**日期：** 2026-08-02
 **区域：** en-US
-**描述：** A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)
+**描述：** Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-08-02 | en-US | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-02 | ja-JP | ![](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-01 | en-US | ![](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-01 | zh-CN | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-01 | ja-JP | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-01 | de-DE | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-01 | fr-FR | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-31 | en-US | ![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-07-31 | zh-CN | ![](https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-31 | ja-JP | ![](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-31 | de-DE | ![](https://www.bing.com/th?id=OHR.HawaiiLava_DE-DE4111997666_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HawaiiLava_DE-DE4111997666_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-31 | fr-FR | ![](https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-30 | en-US | ![](https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-30 | zh-CN | ![](https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
