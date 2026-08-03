@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Daughter of the Baltic](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Bright boats, timeless traditions](https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-08-02
+**日期：** 2026-08-03
 **区域：** en-US
-**描述：** Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)
+**描述：** Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-08-03 | en-US | ![](https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-03 | ja-JP | ![](https://www.bing.com/th?id=OHR.AdorableOwlet_JA-JP7246946497_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AdorableOwlet_JA-JP7246946497_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-02 | en-US | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoatsMalta_ZH-CN4708255775_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-02 | ja-JP | ![](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-02 | de-DE | ![](https://www.bing.com/th?id=OHR.BoatsMalta_DE-DE5376700732_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoatsMalta_DE-DE5376700732_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-02 | fr-FR | ![](https://www.bing.com/th?id=OHR.BoatsMalta_FR-FR8096449869_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoatsMalta_FR-FR8096449869_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-01 | en-US | ![](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-01 | zh-CN | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-01 | ja-JP | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-01 | de-DE | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_DE-DE4461850043_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-01 | fr-FR | ![](https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HelsinkiBlue_FR-FR8717266334_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-31 | en-US | ![](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-07-31 | zh-CN | ![](https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
