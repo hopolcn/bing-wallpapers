@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-08-11:d8195663d0d0b35e7c3be9e97495d3b5",
+    "region": "en-US",
+    "date": "2026-08-11",
+    "title": "Copenhagen in full color",
+    "copyright": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Nyhavn+Canal+Copenhagen&form=hpcapt&filters=HpDate%3a%2220260811_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Copenhagen%20in%20full%20color",
+    "createdAt": "2026-08-11T17:09:54.924Z",
+    "updatedAt": "2026-08-11T17:09:54.924Z"
+  },
+  {
+    "id": "zh-CN:2026-08-11:705451920efb2a94942739e9b9de2e40",
+    "region": "zh-CN",
+    "date": "2026-08-11",
+    "title": "值得守护的巨兽",
+    "copyright": "安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B1%A1%E6%97%A5&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%80%BC%E5%BE%97%E5%AE%88%E6%8A%A4%E7%9A%84%E5%B7%A8%E5%85%BD",
+    "createdAt": "2026-08-11T17:09:54.925Z",
+    "updatedAt": "2026-08-11T17:09:54.925Z"
+  },
+  {
+    "id": "ja-JP:2026-08-11:7bd6dd17453ba49f0e6d8011edb84823",
+    "region": "ja-JP",
+    "date": "2026-08-11",
+    "title": "今日は世界ゾウの日",
+    "copyright": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E3%82%BE%E3%82%A6%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260811_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E4%B8%96%E7%95%8C%E3%82%BE%E3%82%A6%E3%81%AE%E6%97%A5",
+    "createdAt": "2026-08-11T17:09:54.925Z",
+    "updatedAt": "2026-08-11T17:09:54.925Z"
+  },
+  {
     "id": "en-US:2026-08-10:e00e045320f0337c0e8917bf5ec236f3",
     "region": "en-US",
     "date": "2026-08-10",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20two%20deserts%20collide",
     "createdAt": "2026-08-10T17:05:37.910Z",
-    "updatedAt": "2026-08-10T17:05:37.910Z"
+    "updatedAt": "2026-08-11T17:09:54.926Z"
   },
   {
     "id": "zh-CN:2026-08-10:dcfa2d97f6cd81e7b4065979cd5a8d73",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%BB%9A%E4%B8%BD%E5%A4%9A%E5%BD%A9%E7%9A%84%E5%93%A5%E6%9C%AC%E5%93%88%E6%A0%B9",
     "createdAt": "2026-08-10T17:05:37.910Z",
-    "updatedAt": "2026-08-10T17:05:37.910Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "ja-JP:2026-08-10:650abff228425b2132a1bbcf923422e1",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MountainDay2026_JA-JP4675980762_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E5%B1%B1%E3%81%AE%E6%97%A5",
     "createdAt": "2026-08-10T17:05:37.910Z",
-    "updatedAt": "2026-08-10T17:05:37.910Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
+  },
+  {
+    "id": "de-DE:2026-08-10:ff3aa3c552259ef469f3a31b65a177ea",
+    "region": "de-DE",
+    "date": "2026-08-10",
+    "title": "Kopenhagen in voller Farbe",
+    "copyright": "Bunte Häuser säumen den Nyhavn-Kanal in Kopenhagen, Dänemark (© emicristea/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Nyhavn-Kanal+Kopenhagen&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_DE-DE9077062253_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Kopenhagen%20in%20voller%20Farbe",
+    "createdAt": "2026-08-11T17:09:54.925Z",
+    "updatedAt": "2026-08-11T17:09:54.925Z"
+  },
+  {
+    "id": "fr-FR:2026-08-10:c191b8ea3027399f6dc7c70b472ab324",
+    "region": "fr-FR",
+    "date": "2026-08-10",
+    "title": "Copenhague haute en couleur",
+    "copyright": "Maisons colorées sur les rives du canal Nyhavn, Copenhague, Danemark (© emicristea/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Canal+Nyhavn+Copenhague&form=hpcapt&filters=HpDate%3a%2220260810_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_FR-FR8595384019_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_FR-FR8595384019_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_FR-FR8595384019_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Copenhague%20haute%20en%20couleur",
+    "createdAt": "2026-08-11T17:09:54.925Z",
+    "updatedAt": "2026-08-11T17:09:54.925Z"
   },
   {
     "id": "en-US:2026-08-09:38a7e5354728f289692ef5ccd4c5d322",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architecture%20of%20identity",
     "createdAt": "2026-08-09T16:50:48.246Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.926Z"
   },
   {
     "id": "zh-CN:2026-08-09:b9b17059d70786c24109988b6885a0e6",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%B8%A4%E7%89%87%E6%B2%99%E6%BC%A0%E4%BA%A4%E6%B1%87%E4%B9%8B%E5%9C%B0",
     "createdAt": "2026-08-09T16:50:48.247Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "ja-JP:2026-08-09:bac283010d17eb40bae2904f2e7f81e9",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ColorfulCop_JA-JP4331289983_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%9D%99%E3%81%8B%E3%81%AA%E6%B0%B4%E9%9D%A2%E3%81%AB%E6%98%A0%E3%82%8B%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AA%E8%A1%97%E4%B8%A6%E3%81%BF",
     "createdAt": "2026-08-09T16:50:48.247Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "de-DE:2026-08-09:9c859c3dd8aadde3b4fdbeb7fb2535bb",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SandPath_DE-DE5965414761_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wo%20zwei%20W%C3%BCsten%20aufeinandertreffen",
     "createdAt": "2026-08-10T17:05:37.910Z",
-    "updatedAt": "2026-08-10T17:05:37.910Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "fr-FR:2026-08-09:b5f9d95340618b852310de449802fd44",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SandPath_FR-FR7702357138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20point%20de%20rencontre%20aride",
     "createdAt": "2026-08-10T17:05:37.910Z",
-    "updatedAt": "2026-08-10T17:05:37.910Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "en-US:2026-08-08:da278f1e0606cede9227d19db7668a68",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Crossing%20into%20infinity",
     "createdAt": "2026-08-08T16:49:23.541Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "zh-CN:2026-08-08:989a3bfad9502e5f8318b04220acdb43",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%BA%AB%E4%BB%BD%E8%AE%A4%E5%90%8C%E7%9A%84%E5%BB%BA%E7%AD%91%E8%A1%A8%E8%BE%BE",
     "createdAt": "2026-08-08T16:49:23.541Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "ja-JP:2026-08-08:c2ebb03dd8722aa955b518ffef6ec9ef",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JMTjibaou_JA-JP3637480935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E4%B8%96%E7%95%8C%E3%81%AE%E5%85%88%E4%BD%8F%E6%B0%91%E3%81%AE%E5%9B%BD%E9%9A%9B%E3%83%87%E3%83%BC",
     "createdAt": "2026-08-08T16:49:23.541Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "de-DE:2026-08-08:0b919e9f28a4a946c9d634d973ea7d04",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JMTjibaou_DE-DE7677372250_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architektur%20der%20Identit%C3%A4t",
     "createdAt": "2026-08-09T16:50:48.247Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "fr-FR:2026-08-08:a1eaeac9cea2d58c0cbe509383fc4524",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JMTjibaou_FR-FR6204350565_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Quand%20architecture%20et%20identit%C3%A9%20vont%20de%20pair",
     "createdAt": "2026-08-09T16:50:48.247Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "en-US:2026-08-07:5becc77210847ca229d4f45832cf3205",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Guiding%20ships%20through%20history",
     "createdAt": "2026-08-07T17:04:29.148Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "zh-CN:2026-08-07:5a41c3c666cdf4a74055fa03598ad720",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%BF%88%E5%90%91%E6%97%A0%E9%99%90",
     "createdAt": "2026-08-07T17:04:29.148Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "ja-JP:2026-08-07:6fafb6119594a81f90952e7248218bc7",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.StocktonInfinity_JA-JP6357248728_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E7%84%A1%E9%99%90%E5%A4%A7%E3%81%AE%E6%97%A5",
     "createdAt": "2026-08-07T17:04:29.149Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "de-DE:2026-08-07:ff535d95b0153e13c97c64aecf600c01",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Feuerzauber%20%C3%BCber%20dem%20Rhein",
     "createdAt": "2026-08-08T16:49:23.541Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "fr-FR:2026-08-07:2725cf553a1538b37943b68c518b0233",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ClothesBarjols_FR-FR4425384248_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%E2%80%99art%20de%20prendre%20le%20temps",
     "createdAt": "2026-08-08T16:49:23.541Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "en-US:2026-08-06:3021ee47f0fca34f0ea1888abc1b26e3",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20the%20river%20tests%20the%20brave",
     "createdAt": "2026-08-07T17:04:29.148Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "zh-CN:2026-08-06:99bd355f271fd0ae62035f00be99de98",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%8C%87%E5%BC%95%E8%88%B9%E5%8F%AA%E7%A9%BF%E8%B6%8A%E5%8E%86%E5%8F%B2",
     "createdAt": "2026-08-07T17:04:29.148Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "ja-JP:2026-08-06:7ea2a7b8799f228f40a16ff9ed96ce89",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LimeKiln_JA-JP2506397292_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E7%B1%B3%E5%9B%BD%E7%81%AF%E5%8F%B0%E3%81%AE%E6%97%A5",
     "createdAt": "2026-08-07T17:04:29.149Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "de-DE:2026-08-06:de05c5206e0c99361cce6004a9706cc6",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LimeKiln_DE-DE5407156308_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Schiffe%20durch%20die%20Geschichte%20f%C3%BChren",
     "createdAt": "2026-08-07T17:04:29.149Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "fr-FR:2026-08-06:219018e5f8c036e318640e714e4471b2",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_FR-FR4291809013_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Trac%C3%A9%20pour%20la%20nature",
     "createdAt": "2026-08-07T17:04:29.149Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "en-US:2026-08-05:dbeaddd1fa5a57a6f527e8614280095b",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Gates%20of%20a%20hidden%20kingdom",
     "createdAt": "2026-08-05T17:51:59.623Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "zh-CN:2026-08-05:1ca04759f20874cbd7d3dcd91be4b3a8",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%94%9F%E6%AD%BB%E6%B8%A1%E5%8F%A3%EF%BC%8C%E5%8B%87%E8%80%85%E7%9A%84%E5%8F%B2%E8%AF%97",
     "createdAt": "2026-08-05T17:51:59.623Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "ja-JP:2026-08-05:0d6c4f7e690339c5b5c19cbc1f8ddfba",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E5%BA%83%E5%B3%B6%E5%B9%B3%E5%92%8C%E8%A8%98%E5%BF%B5%E6%97%A5",
     "createdAt": "2026-08-05T17:51:59.623Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "de-DE:2026-08-05:ef7f2eba75d1c7ba89f0e7d4afecde24",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MaraCrossing_DE-DE5747320047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Mutprobe%20am%20Fluss",
     "createdAt": "2026-08-07T17:04:29.149Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "fr-FR:2026-08-05:7bacb16f7f1aee30baa2bdf31f828b84",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MaraCrossing_FR-FR8762325537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=La%20travers%C3%A9e%20du%20courage",
     "createdAt": "2026-08-07T17:04:29.149Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "en-US:2026-08-04:8dc72420c66f1d5613cfceb68472a470",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Hoot%20hoot%20hooray!",
     "createdAt": "2026-08-04T18:01:15.574Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "zh-CN:2026-08-04:2650e556e305b7ed29572d4cfc73108d",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%A7%98%E5%A2%83%E4%B9%8B%E9%97%A8%EF%BC%8C%E5%8C%A0%E5%BF%83%E4%BC%A0%E4%B8%96",
     "createdAt": "2026-08-04T18:01:15.574Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "ja-JP:2026-08-04:2dac29051b6c6af2bbcaaea8270a1a3e",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FezMorocco_JA-JP7567982886_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%AE%AE%E6%AE%BF%E3%81%AE%E9%96%80",
     "createdAt": "2026-08-04T18:01:15.574Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "de-DE:2026-08-04:ce1ee4039a6176daf23ab099e9c238a6",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FezMorocco_DE-DE5645521719_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Tore%20eines%20verborgenen%20K%C3%B6nigreichs",
     "createdAt": "2026-08-05T17:51:59.623Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "fr-FR:2026-08-04:263c591c89edae45210292a74a009819",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FezMorocco_FR-FR8577168535_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Les%20portes%20d'un%20royaume%20cach%C3%A9",
     "createdAt": "2026-08-05T17:51:59.623Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "en-US:2026-08-03:68f6518dacb9504483f62d65334f7230",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AdorableOwlet_DE-DE5484057022_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Neugierig%20und%20aufmerksam",
     "createdAt": "2026-08-04T18:01:15.574Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "fr-FR:2026-08-03:74c9fe0528a7d28da3057d104a7d1830",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AdorableOwlet_FR-FR9479841561_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Quelle%20chouette%20journ%C3%A9e",
     "createdAt": "2026-08-04T18:01:15.574Z",
-    "updatedAt": "2026-08-10T17:05:37.914Z"
+    "updatedAt": "2026-08-11T17:09:54.927Z"
   },
   {
     "id": "en-US:2026-08-02:3133831c76a058051ed0273b6f51b1fa",
