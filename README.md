@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![A prime 'reef' estate](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Geometry of a star city](https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-08-17
+**日期：** 2026-08-18
 **区域：** en-US
-**描述：** Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)
+**描述：** Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-08-18 | en-US | ![](https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-18 | zh-CN | ![](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-18 | ja-JP | ![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-17 | en-US | ![](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-17 | ja-JP | ![](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-17 | de-DE | ![](https://www.bing.com/th?id=OHR.Palmanova_DE-DE7108374282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Palmanova_DE-DE7108374282_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-17 | fr-FR | ![](https://www.bing.com/th?id=OHR.Palmanova_FR-FR7049551960_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Palmanova_FR-FR7049551960_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-16 | en-US | ![](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-16 | zh-CN | ![](https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-16 | ja-JP | ![](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-16 | de-DE | ![](https://www.bing.com/th?id=OHR.CabilaoClowns_DE-DE7285791368_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CabilaoClowns_DE-DE7285791368_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-16 | fr-FR | ![](https://www.bing.com/th?id=OHR.CabilaoClowns_FR-FR3714615654_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CabilaoClowns_FR-FR3714615654_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-15 | en-US | ![](https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-15 | zh-CN | ![](https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
