@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Testing the future of flight](https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Voices of the pod](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-08-19
+**日期：** 2026-08-20
 **区域：** en-US
-**描述：** NASA's Langley Research Center mounted the Navy's Brewster XF2A-1 Buffalo in the Full-Scale Tunnel, 1938, Hampton, Virginia (© NASA)
+**描述：** An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska (© John Hyde/Alamy)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-08-20 | en-US | ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-20 | zh-CN | ![](https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-20 | ja-JP | ![](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JulierPass_JA-JP8487146662_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-19 | en-US | ![](https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-19 | ja-JP | ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LynnCanalOrca_JA-JP7810665550_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-19 | de-DE | ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LynnCanalOrca_DE-DE7566722719_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-19 | fr-FR | ![](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LynnCanalOrca_FR-FR3710534707_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-18 | en-US | ![](https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-18 | zh-CN | ![](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-18 | ja-JP | ![](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-18 | de-DE | ![](https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WhyteCliffP_DE-DE7763456664_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-18 | fr-FR | ![](https://www.bing.com/th?id=OHR.WhyteCliffP_FR-FR1858775924_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WhyteCliffP_FR-FR1858775924_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-17 | en-US | ![](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
