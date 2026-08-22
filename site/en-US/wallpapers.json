@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-08-22:319cc64d615dbcda2bb894957a74c840",
+    "region": "en-US",
+    "date": "2026-08-22",
+    "title": "Sky tinted wings",
+    "copyright": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)",
+    "copyrightLink": "https://www.bing.com/search?q=Common+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220260822_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Sky%20tinted%20wings",
+    "createdAt": "2026-08-22T16:37:23.292Z",
+    "updatedAt": "2026-08-22T16:37:23.292Z"
+  },
+  {
     "id": "en-US:2026-08-21:459542aadbfb9d8f326d1d697dd9b873",
     "region": "en-US",
     "date": "2026-08-21",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20climb%20is%20calling",
     "createdAt": "2026-08-21T16:48:52.339Z",
-    "updatedAt": "2026-08-21T16:48:52.339Z"
+    "updatedAt": "2026-08-22T16:37:23.294Z"
   },
   {
     "id": "en-US:2026-08-20:b09a98b870e7818f122b90fed32eff23",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Voices%20of%20the%20pod",
     "createdAt": "2026-08-20T16:48:30.309Z",
-    "updatedAt": "2026-08-21T16:48:52.343Z"
+    "updatedAt": "2026-08-22T16:37:23.294Z"
   },
   {
     "id": "en-US:2026-08-19:3155ca8d080ceaa87af51ddcbddcfe92",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Testing%20the%20future%20of%20flight",
     "createdAt": "2026-08-19T16:44:11.931Z",
-    "updatedAt": "2026-08-21T16:48:52.343Z"
+    "updatedAt": "2026-08-22T16:37:23.294Z"
   },
   {
     "id": "en-US:2026-08-18:ebbc1e2cdd8b410d04f6544da8abaa59",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Geometry%20of%20a%20star%20city",
     "createdAt": "2026-08-18T16:46:10.794Z",
-    "updatedAt": "2026-08-21T16:48:52.343Z"
+    "updatedAt": "2026-08-22T16:37:23.294Z"
   },
   {
     "id": "en-US:2026-08-17:a3c280a916e348c38e52675fc1cdcd5a",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20prime%20'reef'%20estate",
     "createdAt": "2026-08-17T16:42:31.488Z",
-    "updatedAt": "2026-08-21T16:48:52.343Z"
+    "updatedAt": "2026-08-22T16:37:23.294Z"
   },
   {
     "id": "en-US:2026-08-16:ed8ec5d1b07e4e18b8af0cf6615a159c",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20swans%20started%20a%20legend",
     "createdAt": "2026-08-16T16:39:27.425Z",
-    "updatedAt": "2026-08-21T16:48:52.343Z"
+    "updatedAt": "2026-08-22T16:37:23.294Z"
   },
   {
     "id": "en-US:2026-08-15:0c6e30e6789f750ea9ed359854e42db3",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20great%20balancing%20act",
     "createdAt": "2026-08-15T16:37:34.648Z",
-    "updatedAt": "2026-08-21T16:48:52.343Z"
+    "updatedAt": "2026-08-22T16:37:23.294Z"
   },
   {
     "id": "en-US:2026-08-14:474e939e4a8875d508e45a2ee8ef4b9b",
