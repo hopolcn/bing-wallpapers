@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-08-26:806c63a18af632077729d1e3ebd7e99c",
+    "region": "en-US",
+    "date": "2026-08-26",
+    "title": "A sky alive with color",
+    "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)",
+    "copyrightLink": "https://www.bing.com/search?q=Aurora+borealis&form=hpcapt&filters=HpDate%3a%2220260826_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=A%20sky%20alive%20with%20color",
+    "createdAt": "2026-08-26T16:56:47.142Z",
+    "updatedAt": "2026-08-26T16:56:47.142Z"
+  },
+  {
     "id": "en-US:2026-08-25:20024898d303f86c2fdebb478a0c8456",
     "region": "en-US",
     "date": "2026-08-25",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Protecting%20America's%20treasures",
     "createdAt": "2026-08-25T16:52:20.112Z",
-    "updatedAt": "2026-08-25T16:52:20.112Z"
+    "updatedAt": "2026-08-26T16:56:47.145Z"
   },
   {
     "id": "en-US:2026-08-24:73490870983d7cdfc6c8d49e2ffde93f",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Crossing%20into%20history",
     "createdAt": "2026-08-24T16:52:46.037Z",
-    "updatedAt": "2026-08-25T16:52:20.115Z"
+    "updatedAt": "2026-08-26T16:56:47.145Z"
   },
   {
     "id": "en-US:2026-08-23:a097886cd9f27d3d492bcbed7ffff4db",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Meet%20Katmai's%20fishing%20giants",
     "createdAt": "2026-08-23T16:39:42.973Z",
-    "updatedAt": "2026-08-25T16:52:20.115Z"
+    "updatedAt": "2026-08-26T16:56:47.145Z"
   },
   {
     "id": "en-US:2026-08-22:319cc64d615dbcda2bb894957a74c840",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Sky%20tinted%20wings",
     "createdAt": "2026-08-22T16:37:23.292Z",
-    "updatedAt": "2026-08-25T16:52:20.115Z"
+    "updatedAt": "2026-08-26T16:56:47.145Z"
   },
   {
     "id": "en-US:2026-08-21:459542aadbfb9d8f326d1d697dd9b873",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JulierPass_EN-US2643379571_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20climb%20is%20calling",
     "createdAt": "2026-08-21T16:48:52.339Z",
-    "updatedAt": "2026-08-25T16:52:20.115Z"
+    "updatedAt": "2026-08-26T16:56:47.145Z"
   },
   {
     "id": "en-US:2026-08-20:b09a98b870e7818f122b90fed32eff23",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-US0537229184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Voices%20of%20the%20pod",
     "createdAt": "2026-08-20T16:48:30.309Z",
-    "updatedAt": "2026-08-25T16:52:20.115Z"
+    "updatedAt": "2026-08-26T16:56:47.145Z"
   },
   {
     "id": "en-US:2026-08-19:3155ca8d080ceaa87af51ddcbddcfe92",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BrewsterXF2A_EN-US0417477370_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Testing%20the%20future%20of%20flight",
     "createdAt": "2026-08-19T16:44:11.931Z",
-    "updatedAt": "2026-08-25T16:52:20.115Z"
+    "updatedAt": "2026-08-26T16:56:47.145Z"
   },
   {
     "id": "en-US:2026-08-18:ebbc1e2cdd8b410d04f6544da8abaa59",

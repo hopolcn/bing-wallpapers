@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Protecting America's treasures](https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A sky alive with color](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-08-25
+**日期：** 2026-08-26
 **区域：** en-US
-**描述：** Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)
+**描述：** Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-08-26 | en-US | ![](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurorasIceland_EN-US3293282785_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-26 | zh-CN | ![](https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-26 | ja-JP | ![](https://www.bing.com/th?id=OHR.LakeMagadi_JA-JP0125683063_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LakeMagadi_JA-JP0125683063_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-25 | en-US | ![](https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-25 | zh-CN | ![](https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-25 | ja-JP | ![](https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurorasIceland_JA-JP9970815507_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-25 | de-DE | ![](https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurorasIceland_DE-DE5182720309_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-25 | fr-FR | ![](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AurorasIceland_FR-FR6287537082_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-24 | en-US | ![](https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-24 | zh-CN | ![](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-24 | ja-JP | ![](https://www.bing.com/th?id=OHR.RedwoodPark_JA-JP9805095528_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedwoodPark_JA-JP9805095528_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-24 | de-DE | ![](https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-24 | fr-FR | ![](https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-23 | en-US | ![](https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-23 | zh-CN | ![](https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
