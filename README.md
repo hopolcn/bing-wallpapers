@@ -4,16 +4,19 @@
 
 ## 今日壁纸
 
-[![Where tides shape a legend](https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Reading between the waves](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-08-28
+**日期：** 2026-08-29
 **区域：** en-US
-**描述：** Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)
+**描述：** Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-08-29 | en-US | ![](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-29 | zh-CN | ![](https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-29 | ja-JP | ![](https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-28 | en-US | ![](https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-28 | zh-CN | ![](https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-28 | ja-JP | ![](https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
@@ -21,9 +24,6 @@
 | 2026-08-28 | fr-FR | ![](https://www.bing.com/th?id=OHR.SantaCatarina_FR-FR8615743181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SantaCatarina_FR-FR8615743181_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-27 | en-US | ![](https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-27 | zh-CN | ![](https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-27 | ja-JP | ![](https://www.bing.com/th?id=OHR.MichelSunset_JA-JP0274204340_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MichelSunset_JA-JP0274204340_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-27 | de-DE | ![](https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-27 | fr-FR | ![](https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
