@@ -4,31 +4,31 @@
 
 ## 今日壁纸
 
-[![A master class in pattern](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A world beneath your feet](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-08-31
+**日期：** 2026-09-01
 **区域：** en-US
-**描述：** Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)
+**描述：** Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-01 | en-US | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-01 | zh-CN | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-01 | ja-JP | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-31 | en-US | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-31 | zh-CN | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-31 | ja-JP | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-31 | de-DE | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-08-31 | fr-FR | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-30 | en-US | ![](https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-30 | zh-CN | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-30 | ja-JP | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-30 | de-DE | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-30 | fr-FR | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-29 | en-US | ![](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-29 | zh-CN | ![](https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
 - 支持区域：de-DE, en-US, fr-FR, ja-JP, zh-CN
-- 归档月份数：4
+- 归档月份数：5
 - 数据来源：Bing 每日壁纸
 
 ## 许可证

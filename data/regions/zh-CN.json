@@ -1,5 +1,19 @@
 [
   {
+    "id": "zh-CN:2026-09-01:4c30a579696ff056c05f3de37c4b9b49",
+    "region": "zh-CN",
+    "date": "2026-09-01",
+    "title": "海岸边的缤纷色彩",
+    "copyright": "传统海滩小屋，索思沃尔德，萨福克遗产海岸，英格兰 (© stevendocwra/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E8%90%A8%E7%A6%8F%E5%85%8B%E9%83%A1%E7%B4%A2%E6%96%AF%E6%B2%83%E5%B0%94%E5%BE%B7&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E6%B5%B7%E5%B2%B8%E8%BE%B9%E7%9A%84%E7%BC%A4%E7%BA%B7%E8%89%B2%E5%BD%A9",
+    "createdAt": "2026-09-01T19:22:11.229Z",
+    "updatedAt": "2026-09-01T19:22:11.229Z"
+  },
+  {
     "id": "zh-CN:2026-08-31:80bd16afd680a7243bea59f86ad765c4",
     "region": "zh-CN",
     "date": "2026-08-31",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%84%9A%E4%B8%8B%E7%9A%84%E4%B8%96%E7%95%8C",
     "createdAt": "2026-08-31T21:27:24.093Z",
-    "updatedAt": "2026-08-31T21:27:24.093Z"
+    "updatedAt": "2026-09-01T19:22:11.232Z"
   },
   {
     "id": "zh-CN:2026-08-30:13b00f4b5c95c67b066596d1da1d0c9f",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%9B%BE%E6%A1%88%E8%89%BA%E6%9C%AF%E7%9A%84%E5%85%B8%E8%8C%83",
     "createdAt": "2026-08-30T19:17:56.351Z",
-    "updatedAt": "2026-08-31T21:27:24.096Z"
+    "updatedAt": "2026-09-01T19:22:11.232Z"
   },
   {
     "id": "zh-CN:2026-08-29:ccb35d1526f0f4922e8ff8b453e68f4a",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%90%8D%E4%B8%BA%E9%B2%A8%E9%B1%BC%E7%9A%84%E5%B7%A8%E5%9E%8B%E9%B1%BC%E7%B1%BB",
     "createdAt": "2026-08-29T19:23:01.238Z",
-    "updatedAt": "2026-08-31T21:27:24.096Z"
+    "updatedAt": "2026-09-01T19:22:11.232Z"
   },
   {
     "id": "zh-CN:2026-08-28:871d8e1084e913759131033b33852883",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%AF%BB%E6%87%82%E6%B5%AA%E6%B6%9B%E4%B9%8B%E9%97%B4%E7%9A%84%E8%AE%AF%E6%81%AF",
     "createdAt": "2026-08-29T00:32:32.353Z",
-    "updatedAt": "2026-08-31T21:27:24.096Z"
+    "updatedAt": "2026-09-01T19:22:11.232Z"
   },
   {
     "id": "zh-CN:2026-08-27:7aa5a23b456f86a7fb6822722a7aea1d",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%BD%AE%E6%B1%90%E5%A1%91%E9%80%A0%E7%9A%84%E4%BC%A0%E5%A5%87",
     "createdAt": "2026-08-28T00:51:14.885Z",
-    "updatedAt": "2026-08-31T21:27:24.096Z"
+    "updatedAt": "2026-09-01T19:22:11.232Z"
   },
   {
     "id": "zh-CN:2026-08-26:10d60cf76cca639372535997c3c54ddf",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B9%96%E6%B0%B4%E3%80%81%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E4%B8%8E%E5%A5%87%E6%99%AF",
     "createdAt": "2026-08-26T16:56:47.142Z",
-    "updatedAt": "2026-08-31T21:27:24.096Z"
+    "updatedAt": "2026-09-01T19:22:11.232Z"
   },
   {
     "id": "zh-CN:2026-08-25:3b620c7399820c5bdb0a11f6100d3ebe",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B5%81%E5%85%89%E6%BA%A2%E5%BD%A9%E7%9A%84%E5%A4%A9%E7%A9%BA",
     "createdAt": "2026-08-25T16:52:20.112Z",
-    "updatedAt": "2026-08-31T21:27:24.096Z"
+    "updatedAt": "2026-09-01T19:22:11.232Z"
   },
   {
     "id": "zh-CN:2026-08-24:5695a0157a92fd7388c87fc97da7d3e1",
