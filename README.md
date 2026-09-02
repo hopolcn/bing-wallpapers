@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![A world beneath your feet](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Painted along the shore](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-09-01
+**日期：** 2026-09-02
 **区域：** en-US
-**描述：** Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)
+**描述：** Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-02 | en-US | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-02 | ja-JP | ![](https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-01 | en-US | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-01 | zh-CN | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-01 | ja-JP | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-01 | de-DE | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-01 | fr-FR | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-31 | en-US | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-08-31 | zh-CN | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-31 | ja-JP | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-31 | de-DE | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-31 | fr-FR | ![](https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-30 | en-US | ![](https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-08-30 | zh-CN | ![](https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
