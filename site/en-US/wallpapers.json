@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-09-03:293dfaa334b21acfa31c774a85f79534",
+    "region": "en-US",
+    "date": "2026-09-03",
+    "title": "An act of wilderness",
+    "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Wilderness+Act+of+1964&form=hpcapt&filters=HpDate%3a%2220260903_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=An%20act%20of%20wilderness",
+    "createdAt": "2026-09-03T19:16:37.501Z",
+    "updatedAt": "2026-09-03T19:16:37.501Z"
+  },
+  {
     "id": "en-US:2026-09-02:7a260c2728bf9356dba2e1678b6f4e1c",
     "region": "en-US",
     "date": "2026-09-02",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Painted%20along%20the%20shore",
     "createdAt": "2026-09-02T19:21:59.389Z",
-    "updatedAt": "2026-09-02T19:21:59.389Z"
+    "updatedAt": "2026-09-03T19:16:37.507Z"
   },
   {
     "id": "en-US:2026-09-01:8b1d99a3414c36b988e4a7c66b5874b5",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20world%20beneath%20your%20feet",
     "createdAt": "2026-09-01T19:22:11.229Z",
-    "updatedAt": "2026-09-02T19:21:59.392Z"
+    "updatedAt": "2026-09-03T19:16:37.507Z"
   },
   {
     "id": "en-US:2026-08-31:189d7da80debbe586470e96d07b3eeef",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20master%20class%20in%20pattern",
     "createdAt": "2026-08-31T21:27:24.093Z",
-    "updatedAt": "2026-09-02T19:21:59.392Z"
+    "updatedAt": "2026-09-03T19:16:37.507Z"
   },
   {
     "id": "en-US:2026-08-30:1e986811b9c57d4d7eb44b49f52012dc",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20fish%20that%20outgrew%20its%20name",
     "createdAt": "2026-08-30T19:17:56.351Z",
-    "updatedAt": "2026-09-02T19:21:59.392Z"
+    "updatedAt": "2026-09-03T19:16:37.507Z"
   },
   {
     "id": "en-US:2026-08-29:c813e0fa454fb807b791501b8929aa43",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Reading%20between%20the%20waves",
     "createdAt": "2026-08-29T19:23:01.237Z",
-    "updatedAt": "2026-09-02T19:21:59.392Z"
+    "updatedAt": "2026-09-03T19:16:37.507Z"
   },
   {
     "id": "en-US:2026-08-28:a20e6451f44459682881cd59f0b198e0",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20tides%20shape%20a%20legend",
     "createdAt": "2026-08-29T00:32:32.352Z",
-    "updatedAt": "2026-09-02T19:21:59.392Z"
+    "updatedAt": "2026-09-03T19:16:37.507Z"
   },
   {
     "id": "en-US:2026-08-27:5da81fe9acc758a9beafb035dab00d8b",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Water%2C%20wildlife%2C%20and%20wonder",
     "createdAt": "2026-08-28T00:51:14.884Z",
-    "updatedAt": "2026-09-02T19:21:59.392Z"
+    "updatedAt": "2026-09-03T19:16:37.507Z"
   },
   {
     "id": "en-US:2026-08-26:806c63a18af632077729d1e3ebd7e99c",
