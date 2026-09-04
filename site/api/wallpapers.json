@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-09-04:a284aa81817c751a96023c6b1dc6fa31",
+    "region": "en-US",
+    "date": "2026-09-04",
+    "title": "Red and white on the horizon",
+    "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Westerheversand+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260904_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Red%20and%20white%20on%20the%20horizon",
+    "createdAt": "2026-09-04T18:58:39.299Z",
+    "updatedAt": "2026-09-04T18:58:39.299Z"
+  },
+  {
+    "id": "zh-CN:2026-09-04:1b023726072d70d58ee0d8ed6eb7a984",
+    "region": "zh-CN",
+    "date": "2026-09-04",
+    "title": "小小鸟儿，巨大影响",
+    "copyright": "龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%85%A8%E5%9B%BD%E8%9C%82%E9%B8%9F%E6%97%A5&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%B0%8F%E5%B0%8F%E9%B8%9F%E5%84%BF%EF%BC%8C%E5%B7%A8%E5%A4%A7%E5%BD%B1%E5%93%8D",
+    "createdAt": "2026-09-04T18:58:39.299Z",
+    "updatedAt": "2026-09-04T18:58:39.299Z"
+  },
+  {
+    "id": "ja-JP:2026-09-04:49fea897232f154e6b6d88aa237b0e8b",
+    "region": "ja-JP",
+    "date": "2026-09-04",
+    "title": "今日は米国のハチドリの日",
+    "copyright": "ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%83%8F%E3%83%81%E3%83%89%E3%83%AA%E3%81%AE%E6%97%A5&form=hpcapt&filters=HpDate%3a%2220260904_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%83%8F%E3%83%81%E3%83%89%E3%83%AA%E3%81%AE%E6%97%A5",
+    "createdAt": "2026-09-04T18:58:39.299Z",
+    "updatedAt": "2026-09-04T18:58:39.299Z"
+  },
+  {
     "id": "en-US:2026-09-03:293dfaa334b21acfa31c774a85f79534",
     "region": "en-US",
     "date": "2026-09-03",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=An%20act%20of%20wilderness",
     "createdAt": "2026-09-03T19:16:37.501Z",
-    "updatedAt": "2026-09-03T19:16:37.501Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "zh-CN:2026-09-03:cb2031c3d38d3ae2d3a20b103d18f191",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%9C%B0%E5%B9%B3%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%BA%A2%E4%B8%8E%E7%99%BD",
     "createdAt": "2026-09-03T19:16:37.501Z",
-    "updatedAt": "2026-09-03T19:16:37.501Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "ja-JP:2026-09-03:bb9b13dc556e990229e69d8a3b4c6b39",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%8D%89%E5%8E%9F%E3%81%AE%E5%85%88%E3%81%AB%E3%81%9F%E3%81%9F%E3%81%9A%E3%82%80%E7%81%AF%E5%8F%B0",
     "createdAt": "2026-09-03T19:16:37.501Z",
-    "updatedAt": "2026-09-03T19:16:37.501Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
+  },
+  {
+    "id": "de-DE:2026-09-03:494b70ed4cfb0c0d95e3712992dc48d0",
+    "region": "de-DE",
+    "date": "2026-09-03",
+    "title": "Bögen zum Horizont",
+    "copyright": "Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Horizontobservatorium+Halde+Hoheward&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=B%C3%B6gen%20zum%20Horizont",
+    "createdAt": "2026-09-04T18:58:39.299Z",
+    "updatedAt": "2026-09-04T18:58:39.299Z"
+  },
+  {
+    "id": "fr-FR:2026-09-03:b3c04a92127322cbc82dec521847e814",
+    "region": "fr-FR",
+    "date": "2026-09-03",
+    "title": "Rouge et blanc à l’horizon",
+    "copyright": "Phare de Westerheversand à Westerhever, Schleswig-Holstein, Allemagne (© bluejayphoto/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=phare+de+Westerheversand+Allemagne&form=hpcapt&filters=HpDate%3a%2220260903_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Rouge%20et%20blanc%20%C3%A0%20l%E2%80%99horizon",
+    "createdAt": "2026-09-04T18:58:39.299Z",
+    "updatedAt": "2026-09-04T18:58:39.299Z"
   },
   {
     "id": "en-US:2026-09-02:7a260c2728bf9356dba2e1678b6f4e1c",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Painted%20along%20the%20shore",
     "createdAt": "2026-09-02T19:21:59.389Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "zh-CN:2026-09-02:5cb4a97f01d7c77a6be4b06bf1cd6f14",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%B8%80%E9%83%A8%E5%AE%88%E6%8A%A4%E8%8D%92%E9%87%8E%E7%9A%84%E6%B3%95%E6%A1%88",
     "createdAt": "2026-09-02T19:21:59.389Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "ja-JP:2026-09-02:ea7caca1406d74113a6ef116d63c1526",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AZWilderness_JA-JP3309055326_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E7%B1%B3%E5%9B%BD%E5%8E%9F%E7%94%9F%E8%87%AA%E7%84%B6%E6%B3%95%E5%88%B6%E5%AE%9A%E3%81%AE%E8%A8%98%E5%BF%B5%E6%97%A5",
     "createdAt": "2026-09-02T19:21:59.389Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "de-DE:2026-09-02:124ba9adf4cf43081f38439180427b72",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Frankfurts%20historische%20Mitte",
     "createdAt": "2026-09-03T19:16:37.501Z",
-    "updatedAt": "2026-09-03T19:16:37.501Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "fr-FR:2026-09-02:2dc8dbf4e7a259001b8e88cc172956eb",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AZWilderness_FR-FR4389464671_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Une%20mer%20de%20gr%C3%A8s",
     "createdAt": "2026-09-03T19:16:37.501Z",
-    "updatedAt": "2026-09-03T19:16:37.501Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "en-US:2026-09-01:8b1d99a3414c36b988e4a7c66b5874b5",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20world%20beneath%20your%20feet",
     "createdAt": "2026-09-01T19:22:11.229Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "zh-CN:2026-09-01:4c30a579696ff056c05f3de37c4b9b49",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_ZH-CN2463818981_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B5%B7%E5%B2%B8%E8%BE%B9%E7%9A%84%E7%BC%A4%E7%BA%B7%E8%89%B2%E5%BD%A9",
     "createdAt": "2026-09-01T19:22:11.229Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "ja-JP:2026-09-01:21453c4a4db4977e1c0f83cf77ecf442",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_JA-JP3115171778_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B5%B7%E5%B2%B8%E3%81%AB%E4%B8%A6%E3%81%B6%E3%82%AB%E3%83%A9%E3%83%95%E3%83%AB%E3%81%AA%E5%B0%8F%E5%B1%8B",
     "createdAt": "2026-09-01T19:22:11.229Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "de-DE:2026-09-01:87ee4fc2eaedbc1af27a5824133a640d",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_DE-DE8043107896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Farbenfroh%20an%20der%20K%C3%BCste",
     "createdAt": "2026-09-02T19:21:59.389Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "fr-FR:2026-09-01:459a98bdff0400c6bde39c634c64bc49",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Une%20touche%20de%20couleur%20iod%C3%A9e",
     "createdAt": "2026-09-02T19:21:59.389Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "en-US:2026-08-31:189d7da80debbe586470e96d07b3eeef",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20master%20class%20in%20pattern",
     "createdAt": "2026-08-31T21:27:24.093Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "zh-CN:2026-08-31:80bd16afd680a7243bea59f86ad765c4",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%84%9A%E4%B8%8B%E7%9A%84%E4%B8%96%E7%95%8C",
     "createdAt": "2026-08-31T21:27:24.093Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "ja-JP:2026-08-31:77ff8b3ed94a5633159bc62a962121f4",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_JA-JP2550807968_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=9%20%E6%9C%88%E3%81%AF%E7%B1%B3%E5%9B%BD%E3%81%AE%E3%82%AD%E3%83%8E%E3%82%B3%E6%9C%88%E9%96%93",
     "createdAt": "2026-08-31T21:27:24.093Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "de-DE:2026-08-31:6bd15f3a1c1e2e792051f2898d313b05",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Die%20verborgene%20Welt%20der%20Pilze",
     "createdAt": "2026-09-01T19:22:11.229Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "fr-FR:2026-08-31:5205a59cd37c481644a8d90d7a5b94f4",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20monde%20entier%20sous%20nos%20pieds",
     "createdAt": "2026-09-01T19:22:11.229Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "en-US:2026-08-30:1e986811b9c57d4d7eb44b49f52012dc",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20fish%20that%20outgrew%20its%20name",
     "createdAt": "2026-08-30T19:17:56.351Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "zh-CN:2026-08-30:13b00f4b5c95c67b066596d1da1d0c9f",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%9B%BE%E6%A1%88%E8%89%BA%E6%9C%AF%E7%9A%84%E5%85%B8%E8%8C%83",
     "createdAt": "2026-08-30T19:17:56.351Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "ja-JP:2026-08-30:64bf4e518df0cb18c4ec91f82dbcc0a6",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SamarkandCeiling_JA-JP0717876578_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%B2%BE%E7%B7%BB%E3%81%AA%E5%B9%BE%E4%BD%95%E5%AD%A6%E6%A8%A1%E6%A7%98%E3%81%8C%E5%BD%A9%E3%82%8B%E5%A4%A9%E4%BA%95",
     "createdAt": "2026-08-30T19:17:56.351Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "de-DE:2026-08-30:4316e8e47155bd4b1e7f6a44e4d8974c",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20Meisterwerk%20der%20Musterkunst",
     "createdAt": "2026-08-31T21:27:24.093Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "fr-FR:2026-08-30:a9c8bcb93ac2eed90bafd2967d946ec2",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Quand%20la%20beaut%C3%A9%20du%20d%C3%A9tail%20op%C3%A8re",
     "createdAt": "2026-08-31T21:27:24.093Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "en-US:2026-08-29:c813e0fa454fb807b791501b8929aa43",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Reading%20between%20the%20waves",
     "createdAt": "2026-08-29T19:23:01.237Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "zh-CN:2026-08-29:ccb35d1526f0f4922e8ff8b453e68f4a",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%90%8D%E4%B8%BA%E9%B2%A8%E9%B1%BC%E7%9A%84%E5%B7%A8%E5%9E%8B%E9%B1%BC%E7%B1%BB",
     "createdAt": "2026-08-29T19:23:01.238Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "ja-JP:2026-08-29:31adb964887dd76849baf80c0a41eaab",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowShark_JA-JP0572284773_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E5%9B%BD%E9%9A%9B%E3%82%B8%E3%83%B3%E3%83%99%E3%82%A8%E3%82%B6%E3%83%A1%E3%81%AE%E6%97%A5",
     "createdAt": "2026-08-29T19:23:01.238Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "de-DE:2026-08-29:1bf7dbc24f41c84544d624683ad0ec53",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowShark_DE-DE7632036192_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Majest%C3%A4t%20der%20Ozeane",
     "createdAt": "2026-08-30T19:17:56.351Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "fr-FR:2026-08-29:4473363d3f9063865954a6d13a6686fa",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20grand%20nom%20pour%20un%20gros%20poisson",
     "createdAt": "2026-08-30T19:17:56.351Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "en-US:2026-08-28:a20e6451f44459682881cd59f0b198e0",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20tides%20shape%20a%20legend",
     "createdAt": "2026-08-29T00:32:32.352Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "zh-CN:2026-08-28:871d8e1084e913759131033b33852883",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%AF%BB%E6%87%82%E6%B5%AA%E6%B6%9B%E4%B9%8B%E9%97%B4%E7%9A%84%E8%AE%AF%E6%81%AF",
     "createdAt": "2026-08-29T00:32:32.353Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "ja-JP:2026-08-28:711d33579d48eb83b3e57ea99d7994ea",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E5%A4%A7%E6%9B%B2%E3%81%AE%E8%8A%B1%E7%81%AB%E3%81%AE%E9%96%8B%E5%82%AC%E6%97%A5",
     "createdAt": "2026-08-29T00:32:32.353Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "de-DE:2026-08-28:06403954aec20aa4fc3613656c96b5d2",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SantaCatarina_DE-DE7458345257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Zwischen%20den%20Wellen%20lesen",
     "createdAt": "2026-08-29T00:32:32.353Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "fr-FR:2026-08-28:09f0d1462b4f7c7988aac08fd090f19a",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SantaCatarina_FR-FR8615743181_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%E2%80%99art%20de%20lire%20entre%20les%20vagues",
     "createdAt": "2026-08-29T00:32:32.353Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "en-US:2026-08-27:5da81fe9acc758a9beafb035dab00d8b",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MichelSunset_DE-DE7463636835_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Zwischen%20Himmel%20und%20Meer",
     "createdAt": "2026-08-28T00:51:14.885Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "fr-FR:2026-08-27:76613bc304b535e6d7c932cc1122e118",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MichelSunset_FR-FR8060193680_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Berc%C3%A9%20par%20la%20mar%C3%A9e",
     "createdAt": "2026-08-28T00:51:14.885Z",
-    "updatedAt": "2026-09-03T19:16:37.507Z"
+    "updatedAt": "2026-09-04T18:58:39.304Z"
   },
   {
     "id": "en-US:2026-08-26:806c63a18af632077729d1e3ebd7e99c",
