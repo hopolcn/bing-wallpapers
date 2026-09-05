@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Red and white on the horizon](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Small birds, big impact](https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-09-04
+**日期：** 2026-09-05
 **区域：** en-US
-**描述：** Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)
+**描述：** Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-05 | en-US | ![](https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-04 | en-US | ![](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-04 | en-US | ![](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-04 | de-DE | ![](https://www.bing.com/th?id=OHR.GreenCrowned_DE-DE8742495391_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GreenCrowned_DE-DE8742495391_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-04 | fr-FR | ![](https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-03 | en-US | ![](https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-03 | ja-JP | ![](https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Westerheversand_JA-JP0136915036_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-03 | de-DE | ![](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-03 | fr-FR | ![](https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-02 | en-US | ![](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AZWilderness_ZH-CN2664566131_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
