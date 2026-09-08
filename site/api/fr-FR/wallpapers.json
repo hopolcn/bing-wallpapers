@@ -1,5 +1,19 @@
 [
   {
+    "id": "fr-FR:2026-09-07:0698c171fc5cae2ecc0d9958cd22a0c4",
+    "region": "fr-FR",
+    "date": "2026-09-07",
+    "title": "Au cœur des champs dorés",
+    "copyright": "Hêtre au milieu de champs de céréales, East Meon, Parc national des South Downs, Hampshire, Angleterre (© Guy Edwardes/Minden Pictures)",
+    "copyrightLink": "https://www.bing.com/search?q=Hampshire+Angleterre&form=hpcapt&filters=HpDate%3a%2220260907_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Au%20c%C5%93ur%20des%20champs%20dor%C3%A9s",
+    "createdAt": "2026-09-08T19:24:32.262Z",
+    "updatedAt": "2026-09-08T19:24:32.262Z"
+  },
+  {
     "id": "fr-FR:2026-09-06:f642c55dfc5c443b0c0f002b1a5b2d0c",
     "region": "fr-FR",
     "date": "2026-09-06",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BambergTownhall_FR-FR6109050540_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Quand%20l%E2%80%99histoire%20coule%20le%20long%20de%20la%20rivi%C3%A8re",
     "createdAt": "2026-09-07T19:55:02.415Z",
-    "updatedAt": "2026-09-07T19:55:02.415Z"
+    "updatedAt": "2026-09-08T19:24:32.266Z"
   },
   {
     "id": "fr-FR:2026-09-05:d6a33055e282b68cbf38e7d4c34ef9cc",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeFyans_FR-FR2873606415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Des%20reflets%20infinis",
     "createdAt": "2026-09-06T18:14:53.948Z",
-    "updatedAt": "2026-09-07T19:55:02.419Z"
+    "updatedAt": "2026-09-08T19:24:32.266Z"
   },
   {
     "id": "fr-FR:2026-09-04:5b48e8d838bff88abef86ad1411d539f",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Le%20rendez-vous%20des%20chineurs",
     "createdAt": "2026-09-05T18:13:45.927Z",
-    "updatedAt": "2026-09-07T19:55:02.419Z"
+    "updatedAt": "2026-09-08T19:24:32.266Z"
   },
   {
     "id": "fr-FR:2026-09-03:b3c04a92127322cbc82dec521847e814",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Westerheversand_FR-FR6860967880_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Rouge%20et%20blanc%20%C3%A0%20l%E2%80%99horizon",
     "createdAt": "2026-09-04T18:58:39.299Z",
-    "updatedAt": "2026-09-07T19:55:02.419Z"
+    "updatedAt": "2026-09-08T19:24:32.266Z"
   },
   {
     "id": "fr-FR:2026-09-02:2dc8dbf4e7a259001b8e88cc172956eb",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AZWilderness_FR-FR4389464671_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Une%20mer%20de%20gr%C3%A8s",
     "createdAt": "2026-09-03T19:16:37.501Z",
-    "updatedAt": "2026-09-07T19:55:02.419Z"
+    "updatedAt": "2026-09-08T19:24:32.266Z"
   },
   {
     "id": "fr-FR:2026-09-01:459a98bdff0400c6bde39c634c64bc49",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SuffolkHuts_FR-FR9132067809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Une%20touche%20de%20couleur%20iod%C3%A9e",
     "createdAt": "2026-09-02T19:21:59.389Z",
-    "updatedAt": "2026-09-07T19:55:02.419Z"
+    "updatedAt": "2026-09-08T19:24:32.266Z"
   },
   {
     "id": "fr-FR:2026-08-31:5205a59cd37c481644a8d90d7a5b94f4",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20monde%20entier%20sous%20nos%20pieds",
     "createdAt": "2026-09-01T19:22:11.229Z",
-    "updatedAt": "2026-09-07T19:55:02.419Z"
+    "updatedAt": "2026-09-08T19:24:32.266Z"
   },
   {
     "id": "fr-FR:2026-08-30:a9c8bcb93ac2eed90bafd2967d946ec2",
