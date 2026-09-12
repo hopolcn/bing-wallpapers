@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-09-12:29a9e8a67eabf7833b5a2ddb18e87d3d",
+    "region": "en-US",
+    "date": "2026-09-12",
+    "title": "Masters of the surf and shore",
+    "copyright": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)",
+    "copyrightLink": "https://www.bing.com/search?q=California+sea+lion&form=hpcapt&filters=HpDate%3a%2220260912_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Masters%20of%20the%20surf%20and%20shore",
+    "createdAt": "2026-09-12T18:20:06.989Z",
+    "updatedAt": "2026-09-12T18:20:06.990Z"
+  },
+  {
+    "id": "zh-CN:2026-09-12:b059b4ae0a7834638a360cf1db512707",
+    "region": "zh-CN",
+    "date": "2026-09-12",
+    "title": "高处的珊瑚礁",
+    "copyright": "米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%A4%9A%E6%B4%9B%E7%B1%B3%E8%92%82%E5%B1%B1%E8%84%89%E7%B1%B3%E8%8B%8F%E9%87%8C%E7%BA%B3%E7%BE%A4%E5%B3%B0&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E9%AB%98%E5%A4%84%E7%9A%84%E7%8F%8A%E7%91%9A%E7%A4%81",
+    "createdAt": "2026-09-12T18:20:06.990Z",
+    "updatedAt": "2026-09-12T18:20:06.990Z"
+  },
+  {
+    "id": "ja-JP:2026-09-12:36c9deb658a4188f9ff953d3faf380b5",
+    "region": "ja-JP",
+    "date": "2026-09-12",
+    "title": "雲間にそびえる鋭い峰々",
+    "copyright": "カディーニ・ディ・ミズリーナ山塊, イタリア (© Vithun Khamsong/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%82%AB%E3%83%87%E3%82%A3%E3%83%BC%E3%83%8B%E3%83%BB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9F%E3%82%BA%E3%83%AA%E3%83%BC%E3%83%8A%E5%B1%B1%E5%A1%8A&form=hpcapt&filters=HpDate%3a%2220260912_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E9%9B%B2%E9%96%93%E3%81%AB%E3%81%9D%E3%81%B3%E3%81%88%E3%82%8B%E9%8B%AD%E3%81%84%E5%B3%B0%E3%80%85",
+    "createdAt": "2026-09-12T18:20:06.990Z",
+    "updatedAt": "2026-09-12T18:20:06.990Z"
+  },
+  {
     "id": "en-US:2026-09-11:aa25f0f42f2e083076da347987f2b700",
     "region": "en-US",
     "date": "2026-09-11",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20legacy%20of%20heroism",
     "createdAt": "2026-09-11T19:08:30.520Z",
-    "updatedAt": "2026-09-11T19:08:30.521Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "zh-CN:2026-09-11:ccba8f4fe9441283a8aeec82f5295faa",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B5%B7%E6%B5%AA%E4%B8%8E%E6%B5%B7%E5%B2%B8%E7%9A%84%E9%AB%98%E6%89%8B",
     "createdAt": "2026-09-11T19:08:30.521Z",
-    "updatedAt": "2026-09-11T19:08:30.521Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "ja-JP:2026-09-11:f2ce3075014adfbfe993425d05c3cb0f",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E3%82%A4%E3%83%AF%E3%82%B7%E3%81%AE%E7%BE%A4%E3%82%8C%E3%82%92%E7%8B%99%E3%81%86%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E3%82%A2%E3%82%B7%E3%82%AB",
     "createdAt": "2026-09-11T19:08:30.521Z",
-    "updatedAt": "2026-09-11T19:08:30.521Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
+  },
+  {
+    "id": "de-DE:2026-09-11:3b54df2488ec4a1aeb774f45aef7a435",
+    "region": "de-DE",
+    "date": "2026-09-11",
+    "title": "Meister der Brandung",
+    "copyright": "Kalifornische Seelöwen bei der Jagd auf einen Sardinen-Köderball vor der Küste Mexikos im Pazifik (© Henley Spiers/Nature Picture Library)",
+    "copyrightLink": "https://www.bing.com/search?q=Kalifornischer+Seel%C3%B6we&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Meister%20der%20Brandung",
+    "createdAt": "2026-09-12T18:20:06.990Z",
+    "updatedAt": "2026-09-12T18:20:06.990Z"
+  },
+  {
+    "id": "fr-FR:2026-09-11:2c2ab8593490c4d85ec4ccccf31f6f66",
+    "region": "fr-FR",
+    "date": "2026-09-11",
+    "title": "Des maîtres de la glisse",
+    "copyright": "Des lions de mer de Californie chassant un banc de sardines au large du Mexique, Océan Pacifique (© Henley Spiers/Nature Picture Library)",
+    "copyrightLink": "https://www.bing.com/search?q=lions+de+mer+de+Californie&form=hpcapt&filters=HpDate%3a%2220260911_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Des%20ma%C3%AEtres%20de%20la%20glisse",
+    "createdAt": "2026-09-12T18:20:06.990Z",
+    "updatedAt": "2026-09-12T18:20:06.990Z"
   },
   {
     "id": "en-US:2026-09-10:fabfc32094c86ee2539dc1c00fea96f7",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20patchwork%20from%20above",
     "createdAt": "2026-09-10T19:06:23.227Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "zh-CN:2026-09-10:7870e23785fa736c7fe2424fa3bdc743",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%9C%B0%E4%B8%AD%E6%B5%B7%E9%A3%8E%E6%83%85%E5%B0%BD%E6%98%BE",
     "createdAt": "2026-09-10T19:06:23.227Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "ja-JP:2026-09-10:f6cb6fa04e0e41447d6c05455e5906f5",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GabitKeni_JA-JP3823379916_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%BE%8E%E3%81%97%E3%81%84%E6%B5%B7%E8%BE%BA%E3%81%AE%E9%A2%A8%E6%99%AF",
     "createdAt": "2026-09-10T19:06:23.227Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "de-DE:2026-09-10:9da5b4d732f39d32e86f2d70946df0c6",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_DE-DE6596669127_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wo%20das%20Mittelmeer%20regiert",
     "createdAt": "2026-09-11T19:08:30.521Z",
-    "updatedAt": "2026-09-11T19:08:30.521Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "fr-FR:2026-09-10:0c54c0a26b52dda0a66057595d33cdb4",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%C3%A0%20o%C3%B9%20la%20M%C3%A9diterran%C3%A9e%20est%20reine",
     "createdAt": "2026-09-11T19:08:30.521Z",
-    "updatedAt": "2026-09-11T19:08:30.521Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "en-US:2026-09-09:7f05d29cbef06e50b147c97434bc273b",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Life%20on%20India's%20west%20coast",
     "createdAt": "2026-09-09T19:15:15.979Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "zh-CN:2026-09-09:4cafeb1bdbc558bf597c98b1996562dd",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BF%AF%E7%9E%B0%E5%A4%A7%E5%9C%B0%E6%8B%BC%E5%9B%BE",
     "createdAt": "2026-09-09T19:15:15.979Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "ja-JP:2026-09-09:48c45da470937a1cd104b078e6004501",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Olvera_JA-JP5093791420_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%B5%A4%E8%8C%B6%E8%89%B2%E3%81%AE%E5%B1%8B%E6%A0%B9%E3%81%8C%E6%98%A0%E3%81%88%E3%82%8B%E3%82%A2%E3%83%B3%E3%83%80%E3%83%AB%E3%82%B7%E3%82%A2%E3%81%AE%E8%A1%97",
     "createdAt": "2026-09-09T19:15:15.979Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "de-DE:2026-09-09:2c2fa7aa17643be5c9660bc1a1250180",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Olvera_DE-DE7810722479_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20buntes%20Mosaik%20aus%20der%20Luft",
     "createdAt": "2026-09-10T19:06:23.227Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "fr-FR:2026-09-09:3782b87923861e6347d894fb83810663",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20patchwork%20vu%20du%20dessus",
     "createdAt": "2026-09-10T19:06:23.227Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "en-US:2026-09-08:adfdb411e959114a1fb1d3e51738ea89",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Fields%20of%20gold",
     "createdAt": "2026-09-08T19:24:32.262Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "zh-CN:2026-09-08:37e5ee2d15a851deffffc80576d12412",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%8D%B0%E5%BA%A6%E8%A5%BF%E6%B5%B7%E5%B2%B8%E7%9A%84%E7%94%9F%E6%B4%BB",
     "createdAt": "2026-09-08T19:24:32.262Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "ja-JP:2026-09-08:944d2f1122d98bd04ec1a6579fb7a070",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ChungYang2026_JA-JP4920316432_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E9%87%8D%E9%99%BD%E3%81%AE%E7%AF%80%E5%8F%A5",
     "createdAt": "2026-09-08T19:24:32.262Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "de-DE:2026-09-08:55c835e445da721f60f0e4b1c8fe8118",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GabitKeni_DE-DE7644159107_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Leben%20an%20Indiens%20Westk%C3%BCste",
     "createdAt": "2026-09-09T19:15:15.979Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "fr-FR:2026-09-08:78ff9d6fbb90455cf56892a9b40259f0",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GabitKeni_FR-FR5031931256_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=La%20vie%20sur%20la%20c%C3%B4te%20sud%20de%20l%E2%80%99Inde",
     "createdAt": "2026-09-09T19:15:15.979Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "en-US:2026-09-07:db615818c0a897ea5378d8158e9bb394",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Labor's%20legacy",
     "createdAt": "2026-09-07T19:55:02.415Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "zh-CN:2026-09-07:a18e0e490a887155b8a95dc0ad42f6e6",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%87%91%E8%89%B2%E7%94%B0%E9%87%8E",
     "createdAt": "2026-09-07T19:55:02.415Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "ja-JP:2026-09-07:d3e080c299afb1655e649cc36df4aac4",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeechEngland_JA-JP4737159434_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%BB%84%E9%87%91%E8%89%B2%E3%81%AE%E9%BA%A6%E7%95%91%E3%81%AB%E7%AB%8B%E3%81%A4%E3%83%96%E3%83%8A%E3%81%AE%E6%9C%A8",
     "createdAt": "2026-09-07T19:55:02.415Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "de-DE:2026-09-07:7f420cab5347eb45dd5f4ad88309e1e9",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeechEngland_DE-DE7492588392_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Goldene%20Felder",
     "createdAt": "2026-09-08T19:24:32.262Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "fr-FR:2026-09-07:0698c171fc5cae2ecc0d9958cd22a0c4",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeechEngland_FR-FR3378648733_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Au%20c%C5%93ur%20des%20champs%20dor%C3%A9s",
     "createdAt": "2026-09-08T19:24:32.262Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "en-US:2026-09-06:49af7c689abbeb51ed46af5d668461a4",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20reservoir%20of%20reflections",
     "createdAt": "2026-09-06T18:14:53.948Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "zh-CN:2026-09-06:e69410a15294f0c5ae7890d3892aa658",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%8E%86%E5%8F%B2%E6%B2%BF%E8%BF%90%E6%B2%B3%E6%B5%81%E6%B7%8C%E4%B9%8B%E5%9C%B0",
     "createdAt": "2026-09-06T18:14:53.948Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "ja-JP:2026-09-06:834518acfb24984d216d60f470b01371",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BambergTownhall_JA-JP4474746509_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%B7%9D%E3%81%AE%E4%B8%8A%E3%81%AB%E5%BB%BA%E3%81%A4%E6%97%A7%E5%B8%82%E5%BA%81%E8%88%8E",
     "createdAt": "2026-09-06T18:14:53.948Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "de-DE:2026-09-06:d7991c50ccfde458d610746df1c90e29",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_DE-DE8821401263_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20Riff%20%C3%BCber%20den%20Wolken",
     "createdAt": "2026-09-07T19:55:02.415Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "fr-FR:2026-09-06:f642c55dfc5c443b0c0f002b1a5b2d0c",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BambergTownhall_FR-FR6109050540_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Quand%20l%E2%80%99histoire%20coule%20le%20long%20de%20la%20rivi%C3%A8re",
     "createdAt": "2026-09-07T19:55:02.415Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "en-US:2026-09-05:a1638aea5f314a09431ef3aa61e7f00c",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_EN-US3119017947_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Small%20birds%2C%20big%20impact",
     "createdAt": "2026-09-05T18:13:45.927Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "zh-CN:2026-09-05:8380e2d6888437780ea809e7316343f4",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%80%92%E5%BD%B1%E6%BB%A1%E6%B9%96%E7%9A%84%E6%B0%B4%E5%BA%93",
     "createdAt": "2026-09-05T18:13:45.927Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "ja-JP:2026-09-05:e555064732d4b72795a089abb454f768",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%A9%BA%E3%82%92%E6%98%A0%E3%81%99%E9%9D%99%E3%81%8B%E3%81%AA%E4%BA%BA%E5%B7%A5%E8%B2%AF%E6%B0%B4%E6%B1%A0",
     "createdAt": "2026-09-05T18:13:45.927Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "de-DE:2026-09-05:2236adc7dabf27f9449c3e8e0ced0ec4",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeFyans_DE-DE9957934690_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20See%20voller%20Spiegelungen",
     "createdAt": "2026-09-06T18:14:53.948Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "fr-FR:2026-09-05:d6a33055e282b68cbf38e7d4c34ef9cc",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LakeFyans_FR-FR2873606415_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Des%20reflets%20infinis",
     "createdAt": "2026-09-06T18:14:53.948Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "en-US:2026-09-04:a284aa81817c751a96023c6b1dc6fa31",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GreenCrowned_DE-DE8742495391_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Kleine%20V%C3%B6gel%2C%20gro%C3%9Fe%20Wirkung",
     "createdAt": "2026-09-05T18:13:45.927Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "fr-FR:2026-09-04:5b48e8d838bff88abef86ad1411d539f",
@@ -543,7 +613,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Le%20rendez-vous%20des%20chineurs",
     "createdAt": "2026-09-05T18:13:45.927Z",
-    "updatedAt": "2026-09-11T19:08:30.525Z"
+    "updatedAt": "2026-09-12T18:20:06.993Z"
   },
   {
     "id": "en-US:2026-09-03:293dfaa334b21acfa31c774a85f79534",
