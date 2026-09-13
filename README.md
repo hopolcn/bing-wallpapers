@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Masters of the surf and shore](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A reef above its station](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-09-12
+**日期：** 2026-09-13
 **区域：** en-US
-**描述：** California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)
+**描述：** Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-13 | en-US | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-13 | zh-CN | ![](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-13 | ja-JP | ![](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-12 | en-US | ![](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-12 | zh-CN | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-12 | ja-JP | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MisurinaPeak_JA-JP5655621348_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-12 | de-DE | ![](https://www.bing.com/th?id=OHR.BambergTownhall_DE-DE7159832274_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BambergTownhall_DE-DE7159832274_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-12 | fr-FR | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_FR-FR3560016710_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MisurinaPeak_FR-FR3560016710_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-11 | en-US | ![](https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-11 | zh-CN | ![](https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-11 | ja-JP | ![](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SardineBait_JA-JP5540649445_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-11 | de-DE | ![](https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SardineBait_DE-DE9091780632_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-11 | fr-FR | ![](https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-10 | en-US | ![](https://www.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-10 | zh-CN | ![](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
