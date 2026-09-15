@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Where toughness takes root](https://www.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A crossroad of cultures](https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-09-14
+**日期：** 2026-09-15
 **区域：** en-US
-**描述：** Field of kochia plants, China (© lingqi xie/Getty Images)
+**描述：** Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-15 | en-US | ![](https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-15 | zh-CN | ![](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-15 | ja-JP | ![](https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-14 | en-US | ![](https://www.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-14 | zh-CN | ![](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-14 | ja-JP | ![](https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-14 | de-DE | ![](https://www.bing.com/th?id=OHR.RedMacawsFlight_DE-DE7450519779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedMacawsFlight_DE-DE7450519779_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-14 | fr-FR | ![](https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-FR7707103223_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-FR7707103223_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-13 | en-US | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-13 | zh-CN | ![](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-13 | ja-JP | ![](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-13 | de-DE | ![](https://www.bing.com/th?id=OHR.KochiaChina_DE-DE7299864606_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KochiaChina_DE-DE7299864606_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-13 | fr-FR | ![](https://www.bing.com/th?id=OHR.KochiaChina_FR-FR3921834032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KochiaChina_FR-FR3921834032_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-12 | en-US | ![](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-12 | zh-CN | ![](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
