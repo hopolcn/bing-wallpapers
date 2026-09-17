@@ -1,5 +1,19 @@
 [
   {
+    "id": "fr-FR:2026-09-16:5ab363abfd77efae433d361ea23619c2",
+    "region": "fr-FR",
+    "date": "2026-09-16",
+    "title": "Santé !",
+    "copyright": "Le moulin à vent et les vignobles de Sorine, Santenay, Côte de Beaune, Bourgogne (© Marco Bottigelli/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Santenay+Bourgogne&form=hpcapt&filters=HpDate%3a%2220260916_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.Santenay_FR-FR5987836668_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Sant%C3%A9%20!",
+    "createdAt": "2026-09-17T19:42:15.340Z",
+    "updatedAt": "2026-09-17T19:42:15.340Z"
+  },
+  {
     "id": "fr-FR:2026-09-15:65c799a9487c201b41443c57a05cf2cb",
     "region": "fr-FR",
     "date": "2026-09-15",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IcyCubs_FR-FR5288498074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%E2%80%99Arctique%20comme%20terrain%20de%20jeux",
     "createdAt": "2026-09-16T19:31:56.049Z",
-    "updatedAt": "2026-09-16T19:31:56.049Z"
+    "updatedAt": "2026-09-17T19:42:15.345Z"
   },
   {
     "id": "fr-FR:2026-09-14:351ff6f02db1db7109633f9f88e2dd6a",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedMacawsFlight_FR-FR7707103223_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%C3%87a%20plane%20pour%20moi%20!",
     "createdAt": "2026-09-15T19:40:53.239Z",
-    "updatedAt": "2026-09-16T19:31:56.053Z"
+    "updatedAt": "2026-09-17T19:42:15.345Z"
   },
   {
     "id": "fr-FR:2026-09-13:2caf14ef72b25995c0c6177fb3c8d260",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KochiaChina_FR-FR3921834032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Quand%20la%20tenacit%C3%A9%20prend%20racine",
     "createdAt": "2026-09-14T20:17:35.880Z",
-    "updatedAt": "2026-09-16T19:31:56.053Z"
+    "updatedAt": "2026-09-17T19:42:15.345Z"
   },
   {
     "id": "fr-FR:2026-09-12:878cdc0b0ba3f19e027a396e217a6c47",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_FR-FR3560016710_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20toit%20au-dessus%20de%20l%E2%80%99Italie",
     "createdAt": "2026-09-13T18:45:35.187Z",
-    "updatedAt": "2026-09-16T19:31:56.053Z"
+    "updatedAt": "2026-09-17T19:42:15.345Z"
   },
   {
     "id": "fr-FR:2026-09-11:2c2ab8593490c4d85ec4ccccf31f6f66",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SardineBait_FR-FR6373570079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Des%20ma%C3%AEtres%20de%20la%20glisse",
     "createdAt": "2026-09-12T18:20:06.990Z",
-    "updatedAt": "2026-09-16T19:31:56.053Z"
+    "updatedAt": "2026-09-17T19:42:15.345Z"
   },
   {
     "id": "fr-FR:2026-09-10:0c54c0a26b52dda0a66057595d33cdb4",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrenchRivieraVillage_FR-FR2966437166_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%C3%A0%20o%C3%B9%20la%20M%C3%A9diterran%C3%A9e%20est%20reine",
     "createdAt": "2026-09-11T19:08:30.521Z",
-    "updatedAt": "2026-09-16T19:31:56.053Z"
+    "updatedAt": "2026-09-17T19:42:15.345Z"
   },
   {
     "id": "fr-FR:2026-09-09:3782b87923861e6347d894fb83810663",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Olvera_FR-FR2163620703_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20patchwork%20vu%20du%20dessus",
     "createdAt": "2026-09-10T19:06:23.227Z",
-    "updatedAt": "2026-09-16T19:31:56.053Z"
+    "updatedAt": "2026-09-17T19:42:15.345Z"
   },
   {
     "id": "fr-FR:2026-09-08:78ff9d6fbb90455cf56892a9b40259f0",
