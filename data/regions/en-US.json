@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-09-20:fb8347266ccf05439d51bcf79941e738",
+    "region": "en-US",
+    "date": "2026-09-20",
+    "title": "The tower that won Paris over",
+    "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260920_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=The%20tower%20that%20won%20Paris%20over",
+    "createdAt": "2026-09-20T18:44:14.994Z",
+    "updatedAt": "2026-09-20T18:44:14.994Z"
+  },
+  {
     "id": "en-US:2026-09-19:9a778d6acd732a36a043d3758bd22136",
     "region": "en-US",
     "date": "2026-09-19",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20Alpine%20sound%20of%20Oktoberfest",
     "createdAt": "2026-09-19T18:34:47.632Z",
-    "updatedAt": "2026-09-19T18:34:47.632Z"
+    "updatedAt": "2026-09-20T18:44:14.998Z"
   },
   {
     "id": "en-US:2026-09-18:e46b1fd6e036e981aa6643e71ae60886",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Through%20the%20heart%20of%20the%20pass",
     "createdAt": "2026-09-18T19:00:42.943Z",
-    "updatedAt": "2026-09-19T18:34:47.636Z"
+    "updatedAt": "2026-09-20T18:44:14.998Z"
   },
   {
     "id": "en-US:2026-09-17:3c942850205afcfdd92c76492123c994",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20toast%20to%20the%20harvest",
     "createdAt": "2026-09-17T19:42:15.339Z",
-    "updatedAt": "2026-09-19T18:34:47.636Z"
+    "updatedAt": "2026-09-20T18:44:14.998Z"
   },
   {
     "id": "en-US:2026-09-16:735a5e0bce141872370e696d988c2b72",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20Arctic's%20new%20explorers",
     "createdAt": "2026-09-16T19:31:56.049Z",
-    "updatedAt": "2026-09-19T18:34:47.636Z"
+    "updatedAt": "2026-09-20T18:44:14.998Z"
   },
   {
     "id": "en-US:2026-09-15:3bb41316fc68eeaa65d14df6fdb398d9",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20crossroad%20of%20cultures",
     "createdAt": "2026-09-15T19:40:53.239Z",
-    "updatedAt": "2026-09-19T18:34:47.636Z"
+    "updatedAt": "2026-09-20T18:44:14.998Z"
   },
   {
     "id": "en-US:2026-09-14:88a22740e794f7b9e08200320840b66a",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20toughness%20takes%20root",
     "createdAt": "2026-09-14T20:17:35.879Z",
-    "updatedAt": "2026-09-19T18:34:47.636Z"
+    "updatedAt": "2026-09-20T18:44:14.998Z"
   },
   {
     "id": "en-US:2026-09-13:8a71ee8ea6170fe0c89e0177633bd41a",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20reef%20above%20its%20station",
     "createdAt": "2026-09-13T18:45:35.187Z",
-    "updatedAt": "2026-09-19T18:34:47.636Z"
+    "updatedAt": "2026-09-20T18:44:14.998Z"
   },
   {
     "id": "en-US:2026-09-12:29a9e8a67eabf7833b5a2ddb18e87d3d",
