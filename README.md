@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![The golden season](https://www.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Beyond the last page](https://www.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-09-22
+**日期：** 2026-09-23
 **区域：** en-US
-**描述：** Fall aspen trees near Guardsman Pass, Utah, USA (© Danita Delimont/Shutterstock)
+**描述：** Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-23 | en-US | ![](https://www.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-23 | zh-CN | ![](https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-23 | ja-JP | ![](https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ElGolfo_JA-JP7674043520_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-22 | en-US | ![](https://www.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FallAspens_EN-US7211031109_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-22 | zh-CN | ![](https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-22 | ja-JP | ![](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-22 | de-DE | ![](https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FallAspens_DE-DE1894805045_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-22 | fr-FR | ![](https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FallAspens_FR-FR8326000854_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-21 | en-US | ![](https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-21 | zh-CN | ![](https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-21 | ja-JP | ![](https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FallAspens_JA-JP7201900997_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-21 | de-DE | ![](https://www.bing.com/th?id=OHR.TolkienWeek_DE-DE1744424672_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TolkienWeek_DE-DE1744424672_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-21 | fr-FR | ![](https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TolkienWeek_FR-FR8060088549_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-20 | en-US | ![](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-20 | zh-CN | ![](https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
