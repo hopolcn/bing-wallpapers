@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![The stories written across the land](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Night garden of the deep](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-09-26
+**日期：** 2026-09-27
 **区域：** en-US
-**描述：** Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, USA (© Jeff Clay/Tandem Stills + Motion)
+**描述：** Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-27 | en-US | ![](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-27 | zh-CN | ![](https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-27 | ja-JP | ![](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-26 | en-US | ![](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-26 | zh-CN | ![](https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-26 | ja-JP | ![](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-26 | de-DE | ![](https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-26 | fr-FR | ![](https://www.bing.com/th?id=OHR.DecoCrab_FR-FR8789802868_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DecoCrab_FR-FR8789802868_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-25 | en-US | ![](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-25 | zh-CN | ![](https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-25 | ja-JP | ![](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-25 | de-DE | ![](https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-25 | fr-FR | ![](https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-24 | en-US | ![](https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-24 | zh-CN | ![](https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
