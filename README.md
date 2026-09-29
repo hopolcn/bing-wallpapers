@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![History with a view](https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Born of glaciers](https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-09-28
+**日期：** 2026-09-29
 **区域：** en-US
-**描述：** Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)
+**描述：** The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-09-29 | en-US | ![](https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-29 | zh-CN | ![](https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-29 | ja-JP | ![](https://www.bing.com/th?id=OHR.BeardReedling_JA-JP9843863193_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BeardReedling_JA-JP9843863193_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-28 | en-US | ![](https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-28 | zh-CN | ![](https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-28 | ja-JP | ![](https://www.bing.com/th?id=OHR.KasilofRiver_JA-JP7219675730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KasilofRiver_JA-JP7219675730_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-28 | de-DE | ![](https://www.bing.com/th?id=OHR.KasilofRiver_DE-DE4065933153_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KasilofRiver_DE-DE4065933153_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-09-28 | fr-FR | ![](https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-27 | en-US | ![](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-09-27 | zh-CN | ![](https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-27 | ja-JP | ![](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-27 | de-DE | ![](https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-27 | fr-FR | ![](https://www.bing.com/th?id=OHR.AmberHall_FR-FR6136179100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmberHall_FR-FR6136179100_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-26 | en-US | ![](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-09-26 | zh-CN | ![](https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
