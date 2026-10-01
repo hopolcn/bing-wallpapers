@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-10-01:9b27eae3ed17f70f8fc64fff402a6a37",
+    "region": "en-US",
+    "date": "2026-10-01",
+    "title": "Reading time in granite",
+    "copyright": "Sunset from Olmsted Point, Yosemite National Park, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
+    "copyrightLink": "https://www.bing.com/search?q=Yosemite+National+Park&form=hpcapt&filters=HpDate%3a%2220261001_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.OlmstedPoint_EN-US0964858045_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Reading%20time%20in%20granite",
+    "createdAt": "2026-10-01T21:00:01.986Z",
+    "updatedAt": "2026-10-01T21:00:01.987Z"
+  },
+  {
+    "id": "zh-CN:2026-10-01:ad02460978ae06c7c7d8d53dadaa94bf",
+    "region": "zh-CN",
+    "date": "2026-10-01",
+    "title": "一条值得保护的河流",
+    "copyright": "查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E7%BE%8E%E5%9B%BD%E9%98%BF%E5%B7%B4%E6%8B%89%E5%A5%91%E4%BA%9A%E5%B1%B1%E8%84%89&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ZH-CN9453791496_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E4%B8%80%E6%9D%A1%E5%80%BC%E5%BE%97%E4%BF%9D%E6%8A%A4%E7%9A%84%E6%B2%B3%E6%B5%81",
+    "createdAt": "2026-10-01T21:00:01.987Z",
+    "updatedAt": "2026-10-01T21:00:01.987Z"
+  },
+  {
+    "id": "ja-JP:2026-10-01:52c852ac60a732683c1372199f1a8ec8",
+    "region": "ja-JP",
+    "date": "2026-10-01",
+    "title": "川面を流れる紅葉",
+    "copyright": "チャトゥーガ川, 米国 ノースカロライナ州 (© mtilghma/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%83%81%E3%83%A3%E3%83%88%E3%82%A5%E3%83%BC%E3%82%AC%E5%B7%9D&form=hpcapt&filters=HpDate%3a%2220261001_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ChattoogaRiver_JA-JP8558662500_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%B7%9D%E9%9D%A2%E3%82%92%E6%B5%81%E3%82%8C%E3%82%8B%E7%B4%85%E8%91%89",
+    "createdAt": "2026-10-01T21:00:01.987Z",
+    "updatedAt": "2026-10-01T21:00:01.987Z"
+  },
+  {
     "id": "en-US:2026-09-30:5d5e4e9d271f6d618979fe3506439b94",
     "region": "en-US",
     "date": "2026-09-30",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20face%20you%20don't%20forget",
     "createdAt": "2026-09-30T20:46:59.805Z",
-    "updatedAt": "2026-09-30T20:46:59.805Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "zh-CN:2026-09-30:39d1cffb9c16d06cb14e65b0d89264d0",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%9C%A8%E8%8A%B1%E5%B2%97%E5%B2%A9%E4%B8%AD%E8%AF%BB%E6%87%82%E6%97%B6%E9%97%B4",
     "createdAt": "2026-09-30T20:46:59.806Z",
-    "updatedAt": "2026-09-30T20:46:59.806Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "ja-JP:2026-09-30:1c0d732ad51491dd04c6c159eb11b23e",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.OlmstedPoint_JA-JP0098463265_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A4%95%E6%97%A5%E3%81%AB%E6%9F%93%E3%81%BE%E3%82%8B%E3%83%A8%E3%82%BB%E3%83%9F%E3%83%86%E3%81%AE%E5%B2%A9%E5%B3%B0",
     "createdAt": "2026-09-30T20:46:59.806Z",
-    "updatedAt": "2026-09-30T20:46:59.806Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
+  },
+  {
+    "id": "de-DE:2026-09-30:e58cf741d67d07d9425e15fb54db0a6a",
+    "region": "de-DE",
+    "date": "2026-09-30",
+    "title": "Natur mit Charakter",
+    "copyright": "Bartmeisenmännchen, Norfolk, England (© Andrew Sproule/Shutterstock)",
+    "copyrightLink": "https://www.bing.com/search?q=Bartmeise&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeardReedling_DE-DE4310310403_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Natur%20mit%20Charakter",
+    "createdAt": "2026-10-01T21:00:01.987Z",
+    "updatedAt": "2026-10-01T21:00:01.987Z"
+  },
+  {
+    "id": "fr-FR:2026-09-30:0be64b03461f34004c2a53fe3ea7f477",
+    "region": "fr-FR",
+    "date": "2026-09-30",
+    "title": "Elle nous fait tourner la tête",
+    "copyright": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Elle%20nous%20fait%20tourner%20la%20t%C3%AAte",
+    "createdAt": "2026-10-01T21:00:01.987Z",
+    "updatedAt": "2026-10-01T21:00:01.987Z"
   },
   {
     "id": "en-US:2026-09-29:6321e8dc83a5c3ce3eeff233dd18eea5",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Born%20of%20glaciers",
     "createdAt": "2026-09-29T20:43:28.796Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "zh-CN:2026-09-29:08c9d44018a5e6dfbf3458fa28265d74",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%B8%80%E5%BC%A0%E4%BB%A4%E4%BA%BA%E8%BF%87%E7%9B%AE%E9%9A%BE%E5%BF%98%E7%9A%84%E8%84%B8",
     "createdAt": "2026-09-29T20:43:28.796Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "ja-JP:2026-09-29:1b697ac80b924041fe484479299f941b",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeardReedling_JA-JP9843863193_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%9E%AF%E3%82%8C%E8%8D%89%E3%81%AB%E3%81%A8%E3%81%BE%E3%82%8B%E5%B0%8F%E9%B3%A5",
     "createdAt": "2026-09-29T20:43:28.796Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "de-DE:2026-09-29:3e3e75f087308090e6d9906dc6deacd3",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlphornBavaria_DE-DE4197541227_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Der%20Klang%20der%20Alpen",
     "createdAt": "2026-09-30T20:46:59.806Z",
-    "updatedAt": "2026-09-30T20:46:59.806Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "fr-FR:2026-09-29:c1b2b6baa23f91a149f30d42f71edc30",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Une%20dr%C3%B4le%20de%20petite%20t%C3%AAte",
     "createdAt": "2026-09-30T20:46:59.806Z",
-    "updatedAt": "2026-09-30T20:46:59.806Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "en-US:2026-09-28:dcb56ffbf3d3b30e1043e8a8a73412d3",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=History%20with%20a%20view",
     "createdAt": "2026-09-28T21:56:42.028Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "zh-CN:2026-09-28:21c8b7b4811054a5f3a012dadc4ce016",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%86%B0%E5%B7%9D%E5%AD%95%E8%82%B2%E4%B9%8B%E6%B2%B3",
     "createdAt": "2026-09-28T21:56:42.028Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "ja-JP:2026-09-28:86e8816fb8a4f0efba46c91decd64da9",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KasilofRiver_JA-JP7219675730_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B0%B7%E6%B2%B3%E3%81%AE%E6%81%B5%E3%81%BF%E3%82%92%E3%81%9F%E3%81%9F%E3%81%88%E3%82%8B%E5%B7%9D",
     "createdAt": "2026-09-28T21:56:42.028Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "de-DE:2026-09-28:542d358d7f3e533baa630aa7bf06d369",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KasilofRiver_DE-DE4065933153_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Aus%20Gletschern%20entstanden",
     "createdAt": "2026-09-29T20:43:28.796Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "fr-FR:2026-09-28:dd500110de58bb30013bdee517840bf6",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=N%C3%A9e%20des%20glaciers",
     "createdAt": "2026-09-29T20:43:28.796Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "en-US:2026-09-27:61e45eb473e53a6b9e0fc56dfdd3b258",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Night%20garden%20of%20the%20deep",
     "createdAt": "2026-09-27T19:45:11.061Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "zh-CN:2026-09-27:924cf3bd5c06e1af66dec84b7bc2f927",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%8F%AF%E8%A7%88%E7%BE%8E%E6%99%AF%E7%9A%84%E5%8E%86%E5%8F%B2%E8%83%9C%E5%9C%B0",
     "createdAt": "2026-09-27T19:45:11.061Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "ja-JP:2026-09-27:236a639b14aaf44431a4cca2ef630f89",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmberHall_JA-JP9172458689_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%84%AA%E7%BE%8E%E3%81%AA%E6%9F%B1%E3%81%8C%E4%B8%A6%E3%81%B6%E5%AE%AE%E6%AE%BF",
     "createdAt": "2026-09-27T19:45:11.061Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "de-DE:2026-09-27:d88e4f0cf13fd49aa96877aa67cc14e1",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmberHall_DE-DE3888408627_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Geschichte%20mit%20Aussicht",
     "createdAt": "2026-09-28T21:56:42.028Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "fr-FR:2026-09-27:ab2d87e5c4cb14f91d8f5ba4d4e26872",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmberHall_FR-FR6136179100_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Vue%20sur%20l%E2%80%99histoire",
     "createdAt": "2026-09-28T21:56:42.028Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "en-US:2026-09-26:a36c7d6f20d817f8175abc123d762ff0",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BearsEars_EN-US9429791451_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20stories%20written%20across%20the%20land",
     "createdAt": "2026-09-26T19:11:48.365Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "zh-CN:2026-09-26:5416e5933b1618bc1ec5bdbab6cf700e",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B7%B1%E6%B5%B7%E5%A4%9C%E8%8A%B1%E5%9B%AD",
     "createdAt": "2026-09-26T19:11:48.366Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "ja-JP:2026-09-26:88c5d47af5133c32b6344ba74a0d0fdc",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E6%A8%AA%E6%B5%9C%E3%83%99%E3%82%A4%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E9%96%8B%E9%80%9A%E6%97%A5",
     "createdAt": "2026-09-26T19:11:48.366Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "de-DE:2026-09-26:67c8d4b15fa1735ae085b388b6440c23",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DecoCrab_DE-DE3687547943_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Nachtgarten%20der%20Tiefe",
     "createdAt": "2026-09-27T19:45:11.061Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "fr-FR:2026-09-26:e3200414e827aec0d650e9a1049754ab",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DecoCrab_FR-FR8789802868_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%E2%80%99%C3%A2me%20des%20profondeurs",
     "createdAt": "2026-09-27T19:45:11.061Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "en-US:2026-09-25:72a26b2e95cf9fe8c2cb1949dc019f8e",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=When%20the%20moon%20joins%20the%20party",
     "createdAt": "2026-09-25T19:59:56.828Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "zh-CN:2026-09-25:7a4d16f38937f039b7f262834caa5b40",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%86%99%E5%9C%A8%E5%A4%A7%E5%9C%B0%E4%B8%8A%E7%9A%84%E6%95%85%E4%BA%8B",
     "createdAt": "2026-09-25T19:59:56.829Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "ja-JP:2026-09-25:8eae43ec94cc824ae18fd5e9534a887a",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%A8%99%E9%AB%98%E7%B4%842%2C000m%E3%81%8B%E3%82%89%E8%A6%8B%E6%B8%A1%E3%81%99%E5%A4%A7%E5%B3%A1%E8%B0%B7",
     "createdAt": "2026-09-25T19:59:56.829Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "de-DE:2026-09-25:8795d38f37697904532f0defdf955ff9",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.StarnbergerseeAutumn_DE-DE3476819754_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20ruhiger%20Augenblick",
     "createdAt": "2026-09-26T19:11:48.366Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "fr-FR:2026-09-25:afc824de1be9f7026b5ec93516db6e92",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BoriesPoppies_FR-FR9955316118_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Le%20savoir-faire%20proven%C3%A7al",
     "createdAt": "2026-09-26T19:11:48.366Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "en-US:2026-09-24:6003174266d8e17aa9799a5d1ab6f21e",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ash%20meets%20splash",
     "createdAt": "2026-09-24T19:58:42.260Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "zh-CN:2026-09-24:7343d22d2316a5ea34e9dace7c61cd12",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%BD%93%E6%9C%88%E4%BA%AE%E4%B9%9F%E6%9D%A5%E8%B5%B4%E4%BC%9A",
     "createdAt": "2026-09-24T19:58:42.261Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "ja-JP:2026-09-24:2400455042f1fe3d285595fea6e4c432",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MidAutumn2026_JA-JP8034446964_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E4%B8%AD%E7%A7%8B%E3%81%AE%E5%90%8D%E6%9C%88",
     "createdAt": "2026-09-24T19:58:42.261Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "de-DE:2026-09-24:c5278b73240be85b8bf35411879afa05",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MidAutumn2026_DE-DE3267606088_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wenn%20der%20Mond%20mitfeiert",
     "createdAt": "2026-09-25T19:59:56.829Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "fr-FR:2026-09-24:ebbba634b245e4d015bf19b385428514",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MidAutumn2026_FR-FR8607088238_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Quand%20la%20lune%20est%20de%20la%20partie",
     "createdAt": "2026-09-25T19:59:56.829Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "en-US:2026-09-23:446bced13e973336d84d1e6f94fa18cc",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ElGolfo_DE-DE2094132875_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Vulkanische%20Kontraste",
     "createdAt": "2026-09-24T19:58:42.261Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "fr-FR:2026-09-23:41202a87abe1403c75ad910adeaa7c32",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ElGolfo_FR-FR8422872224_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Le%20dialogue%20entre%20vagues%20et%20cendres",
     "createdAt": "2026-09-24T19:58:42.261Z",
-    "updatedAt": "2026-09-30T20:46:59.811Z"
+    "updatedAt": "2026-10-01T21:00:01.991Z"
   },
   {
     "id": "en-US:2026-09-22:83d056fc2b902bc46273f8b18d081ada",
