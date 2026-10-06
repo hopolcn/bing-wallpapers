@@ -4,16 +4,19 @@
 
 ## 今日壁纸
 
-[![Taking the plunge, one lesson at a time](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Earth's story in stripes](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-05
+**日期：** 2026-10-06
 **区域：** en-US
-**描述：** Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)
+**描述：** Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-06 | en-US | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-06 | zh-CN | ![](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-06 | ja-JP | ![](https://www.bing.com/th?id=OHR.ForestofDean_JA-JP0675230191_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ForestofDean_JA-JP0675230191_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-05 | en-US | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_JA-JP9811731742_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DanxiaLandform_JA-JP9811731742_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
@@ -21,9 +24,6 @@
 | 2026-10-05 | fr-FR | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DanxiaLandform_FR-FR1547265147_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-04 | en-US | ![](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-04 | de-DE | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_DE-DE4553591722_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AdelieTeacher_DE-DE4553591722_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-04 | fr-FR | ![](https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AdelieTeacher_FR-FR4489383327_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
