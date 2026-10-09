@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Now you 'sea' me...](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Corsica's rocky outposts](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-08
+**日期：** 2026-10-09
 **区域：** en-US
-**描述：** Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)
+**描述：** View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-09 | en-US | ![](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-09 | zh-CN | ![](https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-09 | ja-JP | ![](https://www.bing.com/th?id=OHR.CormorantsFlight_JA-JP1768857084_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CormorantsFlight_JA-JP1768857084_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-08 | en-US | ![](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-08 | zh-CN | ![](https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-08 | ja-JP | ![](https://www.bing.com/th?id=OHR.IlesSanguinaires_JA-JP1377358410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.IlesSanguinaires_JA-JP1377358410_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-08 | de-DE | ![](https://www.bing.com/th?id=OHR.IlesSanguinaires_DE-DE5457015089_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.IlesSanguinaires_DE-DE5457015089_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-08 | fr-FR | ![](https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-07 | en-US | ![](https://www.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-07 | zh-CN | ![](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-07 | ja-JP | ![](https://www.bing.com/th?id=OHR.Chestnut2026_JA-JP0900389061_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Chestnut2026_JA-JP0900389061_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-07 | de-DE | ![](https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-07 | fr-FR | ![](https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-06 | en-US | ![](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-06 | zh-CN | ![](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
