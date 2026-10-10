@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-10-10:5310f635ee0525d0a45cf8db6ef8e74a",
+    "region": "en-US",
+    "date": "2026-10-10",
+    "title": "Life along the flyway",
+    "copyright": "Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)",
+    "copyrightLink": "https://www.bing.com/search?q=World+Migratory+Bird+Day&form=hpcapt&filters=HpDate%3a%2220261010_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Life%20along%20the%20flyway",
+    "createdAt": "2026-10-10T20:02:15.146Z",
+    "updatedAt": "2026-10-10T20:02:15.146Z"
+  },
+  {
     "id": "en-US:2026-10-09:b02bb55839b1ae7a0c2ad29f2f800c04",
     "region": "en-US",
     "date": "2026-10-09",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Corsica's%20rocky%20outposts",
     "createdAt": "2026-10-09T20:50:39.174Z",
-    "updatedAt": "2026-10-09T20:50:39.174Z"
+    "updatedAt": "2026-10-10T20:02:15.151Z"
   },
   {
     "id": "en-US:2026-10-08:2aec3e92b78336ed2093b71409a1e141",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Now%20you%20'sea'%20me...",
     "createdAt": "2026-10-08T21:16:45.066Z",
-    "updatedAt": "2026-10-09T20:50:39.177Z"
+    "updatedAt": "2026-10-10T20:02:15.151Z"
   },
   {
     "id": "en-US:2026-10-07:e0a4b6354c16a08bde612a11c8c44971",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Puzzled%3F%20Follow%20the%20trail",
     "createdAt": "2026-10-07T21:16:18.911Z",
-    "updatedAt": "2026-10-09T20:50:39.177Z"
+    "updatedAt": "2026-10-10T20:02:15.151Z"
   },
   {
     "id": "en-US:2026-10-06:7fe6039592d824e51b4f8241ce78c7a8",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Earth's%20story%20in%20stripes",
     "createdAt": "2026-10-06T20:56:57.938Z",
-    "updatedAt": "2026-10-09T20:50:39.177Z"
+    "updatedAt": "2026-10-10T20:02:15.151Z"
   },
   {
     "id": "en-US:2026-10-05:deabd04ab5e44f605eb1696bfd9dc774",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Taking%20the%20plunge%2C%20one%20lesson%20at%20a%20time",
     "createdAt": "2026-10-05T22:36:04.118Z",
-    "updatedAt": "2026-10-09T20:50:39.177Z"
+    "updatedAt": "2026-10-10T20:02:15.151Z"
   },
   {
     "id": "en-US:2026-10-04:1b940bd682797dd297ec5a0272f33c45",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-US5256990037_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20universe%20is%20calling",
     "createdAt": "2026-10-04T19:34:01.650Z",
-    "updatedAt": "2026-10-09T20:50:39.177Z"
+    "updatedAt": "2026-10-10T20:02:15.151Z"
   },
   {
     "id": "en-US:2026-10-03:d35d1a653af842c69073af14002779c3",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Catch%2C%20eat%2C%20repeat",
     "createdAt": "2026-10-03T19:11:35.164Z",
-    "updatedAt": "2026-10-09T20:50:39.177Z"
+    "updatedAt": "2026-10-10T20:02:15.151Z"
   },
   {
     "id": "en-US:2026-10-02:dc1a5289938b9110f41a85265580fa00",
