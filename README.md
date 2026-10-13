@@ -4,16 +4,19 @@
 
 ## 今日壁纸
 
-[![A landscape of living history](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A symphony in blue and green](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-12
+**日期：** 2026-10-13
 **区域：** en-US
-**描述：** White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)
+**描述：** Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-13 | en-US | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-13 | zh-CN | ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-13 | ja-JP | ![](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-12 | en-US | ![](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-12 | zh-CN | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-12 | ja-JP | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
@@ -21,9 +24,6 @@
 | 2026-10-12 | fr-FR | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-FR7127723381_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-FR7127723381_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-11 | en-US | ![](https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-11 | zh-CN | ![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-11 | ja-JP | ![](https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-11 | de-DE | ![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-11 | fr-FR | ![](https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
