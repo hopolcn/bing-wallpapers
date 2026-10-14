@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-10-14:26b82fcc80f37a7b150ffcb5eda97dbb",
+    "region": "en-US",
+    "date": "2026-10-14",
+    "title": "Spirals through time",
+    "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=National+Fossil+Day&form=hpcapt&filters=HpDate%3a%2220261014_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Spirals%20through%20time",
+    "createdAt": "2026-10-14T20:10:32.630Z",
+    "updatedAt": "2026-10-14T20:10:32.630Z"
+  },
+  {
+    "id": "zh-CN:2026-10-14:4ca868c84dea42c17e5d790158722de1",
+    "region": "zh-CN",
+    "date": "2026-10-14",
+    "title": "桥梁、屋顶与暮色",
+    "copyright": "弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%BC%97%E7%BD%97%E8%8C%A8%E7%93%A6%E5%A4%AB&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E6%A1%A5%E6%A2%81%E3%80%81%E5%B1%8B%E9%A1%B6%E4%B8%8E%E6%9A%AE%E8%89%B2",
+    "createdAt": "2026-10-14T20:10:32.630Z",
+    "updatedAt": "2026-10-14T20:10:32.630Z"
+  },
+  {
+    "id": "ja-JP:2026-10-14:8dabc2edf5cd48a5aa554f49a549b9c4",
+    "region": "ja-JP",
+    "date": "2026-10-14",
+    "title": "黄金色に輝く旧市街",
+    "copyright": "ヴロツワフ, ポーランド (© Piotr Mitelski/Shutterstock)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%83%B4%E3%83%AD%E3%83%84%E3%83%AF%E3%83%95&form=hpcapt&filters=HpDate%3a%2220261014_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E9%BB%84%E9%87%91%E8%89%B2%E3%81%AB%E8%BC%9D%E3%81%8F%E6%97%A7%E5%B8%82%E8%A1%97",
+    "createdAt": "2026-10-14T20:10:32.631Z",
+    "updatedAt": "2026-10-14T20:10:32.631Z"
+  },
+  {
     "id": "en-US:2026-10-13:7094c3af770dc83743e89e07376eaa13",
     "region": "en-US",
     "date": "2026-10-13",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20symphony%20in%20blue%20and%20green",
     "createdAt": "2026-10-13T21:12:06.155Z",
-    "updatedAt": "2026-10-13T21:12:06.156Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "zh-CN:2026-10-13:999a4070dbede033fe884401e20c4f09",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E9%97%B4%E7%9A%84%E8%9E%BA%E6%97%8B",
     "createdAt": "2026-10-13T21:12:06.156Z",
-    "updatedAt": "2026-10-13T21:12:06.156Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "ja-JP:2026-10-13:1aa3c70c5be0889e269a0cafaf1986e1",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E9%89%84%E9%81%93%E3%81%AE%E6%97%A5",
     "createdAt": "2026-10-13T21:12:06.156Z",
-    "updatedAt": "2026-10-13T21:12:06.156Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
+  },
+  {
+    "id": "de-DE:2026-10-13:901eef751bec2f1ad45708c53d06529f",
+    "region": "de-DE",
+    "date": "2026-10-13",
+    "title": "Spiralen durch die Zeit",
+    "copyright": "Ammonitenfossilien aus der Jurazeit (© J Nemchinova/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Fossilien&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Spiralen%20durch%20die%20Zeit",
+    "createdAt": "2026-10-14T20:10:32.631Z",
+    "updatedAt": "2026-10-14T20:10:32.631Z"
+  },
+  {
+    "id": "fr-FR:2026-10-13:a9154add3ed0cc86f974613da99d1cf9",
+    "region": "fr-FR",
+    "date": "2026-10-13",
+    "title": "Le temps pris dans la pierre",
+    "copyright": "Fossiles d'ammonites du Jurassique (© J Nemchinova/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=le+Jurassique&form=hpcapt&filters=HpDate%3a%2220261013_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Le%20temps%20pris%20dans%20la%20pierre",
+    "createdAt": "2026-10-14T20:10:32.631Z",
+    "updatedAt": "2026-10-14T20:10:32.631Z"
   },
   {
     "id": "en-US:2026-10-12:6c0c2f13c61c4ce29c46ccab4eddaece",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20landscape%20of%20living%20history",
     "createdAt": "2026-10-12T22:55:07.473Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "zh-CN:2026-10-12:ad1579bbbad955364787e365373dc47f",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%93%9D%E4%B8%8E%E7%BB%BF%E7%9A%84%E4%BA%A4%E5%93%8D%E6%9B%B2",
     "createdAt": "2026-10-12T22:55:07.473Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "ja-JP:2026-10-12:fe374f5e57c9748b12cc79dd0313ac72",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PlitviceAutumn_JA-JP3930294400_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%B4%85%E8%91%89%E3%81%AB%E5%BD%A9%E3%82%89%E3%82%8C%E3%81%9F%E6%B9%96%E3%81%A8%E6%BB%9D",
     "createdAt": "2026-10-12T22:55:07.473Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "de-DE:2026-10-12:d2660d70a47e1e66596b1949385dc859",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PlitviceAutumn_DE-DE7625110895_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Eine%20Symphonie%20in%20Blau%20und%20Gr%C3%BCn",
     "createdAt": "2026-10-12T22:55:07.473Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "fr-FR:2026-10-12:9e40aa5693f413a53a6ae1c48ee419cd",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PlitviceAutumn_FR-FR7127723381_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Variations%20en%20bleu%20et%20vert",
     "createdAt": "2026-10-12T22:55:07.473Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "en-US:2026-10-11:9a2472b0caec00547bedd682e1c045ea",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20autumn%20turns%20the%20wheel",
     "createdAt": "2026-10-11T20:12:38.787Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "zh-CN:2026-10-11:52a0d9733d05abd4f85ef59a8830caf9",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8E%E9%93%81%E8%BD%A8%E5%88%B0%E6%BD%AE%E6%B1%90",
     "createdAt": "2026-10-11T20:12:38.787Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "ja-JP:2026-10-11:b21075ded4d297421afe92ca849e0b7b",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedMacawsFlight_JA-JP3781300138_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%86%B1%E5%B8%AF%E3%81%AE%E6%A3%AE%E3%82%92%E8%88%9E%E3%81%86%E6%A5%B5%E5%BD%A9%E8%89%B2%E3%81%AE%E9%B3%A5%E3%81%9F%E3%81%A1",
     "createdAt": "2026-10-11T20:12:38.787Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "de-DE:2026-10-11:48c1e276b1d7a71006f66b5d1c901634",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_DE-DE6402348082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20Pier%20voller%20Geschichte",
     "createdAt": "2026-10-12T22:55:07.473Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "fr-FR:2026-10-11:6d94f1b67539bb84adc8847e18c50a25",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_FR-FR6666496816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Entre%20rails%20et%20mar%C3%A9es",
     "createdAt": "2026-10-12T22:55:07.473Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "en-US:2026-10-10:5310f635ee0525d0a45cf8db6ef8e74a",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Life%20along%20the%20flyway",
     "createdAt": "2026-10-10T20:02:15.146Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "zh-CN:2026-10-10:9561adf7c48edb8bad9274e4bfac4225",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%A7%8B%E8%89%B2%E4%B8%AD%E8%BD%AC%E5%8A%A8%E7%9A%84%E6%B0%B4%E8%BD%AE",
     "createdAt": "2026-10-10T20:02:15.147Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "ja-JP:2026-10-10:9dd07168a044160ed3c5e5f6fcf43b85",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BabcockSP_JA-JP1996620132_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%B4%85%E8%91%89%E3%81%AB%E5%8C%85%E3%81%BE%E3%82%8C%E3%81%9F%E6%B0%B4%E8%BB%8A%E5%B0%8F%E5%B1%8B",
     "createdAt": "2026-10-10T20:02:15.147Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "de-DE:2026-10-10:0e4330aadec483b158efba1a14fbe3ce",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MouflonAutumn_DE-DE6144771164_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Symbol%20urspr%C3%BCnglicher%20Natur",
     "createdAt": "2026-10-11T20:12:38.787Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "fr-FR:2026-10-10:d141cfec65df3e4abce597994814c271",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BabcockSP_FR-FR9462539296_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=La%20roue%20des%20saisons",
     "createdAt": "2026-10-11T20:12:38.787Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "en-US:2026-10-09:b02bb55839b1ae7a0c2ad29f2f800c04",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Corsica's%20rocky%20outposts",
     "createdAt": "2026-10-09T20:50:39.174Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "zh-CN:2026-10-09:5334aa6c5bad613d8231ab1fb253585d",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%BF%81%E9%A3%9E%E8%B7%AF%E7%BA%BF%E4%B8%8A%E7%9A%84%E7%94%9F%E5%91%BD",
     "createdAt": "2026-10-09T20:50:39.174Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "ja-JP:2026-10-09:a7e4cfb9b6836a4d18b1842cc6f749b5",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CormorantsFlight_JA-JP1768857084_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E4%B8%96%E7%95%8C%E6%B8%A1%E3%82%8A%E9%B3%A5%E3%81%AE%E6%97%A5",
     "createdAt": "2026-10-09T20:50:39.174Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "de-DE:2026-10-09:42e70252302399c63a094c37cf404424",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CormorantsFlight_DE-DE5717719144_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Leben%20entlang%20der%20Vogelzugroute",
     "createdAt": "2026-10-10T20:02:15.147Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "fr-FR:2026-10-09:01f07d9a215672dd22623cde85926158",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ArtemisRocket_FR-FR7987344274_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L'univers%20nous%20appelle",
     "createdAt": "2026-10-10T20:02:15.147Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "en-US:2026-10-08:2aec3e92b78336ed2093b71409a1e141",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Now%20you%20'sea'%20me...",
     "createdAt": "2026-10-08T21:16:45.066Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "zh-CN:2026-10-08:e324aa5d2988404657fe38261700de65",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%A7%91%E8%A5%BF%E5%98%89%E5%B2%9B%E7%9A%84%E5%B2%A9%E7%9F%B3%E5%89%8D%E5%93%A8",
     "createdAt": "2026-10-08T21:16:45.066Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "ja-JP:2026-10-08:a460408fddfdbf2472474c36dbedec46",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IlesSanguinaires_JA-JP1377358410_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E3%82%B3%E3%83%AB%E3%82%B7%E3%82%AB%E5%B3%B6%E3%82%92%E5%BD%A9%E3%82%8B%E7%BE%8E%E3%81%97%E3%81%84%E5%A4%95%E6%97%A5",
     "createdAt": "2026-10-08T21:16:45.066Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "de-DE:2026-10-08:4d8b1df31f0b6f0787362452051fc510",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IlesSanguinaires_DE-DE5457015089_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Korsikas%20felsige%20Inseln",
     "createdAt": "2026-10-09T20:50:39.174Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "fr-FR:2026-10-08:b5385af2ac36577d2e8ca2b2eec984d5",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.IlesSanguinaires_FR-FR5994303029_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Les%20%C3%AEles%20du%20bout%20du%20monde",
     "createdAt": "2026-10-09T20:50:39.174Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "en-US:2026-10-07:e0a4b6354c16a08bde612a11c8c44971",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Puzzled%3F%20Follow%20the%20trail",
     "createdAt": "2026-10-07T21:16:18.911Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "zh-CN:2026-10-07:331520d87b4d7e5a28772c33351d7153",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%8E%B0%E5%9C%A8%E4%BD%A0%E2%80%9C%E6%B5%B7%E2%80%9D%E8%83%BD%E7%9C%8B%E8%A7%81%E6%88%91%E2%80%A6%E2%80%A6",
     "createdAt": "2026-10-07T21:16:18.911Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "ja-JP:2026-10-07:f923940988260220a8aa38e5fbf615d3",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Chestnut2026_JA-JP0900389061_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E5%AF%92%E9%9C%B2",
     "createdAt": "2026-10-07T21:16:18.911Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "de-DE:2026-10-07:f5712c5752985b79a7442914d84a9942",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MayotteOctopus_DE-DE5307771405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Meister%20der%20Tarnung",
     "createdAt": "2026-10-08T21:16:45.066Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "fr-FR:2026-10-07:baeeb03654162a2eaa1439de2eee4b89",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MayotteOctopus_FR-FR2063163267_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Poulpe%20fiction",
     "createdAt": "2026-10-08T21:16:45.066Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "en-US:2026-10-06:7fe6039592d824e51b4f8241ce78c7a8",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ForestofDean_DE-DE4809664679_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wie%20im%20M%C3%A4rchen",
     "createdAt": "2026-10-07T21:16:18.911Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "fr-FR:2026-10-06:7478f5655058965936873d9e495a7539",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ForestofDean_FR-FR4745623763_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=La%20for%C3%AAt%20aux%20mille%20secrets",
     "createdAt": "2026-10-07T21:16:18.911Z",
-    "updatedAt": "2026-10-13T21:12:06.159Z"
+    "updatedAt": "2026-10-14T20:10:32.635Z"
   },
   {
     "id": "en-US:2026-10-05:deabd04ab5e44f605eb1696bfd9dc774",
