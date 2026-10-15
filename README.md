@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Spirals through time](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Bridges, rooftops, and twilight](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-14
+**日期：** 2026-10-15
 **区域：** en-US
-**描述：** Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)
+**描述：** View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-15 | en-US | ![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-15 | zh-CN | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-15 | ja-JP | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-14 | en-US | ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-14 | zh-CN | ![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-14 | ja-JP | ![](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WroclawPoland_JA-JP4298283472_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-14 | de-DE | ![](https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WroclawPoland_DE-DE7177247783_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-14 | fr-FR | ![](https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WroclawPoland_FR-FR0061683282_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-13 | en-US | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-13 | zh-CN | ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-13 | ja-JP | ![](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RailwayDay2026_JA-JP4058067313_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-13 | de-DE | ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmmoniteFossils_DE-DE6773160072_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-13 | fr-FR | ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmmoniteFossils_FR-FR7395830779_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-12 | en-US | ![](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-12 | zh-CN | ![](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
