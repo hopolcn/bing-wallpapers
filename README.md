@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[!['Peak' into Colorado](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![The past, unearthed](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-16
+**日期：** 2026-10-17
 **区域：** en-US
-**描述：** Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)
+**描述：** Life-size replica of Chauvet  cave art in Vallon-Pont-d'Arc, France (© Audrey Poree/Alamy)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-17 | en-US | ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-17 | ja-JP | ![](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DolbadarnWales_JA-JP2361140889_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-16 | en-US | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-16 | zh-CN | ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-16 | ja-JP | ![](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Persimmons2026_JA-JP2192858733_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-16 | de-DE | ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_DE-DE0392727746_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-16 | fr-FR | ![](https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SmilingSquirrel_FR-FR7350313584_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-15 | en-US | ![](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-15 | zh-CN | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-15 | ja-JP | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SneffelsAutumn_JA-JP1327078827_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-15 | de-DE | ![](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AndechsAbbey_DE-DE4997798666_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-15 | fr-FR | ![](https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SneffelsAutumn_FR-FR3895133232_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-14 | en-US | ![](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-14 | zh-CN | ![](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
