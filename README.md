@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![The road that runs on water](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Life in the slow lane](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-19
+**日期：** 2026-10-20
 **区域：** en-US
-**描述：** Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)
+**描述：** Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-20 | en-US | ![](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-20 | zh-CN | ![](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-20 | ja-JP | ![](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-19 | en-US | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-19 | ja-JP | ![](https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-19 | de-DE | ![](https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-19 | fr-FR | ![](https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-18 | en-US | ![](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-18 | zh-CN | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-18 | ja-JP | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-18 | de-DE | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_DE-DE1204445748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VeniceSunrise_DE-DE1204445748_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-18 | fr-FR | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_FR-FR4230208455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VeniceSunrise_FR-FR4230208455_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-17 | en-US | ![](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_EN-US6137200151_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
