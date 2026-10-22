@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Winging it over the river](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Still waters, vivid colors](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-21
+**日期：** 2026-10-22
 **区域：** en-US
-**描述：** Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)
+**描述：** Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-22 | en-US | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-22 | zh-CN | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-22 | ja-JP | ![](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-21 | en-US | ![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-21 | zh-CN | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-21 | ja-JP | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-21 | de-DE | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-21 | fr-FR | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_FR-FR8219456677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NaejangsanNP_FR-FR8219456677_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-20 | en-US | ![](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-20 | zh-CN | ![](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-20 | ja-JP | ![](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-20 | de-DE | ![](https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-20 | fr-FR | ![](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-19 | en-US | ![](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
