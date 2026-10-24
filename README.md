@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Partners in the wild](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Bookishly extravagant](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-23
+**日期：** 2026-10-24
 **区域：** en-US
-**描述：** Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)
+**描述：** Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-24 | en-US | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-24 | zh-CN | ![](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-24 | ja-JP | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-23 | en-US | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-23 | zh-CN | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-23 | ja-JP | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-23 | de-DE | ![](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-23 | fr-FR | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-FR9364310812_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-FR9364310812_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-22 | en-US | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-22 | zh-CN | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-22 | ja-JP | ![](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-22 | de-DE | ![](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-22 | fr-FR | ![](https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-21 | en-US | ![](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-21 | zh-CN | ![](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
