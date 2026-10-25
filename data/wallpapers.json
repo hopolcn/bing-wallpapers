@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-10-25:f64493809c164c7be4fb02e2be9cec09",
+    "region": "en-US",
+    "date": "2026-10-25",
+    "title": "Nature's autumn soundtrack",
+    "copyright": "Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Sitovo+Plovdiv+Bulgaria&form=hpcapt&filters=HpDate%3a%2220261025_0700%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Nature's%20autumn%20soundtrack",
+    "createdAt": "2026-10-25T18:59:11.714Z",
+    "updatedAt": "2026-10-25T18:59:11.714Z"
+  },
+  {
+    "id": "zh-CN:2026-10-25:61fbf9f782353a6a4a80ac713224c053",
+    "region": "zh-CN",
+    "date": "2026-10-25",
+    "title": "大自然的秋日乐章",
+    "copyright": "秋日瀑布，西托沃附近，普罗夫迪夫州，保加利亚 (© Nadya85/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E6%99%AE%E7%BD%97%E5%A4%AB%E8%BF%AA%E5%A4%AB%E8%A5%BF%E6%89%98%E6%B2%83&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%A4%A7%E8%87%AA%E7%84%B6%E7%9A%84%E7%A7%8B%E6%97%A5%E4%B9%90%E7%AB%A0",
+    "createdAt": "2026-10-25T18:59:11.714Z",
+    "updatedAt": "2026-10-25T18:59:11.714Z"
+  },
+  {
+    "id": "ja-JP:2026-10-25:ba3b9357a7903c9f2c403fb4cbe7f5c5",
+    "region": "ja-JP",
+    "date": "2026-10-25",
+    "title": "紅葉の中を流れ落ちる滝",
+    "copyright": "シトヴォ滝, ブルガリア (© Nadya85/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Sitovo+waterfall&form=hpcapt&filters=HpDate%3a%2220261025_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E7%B4%85%E8%91%89%E3%81%AE%E4%B8%AD%E3%82%92%E6%B5%81%E3%82%8C%E8%90%BD%E3%81%A1%E3%82%8B%E6%BB%9D",
+    "createdAt": "2026-10-25T18:59:11.714Z",
+    "updatedAt": "2026-10-25T18:59:11.714Z"
+  },
+  {
     "id": "en-US:2026-10-24:3057fa6ba3981b84f32ee198891d6232",
     "region": "en-US",
     "date": "2026-10-24",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Bookishly%20extravagant",
     "createdAt": "2026-10-24T18:45:42.587Z",
-    "updatedAt": "2026-10-24T18:45:42.587Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "zh-CN:2026-10-24:e5e6a9075ef5d714848599cb68148e62",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%BE%A4%E5%B3%B0%E4%B8%8E%E5%AE%81%E9%9D%99%E7%9B%B8%E9%81%87%E4%B9%8B%E5%9C%B0",
     "createdAt": "2026-10-24T18:45:42.587Z",
-    "updatedAt": "2026-10-24T18:45:42.587Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "ja-JP:2026-10-24:0e57031225329d3d9b0ed50e8ef6ba83",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowstoneWolves_JA-JP3378091323_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%86%AC%E3%81%AE%E5%A4%A7%E5%9C%B0%E3%82%92%E9%80%B2%E3%82%80%E3%82%AA%E3%82%AA%E3%82%AB%E3%83%9F%E3%81%9F%E3%81%A1",
     "createdAt": "2026-10-24T18:45:42.587Z",
-    "updatedAt": "2026-10-24T18:45:42.587Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
+  },
+  {
+    "id": "de-DE:2026-10-24:67376e6c1a7c1c43865a6191537b8331",
+    "region": "de-DE",
+    "date": "2026-10-24",
+    "title": "Wo Gipfel auf Stille treffen",
+    "copyright": "Maligne Lake, Jasper-Nationalpark, Alberta, Kanada (© Andrey Popov/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Jasper-Nationalpark+Kanada&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.MaligneFest_DE-DE5179640958_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Wo%20Gipfel%20auf%20Stille%20treffen",
+    "createdAt": "2026-10-25T18:59:11.714Z",
+    "updatedAt": "2026-10-25T18:59:11.714Z"
+  },
+  {
+    "id": "fr-FR:2026-10-24:9c4c6e7c01f6de7f73bb92f1ecb12701",
+    "region": "fr-FR",
+    "date": "2026-10-24",
+    "title": "Des étoiles plein les yeux",
+    "copyright": "Lac Maligne, Parc national Jasper, Alberta, Canada (© Andrey Popov/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Lac+Maligne&form=hpcapt&filters=HpDate%3a%2220261024_2200%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.MaligneFest_FR-FR5795515025_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Des%20%C3%A9toiles%20plein%20les%20yeux",
+    "createdAt": "2026-10-25T18:59:11.714Z",
+    "updatedAt": "2026-10-25T18:59:11.714Z"
   },
   {
     "id": "en-US:2026-10-23:8abec359cbf3a5980614a3263fd4fc4f",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Partners%20in%20the%20wild",
     "createdAt": "2026-10-23T19:56:19.122Z",
-    "updatedAt": "2026-10-24T18:45:42.591Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "zh-CN:2026-10-23:8b6a33956db57eaa614b800cd9e6c3d8",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%B9%A6%E9%A6%99%E9%87%8C%E7%9A%84%E6%9E%81%E8%87%B4%E5%8D%8E%E7%BE%8E",
     "createdAt": "2026-10-23T19:56:19.122Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "ja-JP:2026-10-23:8b58e40b8bc4c736d8fcfbdfa4dbcd4a",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PortugueseLibrary_JA-JP3230226750_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E5%A4%A9%E7%AA%93%E3%81%8B%E3%82%89%E5%B7%AE%E3%81%97%E8%BE%BC%E3%82%80%E8%87%AA%E7%84%B6%E5%85%89",
     "createdAt": "2026-10-23T19:56:19.122Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "de-DE:2026-10-23:9c5b9f920b4fb3d0b584940791a948d7",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BerlinLibrary_DE-DE5145605761_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architektur%20des%20Wissens",
     "createdAt": "2026-10-24T18:45:42.587Z",
-    "updatedAt": "2026-10-24T18:45:42.587Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "fr-FR:2026-10-23:4790dfb15e80e526cb6909b74417453e",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PortugueseLibrary_FR-FR9364310812_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=De%20quoi%20en%20perdre%20ses%20mots",
     "createdAt": "2026-10-24T18:45:42.587Z",
-    "updatedAt": "2026-10-24T18:45:42.587Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "en-US:2026-10-22:a3adc35d3112b7c71d573dc4c5d3a267",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NaejangsanNP_EN-US7010419904_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Still%20waters%2C%20vivid%20colors",
     "createdAt": "2026-10-22T20:02:19.110Z",
-    "updatedAt": "2026-10-24T18:45:42.591Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "zh-CN:2026-10-22:0360442f708dff212a10b844a50f9ef0",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%8D%92%E9%87%8E%E4%BC%99%E4%BC%B4",
     "createdAt": "2026-10-22T20:02:19.110Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "ja-JP:2026-10-22:4fc0300d93f58e640c52c6fd2122f2d6",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TsutanumaMomiji2026_JA-JP1409614988_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E4%BB%8A%E6%97%A5%E3%81%AF%E9%9C%9C%E9%99%8D",
     "createdAt": "2026-10-22T20:02:19.110Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "de-DE:2026-10-22:95a05e174a85c811538bc0ce91bb7939",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.YellowstoneWolves_DE-DE2017697752_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Partner%20in%20freier%20Wildbahn",
     "createdAt": "2026-10-23T19:56:19.122Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "fr-FR:2026-10-22:a0b99ea03aaad92520cc50fed1b7751c",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ReimsChampagne_FR-FR6230244152_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%C3%A0%20o%C3%B9%20naissent%20les%20bulles",
     "createdAt": "2026-10-23T19:56:19.122Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "en-US:2026-10-21:8f0294e98273a80924fc03f029d9ba38",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Winging%20it%20over%20the%20river",
     "createdAt": "2026-10-21T20:06:09.628Z",
-    "updatedAt": "2026-10-24T18:45:42.591Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "zh-CN:2026-10-21:f5712223d70223a41356c0e2064f8cbd",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%9D%99%E6%B0%B4%E6%98%A0%E6%96%91%E6%96%93",
     "createdAt": "2026-10-21T20:06:09.629Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "ja-JP:2026-10-21:b98333ed9cc7fda9e958bf351e624a0d",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NaejangsanNP_JA-JP7092803320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%B4%85%E8%91%89%E3%81%AB%E5%BD%A9%E3%82%89%E3%82%8C%E3%81%9F%E6%9D%B1%E5%B1%8B",
     "createdAt": "2026-10-21T20:06:09.629Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "de-DE:2026-10-21:b7718fca32e311c95955a0eec6319c7d",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NaejangsanNP_DE-DE1873468197_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Stille%20Wasser%2C%20leuchtende%20Farben",
     "createdAt": "2026-10-22T20:02:19.111Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "fr-FR:2026-10-21:3cb68dde86425308677a2e65c5cb7d27",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NaejangsanNP_FR-FR8219456677_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Eaux%20paisibles%2C%20teintes%20flamboyantes",
     "createdAt": "2026-10-22T20:02:19.111Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "en-US:2026-10-20:6b44eaf6f9657e0a36b39f0df6d68bc1",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Life%20in%20the%20slow%20lane",
     "createdAt": "2026-10-20T19:58:51.749Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "zh-CN:2026-10-20:a7a759485d043460ce495a296170a16d",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%A3%9E%E6%8E%A0%E6%B2%B3%E9%9D%A2",
     "createdAt": "2026-10-20T19:58:51.749Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "ja-JP:2026-10-20:7f1ddbc0e86dcb41de3c9d13610bbbce",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VietnamBridge_JA-JP2833280767_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E3%83%A9%E3%82%A4%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A2%E3%83%BC%E3%83%81%E6%A9%8B",
     "createdAt": "2026-10-20T19:58:51.749Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "de-DE:2026-10-20:ce6088b3f21dd4859d761f672b5d6049",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VietnamBridge_DE-DE1735618070_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%C3%9Cber%20den%20Fluss%20fliegen",
     "createdAt": "2026-10-21T20:06:09.629Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "fr-FR:2026-10-20:92b881122e341d2dacf10d588e7812c2",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VietnamBridge_FR-FR7991423921_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Vol%20au-dessus%20de%20la%20rivi%C3%A8re",
     "createdAt": "2026-10-21T20:06:09.629Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "en-US:2026-10-19:726e7020a29b1793f29d81fa4457a0a6",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20road%20that%20runs%20on%20water",
     "createdAt": "2026-10-19T21:01:13.399Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "zh-CN:2026-10-19:1a1dd724adcbc1c2aa3af8c97ea83f63",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%85%A2%E8%8A%82%E5%A5%8F%E7%94%9F%E6%B4%BB",
     "createdAt": "2026-10-19T21:01:13.399Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "ja-JP:2026-10-19:d04af97dd423cd5325b7221b154b8b5b",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BrownSloth_JA-JP2697515435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%9C%A8%E3%81%AE%E6%9E%9D%E3%81%AB%E3%81%B6%E3%82%89%E4%B8%8B%E3%81%8C%E3%82%8B%E3%83%8A%E3%83%9E%E3%82%B1%E3%83%A2%E3%83%8E",
     "createdAt": "2026-10-19T21:01:13.399Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "de-DE:2026-10-19:f577862db4826918e95331b413d2f49e",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BrownSloth_DE-DE1394372620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Immer%20mit%20der%20Ruhe",
     "createdAt": "2026-10-20T19:58:51.749Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "fr-FR:2026-10-19:0fe1e8928b291eefb7a682a9b7bf9123",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BrownSloth_FR-FR7781895704_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=La%20vie%20au%20ralenti",
     "createdAt": "2026-10-20T19:58:51.749Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "en-US:2026-10-18:5e751a9ace0e95ca2c6ab70145f17579",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DolbadarnWales_EN-US6620614213_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=75%20and%20thriving",
     "createdAt": "2026-10-18T18:36:05.861Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "zh-CN:2026-10-18:423ca0274a16c6906e776de99f1a0240",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B0%B4%E4%B8%8A%E9%80%9A%E8%A1%A2",
     "createdAt": "2026-10-18T18:36:05.861Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "ja-JP:2026-10-18:e65aabb3d8da636f099bf137d3647b45",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VeniceSunrise_JA-JP2535499489_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A4%95%E7%84%BC%E3%81%91%E3%81%AB%E6%9F%93%E3%81%BE%E3%82%8B%E3%83%B4%E3%82%A7%E3%83%8D%E3%83%84%E3%82%A3%E3%82%A2%E3%81%AE%E5%A4%A7%E9%81%8B%E6%B2%B3",
     "createdAt": "2026-10-18T18:36:05.861Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "de-DE:2026-10-18:229cacb2c24c62e5b3cef560d50a0a14",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VeniceSunrise_DE-DE1204445748_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Die%20Stra%C3%9Fe%2C%20die%20%C3%BCbers%20Wasser%20f%C3%BChrt",
     "createdAt": "2026-10-19T21:01:13.399Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "fr-FR:2026-10-18:56a6a5ececac5eed0ced7d9230d5855e",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.VeniceSunrise_FR-FR4230208455_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Des%20routes%20qui%20%C3%A9claboussent",
     "createdAt": "2026-10-19T21:01:13.399Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "en-US:2026-10-17:b446a1745d30d372bc3f367affdcb648",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DolbadarnWales_DE-DE0565954250_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=75%20und%20voller%20Leben",
     "createdAt": "2026-10-18T18:36:05.861Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "fr-FR:2026-10-17:3056a451379cdad774a468eb9f98d370",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DolbadarnWales_FR-FR3604957648_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=75%20ans%20et%20rayonnant",
     "createdAt": "2026-10-18T18:36:05.861Z",
-    "updatedAt": "2026-10-24T18:45:42.592Z"
+    "updatedAt": "2026-10-25T18:59:11.719Z"
   },
   {
     "id": "en-US:2026-10-16:1fbd6203de00eef691ca704a9a7b1048",
