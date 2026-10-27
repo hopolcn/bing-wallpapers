@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Hanging in there](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Nature's golden mirror](https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-26
+**日期：** 2026-10-27
 **区域：** en-US
-**描述：** Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)
+**描述：** A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-27 | en-US | ![](https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-27 | zh-CN | ![](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-27 | ja-JP | ![](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KuneticeCastle_JA-JP3914699688_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-26 | en-US | ![](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-26 | zh-CN | ![](https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-26 | ja-JP | ![](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PondCypress_JA-JP5777656593_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-26 | de-DE | ![](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PondCypress_DE-DE2656375905_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-26 | fr-FR | ![](https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-25 | en-US | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SitovoWaterfall_EN-US7626867890_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-25 | zh-CN | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SitovoWaterfall_ZH-CN8495214046_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-25 | ja-JP | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SitovoWaterfall_JA-JP3524382726_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-25 | de-DE | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SitovoWaterfall_DE-DE2533514641_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-25 | fr-FR | ![](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SitovoWaterfall_FR-FR3730397148_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-24 | en-US | ![](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-24 | zh-CN | ![](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
