@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Time to fly high](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Ghosts of empires past](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-10-30
+**日期：** 2026-10-31
 **区域：** en-US
-**描述：** Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)
+**描述：** St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-10-31 | en-US | ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-31 | zh-CN | ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-31 | ja-JP | ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-30 | en-US | ![](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-30 | zh-CN | ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-30 | ja-JP | ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-30 | de-DE | ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-10-30 | fr-FR | ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-29 | en-US | ![](https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-10-29 | zh-CN | ![](https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-29 | ja-JP | ![](https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-29 | de-DE | ![](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-29 | fr-FR | ![](https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-28 | en-US | ![](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-28 | zh-CN | ![](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
