@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-11-02:ffd667463af0d9f224c644a4e59629fb",
+    "region": "en-US",
+    "date": "2026-11-02",
+    "title": "A future written in ice",
+    "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+    "copyrightLink": "https://www.bing.com/search?q=Polar+Bear+Week&form=hpcapt&filters=HpDate%3a%2220261102_0800%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=A%20future%20written%20in%20ice",
+    "createdAt": "2026-11-02T23:28:01.986Z",
+    "updatedAt": "2026-11-02T23:28:01.987Z"
+  },
+  {
     "id": "en-US:2026-11-01:cbbf95e19ef284f39a83ac650e836604",
     "region": "en-US",
     "date": "2026-11-01",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Crafting%20continuity",
     "createdAt": "2026-11-01T20:27:25.420Z",
-    "updatedAt": "2026-11-01T20:27:25.420Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "en-US:2026-10-31:e25c7f25469ffaf6f514c40eab16d2b6",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ghosts%20of%20empires%20past",
     "createdAt": "2026-10-31T19:56:18.816Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "en-US:2026-10-30:5d23d8ca2501c88990d08bf23b12dd87",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Time%20to%20fly%20high",
     "createdAt": "2026-10-30T20:43:25.298Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "en-US:2026-10-29:338d41a1a4b047131c218e34862ea766",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20mist%20meets%20millennia",
     "createdAt": "2026-10-29T21:03:21.743Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "en-US:2026-10-28:91f1c7013a17a3fe22dcc845d15fbee4",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20history%20stands%20watch",
     "createdAt": "2026-10-28T21:00:01.055Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "en-US:2026-10-27:8c3480019357ff01bd574a7e13966224",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Nature's%20golden%20mirror",
     "createdAt": "2026-10-27T20:39:46.143Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "en-US:2026-10-26:a7c299adafaab46a527c467155126330",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Hanging%20in%20there",
     "createdAt": "2026-10-26T20:59:38.857Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "en-US:2026-10-25:f64493809c164c7be4fb02e2be9cec09",

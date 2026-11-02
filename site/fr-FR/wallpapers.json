@@ -1,5 +1,33 @@
 [
   {
+    "id": "fr-FR:2026-11-02:0f6ae79e0a62e140c8d77829d70cef83",
+    "region": "fr-FR",
+    "date": "2026-11-02",
+    "title": "La paix parmi les sommets",
+    "copyright": "Lac de Braies, Parc naturel Fanes‑Sennes‑Braies, Dolomites, Italie (© leonid_tit/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Lac+de+Braies+Dolomites&form=hpcapt&filters=HpDate%3a%2220261102_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=La%20paix%20parmi%20les%20sommets",
+    "createdAt": "2026-11-02T23:28:01.987Z",
+    "updatedAt": "2026-11-02T23:28:01.987Z"
+  },
+  {
+    "id": "fr-FR:2026-11-01:38626787e73cf9f113c6f938cd201edc",
+    "region": "fr-FR",
+    "date": "2026-11-01",
+    "title": "Un avenir écrit dans la glace",
+    "copyright": "Ours polaire et oursons, baie d'Hudson, Manitoba, Canada (© Danita Delimont/Adobe Stock)",
+    "copyrightLink": "https://www.bing.com/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220261101_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Un%20avenir%20%C3%A9crit%20dans%20la%20glace",
+    "createdAt": "2026-11-02T23:28:01.987Z",
+    "updatedAt": "2026-11-02T23:28:01.987Z"
+  },
+  {
     "id": "fr-FR:2026-10-31:e0fee05c7ff3b9c39eb6a77dd9762d4b",
     "region": "fr-FR",
     "date": "2026-10-31",
@@ -11,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Manteau%20de%20brume%20sur%20la%20for%C3%AAt",
     "createdAt": "2026-11-01T20:27:25.420Z",
-    "updatedAt": "2026-11-01T20:27:25.420Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "fr-FR:2026-10-30:8bcbde37bd0e519c0dba14a975e2a7d0",
@@ -25,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Visiteurs%20d'un%20autre%20monde",
     "createdAt": "2026-10-31T19:56:18.817Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "fr-FR:2026-10-29:f15856096ad24efa5cd5406c49efaa99",
@@ -39,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L'heure%20de%20prendre%20de%20la%20hauteur",
     "createdAt": "2026-10-30T20:43:25.298Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "fr-FR:2026-10-28:b1c67b505596f327f29db1c78b0ac685",
@@ -53,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AveburyStones_FR-FR0792308002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Des%20mill%C3%A9naires%20caress%C3%A9s%20par%20la%20brume",
     "createdAt": "2026-10-29T21:03:21.743Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "fr-FR:2026-10-27:9a99f44925295cf630280c1d324da1c0",
@@ -67,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KuneticeCastle_FR-FR0560907896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Gardien%20de%20l%E2%80%99histoire",
     "createdAt": "2026-10-28T21:00:01.055Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "fr-FR:2026-10-26:b861b8207975be95946c47f039c354dc",
@@ -81,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PondCypress_FR-FR3578297716_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Le%20reflet%20dor%C3%A9%20de%20la%20nature",
     "createdAt": "2026-10-27T20:39:46.144Z",
-    "updatedAt": "2026-11-01T20:27:25.424Z"
+    "updatedAt": "2026-11-02T23:28:01.990Z"
   },
   {
     "id": "fr-FR:2026-10-25:49373adfcb3d1e27f4c8df00c8781f68",

@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Crafting continuity](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![A future written in ice](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-11-01
+**日期：** 2026-11-02
 **区域：** en-US
-**描述：** Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)
+**描述：** Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-11-02 | en-US | ![](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-02 | ja-JP | ![](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-02 | de-DE | ![](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-02 | fr-FR | ![](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-01 | en-US | ![](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-01 | zh-CN | ![](https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-01 | ja-JP | ![](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-31 | en-US | ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-31 | zh-CN | ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-31 | ja-JP | ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-31 | de-DE | ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-31 | fr-FR | ![](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-30 | en-US | ![](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-10-30 | zh-CN | ![](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-01 | de-DE | ![](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-01 | fr-FR | ![](https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
