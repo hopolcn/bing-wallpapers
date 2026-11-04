@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-11-04:e8c4754f441cfc007f83f56b14a81590",
+    "region": "en-US",
+    "date": "2026-11-04",
+    "title": "Paddling a painted forest",
+    "copyright": "People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=bald+cypress&form=hpcapt&filters=HpDate%3a%2220261104_0800%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Paddling%20a%20painted%20forest",
+    "createdAt": "2026-11-04T21:50:15.185Z",
+    "updatedAt": "2026-11-04T21:50:15.185Z"
+  },
+  {
+    "id": "zh-CN:2026-11-04:e764edbedb3e17b846cc1a31ea9fa5a8",
+    "region": "zh-CN",
+    "date": "2026-11-04",
+    "title": "向山巅再迈一步",
+    "copyright": "石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B9%96%E5%8C%BA&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%90%91%E5%B1%B1%E5%B7%85%E5%86%8D%E8%BF%88%E4%B8%80%E6%AD%A5",
+    "createdAt": "2026-11-04T21:50:15.185Z",
+    "updatedAt": "2026-11-04T21:50:15.185Z"
+  },
+  {
+    "id": "ja-JP:2026-11-04:0ea8942b14de59feb101818f8b8e127c",
+    "region": "ja-JP",
+    "date": "2026-11-04",
+    "title": "山頂へ、もう一歩",
+    "copyright": "石垣に設けられた木製の踏み越し段、ブラック・クラッグ、湖水地方、イギリス (© Alex Treadway/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E6%B9%96%E6%B0%B4%E5%9C%B0%E6%96%B9&form=hpcapt&filters=HpDate%3a%2220261104_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%B1%B1%E9%A0%82%E3%81%B8%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E6%AD%A9",
+    "createdAt": "2026-11-04T21:50:15.185Z",
+    "updatedAt": "2026-11-04T21:50:15.185Z"
+  },
+  {
     "id": "en-US:2026-11-03:fac06918b8a8697c857ecbd3624bccd5",
     "region": "en-US",
     "date": "2026-11-03",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Peace%20among%20the%20peaks",
     "createdAt": "2026-11-03T21:43:17.642Z",
-    "updatedAt": "2026-11-03T21:43:17.642Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "zh-CN:2026-11-03:92b10e60db48e67f8af937985ce75657",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B3%9B%E8%88%9F%E5%A6%82%E7%94%BB%E7%A7%8B%E6%9E%97",
     "createdAt": "2026-11-03T21:43:17.642Z",
-    "updatedAt": "2026-11-03T21:43:17.642Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "ja-JP:2026-11-03:75eefaf78810c15b2afe6d6173bb6bc1",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%A7%8B%E8%89%B2%E3%81%AE%E6%A3%AE%E3%82%92%E6%B0%B4%E4%B8%8A%E6%95%A3%E6%AD%A9",
     "createdAt": "2026-11-03T21:43:17.642Z",
-    "updatedAt": "2026-11-03T21:43:17.642Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
+  },
+  {
+    "id": "de-DE:2026-11-03:4628563faa3a2dea18938b0a26f409bc",
+    "region": "de-DE",
+    "date": "2026-11-03",
+    "title": "Paddeln durch ein Gemälde",
+    "copyright": "Paddler zwischen farbenprächtigen Sumpfzypressen, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Sumpfzypressen&form=hpcapt&filters=HpDate%3a%2220261103_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Paddeln%20durch%20ein%20Gem%C3%A4lde",
+    "createdAt": "2026-11-04T21:50:15.185Z",
+    "updatedAt": "2026-11-04T21:50:15.185Z"
+  },
+  {
+    "id": "fr-FR:2026-11-03:f871f5d11c264b35ee9f041da09ed3f2",
+    "region": "fr-FR",
+    "date": "2026-11-03",
+    "title": "Glisser à travers une peinture",
+    "copyright": "Kayak dans une forêt de cyprès, Xuancheng, Anhui, Chine (© Jackal Pan/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=cypr%C3%A8s+chauve&form=hpcapt&filters=HpDate%3a%2220261103_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Glisser%20%C3%A0%20travers%20une%20peinture",
+    "createdAt": "2026-11-04T21:50:15.185Z",
+    "updatedAt": "2026-11-04T21:50:15.185Z"
   },
   {
     "id": "en-US:2026-11-02:ffd667463af0d9f224c644a4e59629fb",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20future%20written%20in%20ice",
     "createdAt": "2026-11-02T23:28:01.986Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "zh-CN:2026-11-02:6bd5dfc358e5b75ec73225f8ebca75dd",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%BE%A4%E5%B3%B0%E9%97%B4%E7%9A%84%E5%AE%81%E9%9D%99",
     "createdAt": "2026-11-02T23:28:01.987Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "ja-JP:2026-11-02:3bc8086058cd73ed30c6845da455577d",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_JA-JP1334653956_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%B1%B1%E3%80%85%E3%81%AB%E6%8A%B1%E3%81%8B%E3%82%8C%E3%81%9F%E9%9D%99%E3%81%91%E3%81%95",
     "createdAt": "2026-11-02T23:28:01.987Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "de-DE:2026-11-02:5d09031a93a455e4cca7225082b52406",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_DE-DE4176036164_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Stille%20Gipfelwelten",
     "createdAt": "2026-11-02T23:28:01.987Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "fr-FR:2026-11-02:0f6ae79e0a62e140c8d77829d70cef83",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AlpineBraies_FR-FR8651963330_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=La%20paix%20parmi%20les%20sommets",
     "createdAt": "2026-11-02T23:28:01.987Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "en-US:2026-11-01:cbbf95e19ef284f39a83ac650e836604",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Crafting%20continuity",
     "createdAt": "2026-11-01T20:27:25.420Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "zh-CN:2026-11-01:c091713ae0083d7086be3f2e0dba0f90",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HudsonBear_ZH-CN6630706907_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%86%99%E5%9C%A8%E5%86%B0%E4%B8%8A%E7%9A%84%E6%9C%AA%E6%9D%A5",
     "createdAt": "2026-11-01T20:27:25.420Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "ja-JP:2026-11-01:0960b68acb12cc5637d49b762a871631",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HudsonBear_JA-JP9155678647_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B0%B7%E3%81%8C%E3%81%A4%E3%81%AA%E3%81%90%E6%9C%AA%E6%9D%A5",
     "createdAt": "2026-11-01T20:27:25.420Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "de-DE:2026-11-01:bf8891f81fe007be6cb02cf43de9a9bd",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HudsonBear_DE-DE3504338986_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Eine%20Zukunft%2C%20gepr%C3%A4gt%20vom%20Eis",
     "createdAt": "2026-11-02T23:28:01.987Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "fr-FR:2026-11-01:38626787e73cf9f113c6f938cd201edc",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.HudsonBear_FR-FR2767726453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20avenir%20%C3%A9crit%20dans%20la%20glace",
     "createdAt": "2026-11-02T23:28:01.987Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "en-US:2026-10-31:e25c7f25469ffaf6f514c40eab16d2b6",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ghosts%20of%20empires%20past",
     "createdAt": "2026-10-31T19:56:18.816Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "zh-CN:2026-10-31:242d9ded23355c54c0b733c1211d1586",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ZH-CN6323627599_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%9E%97%E9%97%B4%E8%BF%B7%E9%9B%BE",
     "createdAt": "2026-10-31T19:56:18.817Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "ja-JP:2026-10-31:9d61dfe50c7531c2810a8dc8fef12fdb",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_JA-JP7556408951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%9C%A8%E3%80%85%E3%82%92%E5%8C%85%E3%82%80%E9%9C%A7",
     "createdAt": "2026-10-31T19:56:18.817Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "de-DE:2026-10-31:8d708799fc049d1f4a9cb7098e3a5214",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=W%C3%A4lder%20im%20Nebel",
     "createdAt": "2026-11-01T20:27:25.420Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "fr-FR:2026-10-31:e0fee05c7ff3b9c39eb6a77dd9762d4b",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_FR-FR8510928698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Manteau%20de%20brume%20sur%20la%20for%C3%AAt",
     "createdAt": "2026-11-01T20:27:25.420Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "en-US:2026-10-30:5d23d8ca2501c88990d08bf23b12dd87",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Time%20to%20fly%20high",
     "createdAt": "2026-10-30T20:43:25.298Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "zh-CN:2026-10-30:d50b635f82614ecfde8e234c0f6d0631",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%BE%80%E6%98%94%E5%B8%9D%E5%9B%BD%E7%9A%84%E5%B9%BD%E5%BD%B1",
     "createdAt": "2026-10-30T20:43:25.298Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "ja-JP:2026-10-30:1a42099e6af39ddac861e8c22decc1df",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_JA-JP4785085446_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%B8%9D%E5%9B%BD%E3%81%AE%E9%9D%A2%E5%BD%B1",
     "createdAt": "2026-10-30T20:43:25.298Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "de-DE:2026-10-30:ead7a5128f2dac8473d3b22c72a6d9d4",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Der%20Geist%20vergangener%20Kaiserreiche",
     "createdAt": "2026-10-31T19:56:18.817Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "fr-FR:2026-10-30:8bcbde37bd0e519c0dba14a975e2a7d0",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_FR-FR8337402452_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Visiteurs%20d'un%20autre%20monde",
     "createdAt": "2026-10-31T19:56:18.817Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "en-US:2026-10-29:338d41a1a4b047131c218e34862ea766",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AveburyStones_EN-US9568662876_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20mist%20meets%20millennia",
     "createdAt": "2026-10-29T21:03:21.743Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "zh-CN:2026-10-29:19f861c6ad7549bbc1fae0b28ba1d421",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%B1%95%E7%BF%85%E9%AB%98%E9%A3%9E%E7%9A%84%E6%97%B6%E8%8A%82",
     "createdAt": "2026-10-29T21:03:21.743Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "ja-JP:2026-10-29:e939c4726f32f3cea26967b674bcf87a",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnCranes_JA-JP2456396404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A4%A7%E7%A9%BA%E3%81%B8%E7%BE%BD%E3%81%B0%E3%81%9F%E3%81%8F",
     "createdAt": "2026-10-29T21:03:21.743Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "de-DE:2026-10-29:841ba314371c7bc580068cd37aca730c",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnCranes_DE-DE0229834342_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Zeit%20f%C3%BCr%20H%C3%B6henfl%C3%BCge",
     "createdAt": "2026-10-30T20:43:25.298Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "fr-FR:2026-10-29:f15856096ad24efa5cd5406c49efaa99",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AutumnCranes_FR-FR2970535620_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L'heure%20de%20prendre%20de%20la%20hauteur",
     "createdAt": "2026-10-30T20:43:25.298Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "en-US:2026-10-28:91f1c7013a17a3fe22dcc845d15fbee4",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20history%20stands%20watch",
     "createdAt": "2026-10-28T21:00:01.055Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "zh-CN:2026-10-28:8b7f035ee445c1ba73f3300ae54a3756",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%96%84%E9%9B%BE%E9%82%82%E9%80%85%E5%8D%83%E5%B9%B4%E6%97%B6%E5%85%89",
     "createdAt": "2026-10-28T21:00:01.055Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "ja-JP:2026-10-28:d6e319715f7572177def89ba9f8da2ca",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AveburyStones_JA-JP4031336786_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%8D%89%E5%8E%9F%E3%81%AB%E7%AB%8B%E3%81%A1%E4%B8%A6%E3%81%B6%E5%B7%A8%E7%9F%B3%E7%BE%A4",
     "createdAt": "2026-10-28T21:00:01.055Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "de-DE:2026-10-28:df03be9860d30f7dd45b7ff03b5fbd29",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AveburyStones_DE-DE3052154737_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wo%20Nebel%20auf%20Jahrtausende%20trifft",
     "createdAt": "2026-10-29T21:03:21.743Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "fr-FR:2026-10-28:b1c67b505596f327f29db1c78b0ac685",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AveburyStones_FR-FR0792308002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Des%20mill%C3%A9naires%20caress%C3%A9s%20par%20la%20brume",
     "createdAt": "2026-10-29T21:03:21.743Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "en-US:2026-10-27:8c3480019357ff01bd574a7e13966224",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KuneticeCastle_DE-DE2818546067_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wo%20Geschichte%20Wache%20h%C3%A4lt",
     "createdAt": "2026-10-28T21:00:01.055Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "fr-FR:2026-10-27:9a99f44925295cf630280c1d324da1c0",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KuneticeCastle_FR-FR0560907896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Gardien%20de%20l%E2%80%99histoire",
     "createdAt": "2026-10-28T21:00:01.055Z",
-    "updatedAt": "2026-11-03T21:43:17.648Z"
+    "updatedAt": "2026-11-04T21:50:15.190Z"
   },
   {
     "id": "en-US:2026-10-26:a7c299adafaab46a527c467155126330",
