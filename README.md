@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Paddling a painted forest](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![One step closer to the summit](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-11-04
+**日期：** 2026-11-05
 **区域：** en-US
-**描述：** People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)
+**描述：** Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-11-05 | en-US | ![](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-04 | en-US | ![](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-04 | ja-JP | ![](https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StileCrossing_JA-JP3443452365_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-04 | de-DE | ![](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StileCrossing_DE-DE6131632165_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-04 | fr-FR | ![](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StileCrossing_FR-FR8951232534_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-03 | en-US | ![](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-03 | zh-CN | ![](https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-03 | ja-JP | ![](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnChina_JA-JP2275105446_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-03 | de-DE | ![](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnChina_DE-DE5410503674_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-03 | fr-FR | ![](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnChina_FR-FR8803814320_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-02 | en-US | ![](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-02 | zh-CN | ![](https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
