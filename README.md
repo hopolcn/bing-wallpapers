@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![A green tunnel through Maui](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![The giant that came back](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-11-06
+**日期：** 2026-11-07
 **区域：** en-US
-**描述：** Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)
+**描述：** A bison in the grasslands of Theodore Roosevelt National Park, North Dakota (© Tandem Stock/Adobe Stock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-11-07 | en-US | ![](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-07 | zh-CN | ![](https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-07 | ja-JP | ![](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-06 | en-US | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-06 | zh-CN | ![](https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-06 | ja-JP | ![](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-06 | de-DE | ![](https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-06 | fr-FR | ![](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-05 | en-US | ![](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-05 | zh-CN | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-05 | ja-JP | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PipiwaiTrail_JA-JP1383562325_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-05 | de-DE | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-05 | fr-FR | ![](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-04 | en-US | ![](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-04 | zh-CN | ![](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
