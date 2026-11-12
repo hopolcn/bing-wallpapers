@@ -1,5 +1,19 @@
 [
   {
+    "id": "zh-CN:2026-11-12:2a34b5b6572ba4df26d1368e9a64c61e",
+    "region": "zh-CN",
+    "date": "2026-11-12",
+    "title": "冰下秘境",
+    "copyright": "亚伯拉罕湖，艾伯塔省，加拿大 (© Guang Cao/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E8%89%BE%E4%BC%AF%E5%A1%94%E7%9C%81%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E6%B9%96&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%86%B0%E4%B8%8B%E7%A7%98%E5%A2%83",
+    "createdAt": "2026-11-12T22:13:11.158Z",
+    "updatedAt": "2026-11-12T22:13:11.158Z"
+  },
+  {
     "id": "zh-CN:2026-11-11:4cd78b6a40ab0d146b30dc1d5e26cd6e",
     "region": "zh-CN",
     "date": "2026-11-11",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B2%A1%E6%9C%89%E5%BB%BA%E7%AD%91%E5%B8%88%E7%9A%84%E5%BB%BA%E7%AD%91%E6%9D%B0%E4%BD%9C",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-11T22:39:31.316Z"
+    "updatedAt": "2026-11-12T22:13:11.162Z"
   },
   {
     "id": "zh-CN:2026-11-10:2f8ec1b9756e84d222b20fd5fdf412b3",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A5%87%E5%A6%99%E7%BA%B7%E5%91%88%E7%9A%84%E6%A3%AE%E6%9E%97",
     "createdAt": "2026-11-10T21:47:01.043Z",
-    "updatedAt": "2026-11-11T22:39:31.320Z"
+    "updatedAt": "2026-11-12T22:13:11.162Z"
   },
   {
     "id": "zh-CN:2026-11-09:9999d3a3c7f78905711802f9717916f9",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%83%AC%E6%84%8F%E6%94%BE%E6%9D%BE%EF%BC%8C%E5%B0%BD%E4%BA%AB%E6%B5%B7%E5%B2%9B%E6%97%B6%E5%85%89",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-11T22:39:31.320Z"
+    "updatedAt": "2026-11-12T22:13:11.162Z"
   },
   {
     "id": "zh-CN:2026-11-08:59e5064fcb772d5d91242962833903f7",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%89%BA%E6%9C%AF%E4%B8%8E%E9%9F%B5%E5%BE%8B%E4%BA%A4%E6%B1%87%E4%B9%8B%E5%9C%B0",
     "createdAt": "2026-11-08T20:25:46.618Z",
-    "updatedAt": "2026-11-11T22:39:31.320Z"
+    "updatedAt": "2026-11-12T22:13:11.162Z"
   },
   {
     "id": "zh-CN:2026-11-07:8603d5f4458b499767e4c196511719c7",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%85%89%E8%8A%92%E5%9B%9B%E5%B0%84%E7%9A%84%E8%8A%82%E6%97%A5",
     "createdAt": "2026-11-07T20:11:32.321Z",
-    "updatedAt": "2026-11-11T22:39:31.320Z"
+    "updatedAt": "2026-11-12T22:13:11.162Z"
   },
   {
     "id": "zh-CN:2026-11-06:8bd1a0a85b934a78ee8c90d2a6692a2b",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%BD%92%E6%9D%A5%E7%9A%84%E8%8D%89%E5%8E%9F%E5%B7%A8%E5%85%BD",
     "createdAt": "2026-11-06T21:27:43.009Z",
-    "updatedAt": "2026-11-11T22:39:31.320Z"
+    "updatedAt": "2026-11-12T22:13:11.162Z"
   },
   {
     "id": "zh-CN:2026-11-05:83e427360a433d9f9e12ebbb4317ff61",
@@ -96,6 +110,20 @@
     "sourceUrl": "https://www.bing.com/search?q=%E7%A9%BF%E8%B6%8A%E6%AF%9B%E4%BC%8A%E5%B2%9B%E7%9A%84%E7%BB%BF%E8%89%B2%E9%9A%A7%E9%81%93",
     "createdAt": "2026-11-05T21:57:44.555Z",
     "updatedAt": "2026-11-11T22:39:31.320Z"
+  },
+  {
+    "id": "zh-CN:2026-11-05:abc84e4d26fc9e4a728cecaa0dc955e0",
+    "region": "zh-CN",
+    "date": "2026-11-05",
+    "title": "穿越毛伊岛的绿色隧道",
+    "copyright": "竹林，皮皮维小径，哈莱亚卡拉国家公园，毛伊岛，夏威夷州，美国 (© MNStudio/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%93%88%E8%8E%B1%E4%BA%9A%E5%8D%A1%E6%8B%89%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.PipiwaiTrail_ZH-CN1811194311_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E7%A9%BF%E8%B6%8A%E6%AF%9B%E4%BC%8A%E5%B2%9B%E7%9A%84%E7%BB%BF%E8%89%B2%E9%9A%A7%E9%81%93",
+    "createdAt": "2026-11-12T22:13:11.158Z",
+    "updatedAt": "2026-11-12T22:13:11.158Z"
   },
   {
     "id": "zh-CN:2026-11-04:e764edbedb3e17b846cc1a31ea9fa5a8",
