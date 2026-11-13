@@ -1,5 +1,47 @@
 [
   {
+    "id": "en-US:2026-11-13:6462c5aec6bd8ae03df5c691f2e6b4fc",
+    "region": "en-US",
+    "date": "2026-11-13",
+    "title": "Hidden depths",
+    "copyright": "Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Abraham+Lake+Alberta&form=hpcapt&filters=HpDate%3a%2220261113_0800%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Hidden%20depths",
+    "createdAt": "2026-11-13T21:56:44.707Z",
+    "updatedAt": "2026-11-13T21:56:44.707Z"
+  },
+  {
+    "id": "zh-CN:2026-11-13:1856b2d356971c95d3f11a4500ccb30d",
+    "region": "zh-CN",
+    "date": "2026-11-13",
+    "title": "唯有向上发展",
+    "copyright": "中国香港维多利亚港 (© Juan Romero/Cavan Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A%E6%B8%AF&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%94%AF%E6%9C%89%E5%90%91%E4%B8%8A%E5%8F%91%E5%B1%95",
+    "createdAt": "2026-11-13T21:56:44.707Z",
+    "updatedAt": "2026-11-13T21:56:44.707Z"
+  },
+  {
+    "id": "ja-JP:2026-11-13:5d42d27196ff90d27166fb6428d33938",
+    "region": "ja-JP",
+    "date": "2026-11-13",
+    "title": "上へ上へと伸びる街",
+    "copyright": "ビクトリア・ハーバー、香港、中国 (© Juan Romero/Cavan Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC+%E9%A6%99%E6%B8%AF&form=hpcapt&filters=HpDate%3a%2220261113_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.BlueHK_JA-JP0477081186_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E4%B8%8A%E3%81%B8%E4%B8%8A%E3%81%B8%E3%81%A8%E4%BC%B8%E3%81%B3%E3%82%8B%E8%A1%97",
+    "createdAt": "2026-11-13T21:56:44.707Z",
+    "updatedAt": "2026-11-13T21:56:44.707Z"
+  },
+  {
     "id": "en-US:2026-11-12:2aac21b56f5b97586a221073599558e3",
     "region": "en-US",
     "date": "2026-11-12",
@@ -11,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architecture%20without%20an%20architect",
     "createdAt": "2026-11-12T22:13:11.157Z",
-    "updatedAt": "2026-11-12T22:13:11.158Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-12:2a34b5b6572ba4df26d1368e9a64c61e",
@@ -25,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%86%B0%E4%B8%8B%E7%A7%98%E5%A2%83",
     "createdAt": "2026-11-12T22:13:11.158Z",
-    "updatedAt": "2026-11-12T22:13:11.158Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "ja-JP:2026-11-12:f2f587fb584c0f04f9af5ffe982c19d6",
@@ -39,7 +81,35 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_JA-JP9609532400_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B0%B7%E3%81%AE%E4%B8%8B%E3%81%AE%E7%A5%9E%E7%A7%98",
     "createdAt": "2026-11-12T22:13:11.158Z",
-    "updatedAt": "2026-11-12T22:13:11.158Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
+  },
+  {
+    "id": "de-DE:2026-11-12:9e64cc7d2daae700b94079ffb9a177ef",
+    "region": "de-DE",
+    "date": "2026-11-12",
+    "title": "Verborgene Tiefen",
+    "copyright": "Abraham Lake in Alberta, Kanada (© Guang Cao/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Abraham+Lake+Stausee+Kanada&form=hpcapt&filters=HpDate%3a%2220261112_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_DE-DE1158881043_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Verborgene%20Tiefen",
+    "createdAt": "2026-11-13T21:56:44.707Z",
+    "updatedAt": "2026-11-13T21:56:44.707Z"
+  },
+  {
+    "id": "fr-FR:2026-11-12:2508c7db40df956a02b142f0965b2930",
+    "region": "fr-FR",
+    "date": "2026-11-12",
+    "title": "Des profondeurs mystérieuses",
+    "copyright": "Lac Abraham, Alberta, Canada (© Guang Cao/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Lac+Abraham+Alberta&form=hpcapt&filters=HpDate%3a%2220261112_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_FR-FR1972061533_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Des%20profondeurs%20myst%C3%A9rieuses",
+    "createdAt": "2026-11-13T21:56:44.707Z",
+    "updatedAt": "2026-11-13T21:56:44.707Z"
   },
   {
     "id": "en-US:2026-11-11:44fd904fb552c2c90c9c58be8ad7154c",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20salute%20in%20red%2C%20white%2C%20and%20blue",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-11:4cd78b6a40ab0d146b30dc1d5e26cd6e",
@@ -67,7 +137,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B2%A1%E6%9C%89%E5%BB%BA%E7%AD%91%E5%B8%88%E7%9A%84%E5%BB%BA%E7%AD%91%E6%9D%B0%E4%BD%9C",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "ja-JP:2026-11-11:0f7096f63d1544ad6348e05db0b3a39e",
@@ -81,7 +151,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_JA-JP8307735119_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%87%AA%E7%84%B6%E3%81%8C%E7%94%9F%E3%82%93%E3%81%A0%E5%BB%BA%E7%AF%89%E7%BE%8E",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "de-DE:2026-11-11:f251956f8a79db88089b04f77c5aebb7",
@@ -95,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_DE-DE3364064033_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architektur%20ohne%20Architekten",
     "createdAt": "2026-11-12T22:13:11.158Z",
-    "updatedAt": "2026-11-12T22:13:11.158Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "fr-FR:2026-11-11:2f0311814dbbf3da1b5869c7ce668e34",
@@ -109,7 +179,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_FR-FR9118968859_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architecture%20sans%20architecte",
     "createdAt": "2026-11-12T22:13:11.158Z",
-    "updatedAt": "2026-11-12T22:13:11.158Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "en-US:2026-11-10:906a7ee004b4d01b78739ea1b8884d87",
@@ -123,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Licensed%20to%20chill",
     "createdAt": "2026-11-10T21:47:01.042Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-10:2f8ec1b9756e84d222b20fd5fdf412b3",
@@ -137,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%A5%87%E5%A6%99%E7%BA%B7%E5%91%88%E7%9A%84%E6%A3%AE%E6%9E%97",
     "createdAt": "2026-11-10T21:47:01.043Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "ja-JP:2026-11-10:c5d48b3afb82e05b8f0bb7a0a962d338",
@@ -151,7 +221,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Atlantica_JA-JP3902829738_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%A9%9A%E3%81%8D%E3%81%AB%E6%BA%80%E3%81%A1%E3%81%9F%E6%A3%AE",
     "createdAt": "2026-11-10T21:47:01.043Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "de-DE:2026-11-10:86afca30b4aa01be4f193f4efe0adb61",
@@ -165,7 +235,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Atlantica_DE-DE2362030432_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20Wald%20voller%20Wunder",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "fr-FR:2026-11-10:3f169b871fd435a1c3b814f6bde5d85c",
@@ -179,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.ArmisticeTriomphe_FR-FR3844367700_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Une%20flamme%20rallum%C3%A9e%20chaque%20jour",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "en-US:2026-11-09:24e7edf576b87093c4290a3e8eb157c3",
@@ -193,7 +263,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20art%20finds%20its%20rhythm",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-09:9999d3a3c7f78905711802f9717916f9",
@@ -207,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%83%AC%E6%84%8F%E6%94%BE%E6%9D%BE%EF%BC%8C%E5%B0%BD%E4%BA%AB%E6%B5%B7%E5%B2%9B%E6%97%B6%E5%85%89",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "ja-JP:2026-11-09:f5743d1d23a5574d4186f2dd4e6d140a",
@@ -221,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RoseIsland_JA-JP3257968381_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%A5%BD%E5%9C%92%E3%81%A7%E3%81%B2%E3%81%A8%E4%BC%91%E3%81%BF",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "de-DE:2026-11-09:a08e0aed2e9f3bc0745aab041a1b7774",
@@ -235,7 +305,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RoseIsland_DE-DE1760101963_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Die%20Lizenz%20zum%20Chillen",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "fr-FR:2026-11-09:c14b88616e2e7bece86b9f54b5de6f97",
@@ -249,7 +319,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RoseIsland_FR-FR0867516842_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Permis%20de%20se%20relaxer",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "en-US:2026-11-08:6519969f87d6d1ada4af07017c47fc5e",
@@ -263,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20celebration%20that%20shines",
     "createdAt": "2026-11-08T20:25:46.618Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-08:59e5064fcb772d5d91242962833903f7",
@@ -277,7 +347,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%89%BA%E6%9C%AF%E4%B8%8E%E9%9F%B5%E5%BE%8B%E4%BA%A4%E6%B1%87%E4%B9%8B%E5%9C%B0",
     "createdAt": "2026-11-08T20:25:46.618Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "ja-JP:2026-11-08:1c2d1936e9790d9e76b67d6a45d2ce6e",
@@ -291,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrianaSpain_JA-JP2076026093_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%8A%B8%E8%A1%93%E3%81%8C%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%92%E5%88%BB%E3%82%80%E8%A1%97",
     "createdAt": "2026-11-08T20:25:46.618Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "de-DE:2026-11-08:5ab29176d5f89173d90f9cba5fbc7bbd",
@@ -305,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.MauerBerlin_DE-DE4395338070_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Die%20Nacht%2C%20die%20Deutschland%20ver%C3%A4nderte",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "fr-FR:2026-11-08:4e178143859e04b0547cbce2d63333f2",
@@ -319,7 +389,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrianaSpain_FR-FR5872801405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ici%2C%20l%E2%80%99art%20trouve%20son%20rythme",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "en-US:2026-11-07:14f52a3cfe0e742954ce9e56d6b1dc46",
@@ -333,7 +403,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DakotaBison_EN-US0710175615_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20giant%20that%20came%20back",
     "createdAt": "2026-11-07T20:11:32.321Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-07:8603d5f4458b499767e4c196511719c7",
@@ -347,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%85%89%E8%8A%92%E5%9B%9B%E5%B0%84%E7%9A%84%E8%8A%82%E6%97%A5",
     "createdAt": "2026-11-07T20:11:32.321Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "ja-JP:2026-11-07:3b1dc83674b44bbb86e3e998fb56169b",
@@ -361,7 +431,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DiwaliLamps_JA-JP0443643151_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%85%89%E3%81%AB%E5%8C%85%E3%81%BE%E3%82%8C%E3%82%8B%E7%A5%9D%E7%A5%AD",
     "createdAt": "2026-11-07T20:11:32.321Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "de-DE:2026-11-07:ff8bdd1fae981d8db5c1ae69a254a878",
@@ -375,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DiwaliLamps_DE-DE0703233561_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20strahlendes%20Fest",
     "createdAt": "2026-11-08T20:25:46.618Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "fr-FR:2026-11-07:e864bd1a0279f80865bc413c5a775ae3",
@@ -389,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DiwaliLamps_FR-FR3288508792_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=C%C3%A9l%C3%A9bration%20qui%20scintille",
     "createdAt": "2026-11-08T20:25:46.618Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "en-US:2026-11-06:2b8827c13484500ffaf00dd7575ed652",
@@ -403,7 +473,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20green%20tunnel%20through%20Maui",
     "createdAt": "2026-11-06T21:27:43.009Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-06:8bd1a0a85b934a78ee8c90d2a6692a2b",
@@ -417,7 +487,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E5%BD%92%E6%9D%A5%E7%9A%84%E8%8D%89%E5%8E%9F%E5%B7%A8%E5%85%BD",
     "createdAt": "2026-11-06T21:27:43.009Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "ja-JP:2026-11-06:aa6c8953393781e63d560841ab971e2e",
@@ -431,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DakotaBison_JA-JP7700625518_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E3%82%88%E3%81%BF%E3%81%8C%E3%81%88%E3%81%A3%E3%81%9F%E8%8D%89%E5%8E%9F%E3%81%AE%E5%B7%A8%E4%BA%BA",
     "createdAt": "2026-11-06T21:27:43.009Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "de-DE:2026-11-06:636d5cb1bbeef8034ddfafd2a20b8e72",
@@ -445,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DakotaBison_DE-DE0154878283_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Der%20zur%C3%BCckgekehrte%20Riese",
     "createdAt": "2026-11-07T20:11:32.321Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "fr-FR:2026-11-06:134edd87ad4c21a14c2552ede082534b",
@@ -459,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.DakotaBison_FR-FR7465030722_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Un%20g%C3%A9ant%20de%20retour",
     "createdAt": "2026-11-07T20:11:32.321Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "en-US:2026-11-05:6d1636fb8f2db2c25db4362bae9cd772",
@@ -515,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PipiwaiTrail_DE-DE9691097479_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20gr%C3%BCner%20Tunnel%20durch%20Maui",
     "createdAt": "2026-11-06T21:27:43.009Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "fr-FR:2026-11-05:e884e0f057838c544ad9ea2c4cbda553",
@@ -529,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.PipiwaiTrail_FR-FR9210868970_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Toit%20de%20verdure%20%C3%A0%20travers%20Maui",
     "createdAt": "2026-11-06T21:27:43.009Z",
-    "updatedAt": "2026-11-12T22:13:11.162Z"
+    "updatedAt": "2026-11-13T21:56:44.711Z"
   },
   {
     "id": "zh-CN:2026-11-05:abc84e4d26fc9e4a728cecaa0dc955e0",
