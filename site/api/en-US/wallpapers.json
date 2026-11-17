@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-11-16:7fbc94216ff3700401f38338309c7e7a",
+    "region": "en-US",
+    "date": "2026-11-16",
+    "title": "Built to last",
+    "copyright": "Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Gila+Cliff+Dwellings+National+Monument&form=hpcapt&filters=HpDate%3a%2220261116_0800%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Built%20to%20last",
+    "createdAt": "2026-11-17T00:12:06.230Z",
+    "updatedAt": "2026-11-17T00:12:06.230Z"
+  },
+  {
     "id": "en-US:2026-11-15:6c1b2ebce94f441a9a12cbcfecd61ca5",
     "region": "en-US",
     "date": "2026-11-15",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Frosty%20foliage",
     "createdAt": "2026-11-15T21:00:03.307Z",
-    "updatedAt": "2026-11-15T21:00:03.307Z"
+    "updatedAt": "2026-11-17T00:12:06.234Z"
   },
   {
     "id": "en-US:2026-11-14:33e79839f41e9f007d5d05fb55d905b4",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20only%20way%20is%20up",
     "createdAt": "2026-11-14T20:40:28.281Z",
-    "updatedAt": "2026-11-15T21:00:03.313Z"
+    "updatedAt": "2026-11-17T00:12:06.234Z"
   },
   {
     "id": "en-US:2026-11-13:6462c5aec6bd8ae03df5c691f2e6b4fc",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Hidden%20depths",
     "createdAt": "2026-11-13T21:56:44.707Z",
-    "updatedAt": "2026-11-15T21:00:03.313Z"
+    "updatedAt": "2026-11-17T00:12:06.234Z"
   },
   {
     "id": "en-US:2026-11-12:2aac21b56f5b97586a221073599558e3",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architecture%20without%20an%20architect",
     "createdAt": "2026-11-12T22:13:11.157Z",
-    "updatedAt": "2026-11-15T21:00:03.313Z"
+    "updatedAt": "2026-11-17T00:12:06.234Z"
   },
   {
     "id": "en-US:2026-11-11:44fd904fb552c2c90c9c58be8ad7154c",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20salute%20in%20red%2C%20white%2C%20and%20blue",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-15T21:00:03.313Z"
+    "updatedAt": "2026-11-17T00:12:06.234Z"
   },
   {
     "id": "en-US:2026-11-10:906a7ee004b4d01b78739ea1b8884d87",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Licensed%20to%20chill",
     "createdAt": "2026-11-10T21:47:01.042Z",
-    "updatedAt": "2026-11-15T21:00:03.313Z"
+    "updatedAt": "2026-11-17T00:12:06.234Z"
   },
   {
     "id": "en-US:2026-11-09:24e7edf576b87093c4290a3e8eb157c3",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20art%20finds%20its%20rhythm",
     "createdAt": "2026-11-10T00:12:53.430Z",
-    "updatedAt": "2026-11-15T21:00:03.313Z"
+    "updatedAt": "2026-11-17T00:12:06.234Z"
   },
   {
     "id": "en-US:2026-11-08:6519969f87d6d1ada4af07017c47fc5e",
