@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Built to last](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Step into the great outdoors](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-11-16
+**日期：** 2026-11-17
 **区域：** en-US
-**描述：** Gila Cliff Dwellings National Monument, New Mexico (© Chiara Salvadori/Getty Images)
+**描述：** Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-11-17 | en-US | ![](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-17 | ja-JP | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-17 | de-DE | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-17 | fr-FR | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-16 | en-US | ![](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-16 | zh-CN | ![](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-16 | ja-JP | ![](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TrailCedars_JA-JP3850490248_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-16 | de-DE | ![](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TrailCedars_DE-DE2756657002_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-16 | fr-FR | ![](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TrailCedars_FR-FR7583904016_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-15 | en-US | ![](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-15 | zh-CN | ![](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-15 | ja-JP | ![](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GilaCliff_JA-JP2766300250_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-15 | de-DE | ![](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GilaCliff_DE-DE8866174254_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-15 | fr-FR | ![](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GilaCliff_FR-FR9544531277_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
