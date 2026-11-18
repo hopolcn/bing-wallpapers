@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-11-18:483e25e846598b31f669979a46b29c17",
+    "region": "en-US",
+    "date": "2026-11-18",
+    "title": "Hunting from dusk till dawn",
+    "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Barn+owl&form=hpcapt&filters=HpDate%3a%2220261118_0800%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Hunting%20from%20dusk%20till%20dawn",
+    "createdAt": "2026-11-18T22:55:55.014Z",
+    "updatedAt": "2026-11-18T22:55:55.014Z"
+  },
+  {
     "id": "en-US:2026-11-17:26808cee991f9a84e7d473324ca022b6",
     "region": "en-US",
     "date": "2026-11-17",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Step%20into%20the%20great%20outdoors",
     "createdAt": "2026-11-17T23:28:39.024Z",
-    "updatedAt": "2026-11-17T23:28:39.025Z"
+    "updatedAt": "2026-11-18T22:55:55.018Z"
   },
   {
     "id": "en-US:2026-11-16:7fbc94216ff3700401f38338309c7e7a",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Built%20to%20last",
     "createdAt": "2026-11-17T23:28:39.025Z",
-    "updatedAt": "2026-11-17T23:28:39.025Z"
+    "updatedAt": "2026-11-18T22:55:55.018Z"
   },
   {
     "id": "en-US:2026-11-15:6c1b2ebce94f441a9a12cbcfecd61ca5",
@@ -53,7 +67,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Frosty%20foliage",
     "createdAt": "2026-11-15T21:00:03.307Z",
-    "updatedAt": "2026-11-17T23:28:39.030Z"
+    "updatedAt": "2026-11-18T22:55:55.018Z"
   },
   {
     "id": "en-US:2026-11-14:33e79839f41e9f007d5d05fb55d905b4",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20only%20way%20is%20up",
     "createdAt": "2026-11-14T20:40:28.281Z",
-    "updatedAt": "2026-11-17T23:28:39.030Z"
+    "updatedAt": "2026-11-18T22:55:55.018Z"
   },
   {
     "id": "en-US:2026-11-13:6462c5aec6bd8ae03df5c691f2e6b4fc",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Hidden%20depths",
     "createdAt": "2026-11-13T21:56:44.707Z",
-    "updatedAt": "2026-11-17T23:28:39.030Z"
+    "updatedAt": "2026-11-18T22:55:55.018Z"
   },
   {
     "id": "en-US:2026-11-12:2aac21b56f5b97586a221073599558e3",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Architecture%20without%20an%20architect",
     "createdAt": "2026-11-12T22:13:11.157Z",
-    "updatedAt": "2026-11-17T23:28:39.030Z"
+    "updatedAt": "2026-11-18T22:55:55.018Z"
   },
   {
     "id": "en-US:2026-11-11:44fd904fb552c2c90c9c58be8ad7154c",
@@ -109,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20salute%20in%20red%2C%20white%2C%20and%20blue",
     "createdAt": "2026-11-11T22:39:31.316Z",
-    "updatedAt": "2026-11-17T23:28:39.030Z"
+    "updatedAt": "2026-11-18T22:55:55.018Z"
   },
   {
     "id": "en-US:2026-11-10:906a7ee004b4d01b78739ea1b8884d87",
