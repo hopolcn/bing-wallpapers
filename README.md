@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Hunting from dusk till dawn](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Where ideas take shape](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-11-18
+**日期：** 2026-11-19
 **区域：** en-US
-**描述：** Pair of barn owls (© Zahoor Salmi/Getty Images)
+**描述：** The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-11-19 | en-US | ![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-19 | ja-JP | ![](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Megaptera_JA-JP4163269980_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-19 | de-DE | ![](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Megaptera_DE-DE6966438629_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-19 | fr-FR | ![](https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Megaptera_FR-FR4844041131_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-18 | en-US | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-18 | zh-CN | ![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-18 | ja-JP | ![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KnowledgeSculpture_JA-JP6514822082_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-17 | en-US | ![](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-17 | zh-CN | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-17 | ja-JP | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_JA-JP5990292316_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-17 | de-DE | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_DE-DE3292837255_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-17 | fr-FR | ![](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.BarnOwlsUnite_FR-FR0018372456_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-16 | en-US | ![](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-16 | zh-CN | ![](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-18 | de-DE | ![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KnowledgeSculpture_DE-DE3802350761_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-18 | fr-FR | ![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-FR2837374405_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KnowledgeSculpture_FR-FR2837374405_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
