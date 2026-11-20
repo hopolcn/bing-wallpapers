@@ -1,5 +1,19 @@
 [
   {
+    "id": "en-US:2026-11-20:07078706aa6f722be2c3f4078aed1cbe",
+    "region": "en-US",
+    "date": "2026-11-20",
+    "title": "Feasting in the fjords",
+    "copyright": "Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)",
+    "copyrightLink": "https://www.bing.com/search?q=humpback+whales&form=hpcapt&filters=HpDate%3a%2220261120_0800%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Feasting%20in%20the%20fjords",
+    "createdAt": "2026-11-20T22:38:38.655Z",
+    "updatedAt": "2026-11-20T22:38:38.656Z"
+  },
+  {
     "id": "en-US:2026-11-19:f89bdb875059d2794e228044e25f53ab",
     "region": "en-US",
     "date": "2026-11-19",
@@ -11,7 +25,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Where%20ideas%20take%20shape",
     "createdAt": "2026-11-19T23:00:59.435Z",
-    "updatedAt": "2026-11-19T23:00:59.435Z"
+    "updatedAt": "2026-11-20T22:38:38.662Z"
   },
   {
     "id": "en-US:2026-11-18:483e25e846598b31f669979a46b29c17",
@@ -25,7 +39,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Hunting%20from%20dusk%20till%20dawn",
     "createdAt": "2026-11-18T22:55:55.014Z",
-    "updatedAt": "2026-11-19T23:00:59.439Z"
+    "updatedAt": "2026-11-20T22:38:38.662Z"
   },
   {
     "id": "en-US:2026-11-17:26808cee991f9a84e7d473324ca022b6",
@@ -39,7 +53,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Step%20into%20the%20great%20outdoors",
     "createdAt": "2026-11-17T23:28:39.024Z",
-    "updatedAt": "2026-11-19T23:00:59.439Z"
+    "updatedAt": "2026-11-20T22:38:38.662Z"
   },
   {
     "id": "en-US:2026-11-16:7fbc94216ff3700401f38338309c7e7a",
@@ -67,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.GilaCliff_EN-US2139490645_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Built%20to%20last",
     "createdAt": "2026-11-17T23:28:39.025Z",
-    "updatedAt": "2026-11-19T23:00:59.439Z"
+    "updatedAt": "2026-11-20T22:38:38.662Z"
   },
   {
     "id": "en-US:2026-11-15:6c1b2ebce94f441a9a12cbcfecd61ca5",
@@ -81,7 +95,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FirstFrost_EN-US8881008245_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Frosty%20foliage",
     "createdAt": "2026-11-15T21:00:03.307Z",
-    "updatedAt": "2026-11-19T23:00:59.439Z"
+    "updatedAt": "2026-11-20T22:38:38.662Z"
   },
   {
     "id": "en-US:2026-11-14:33e79839f41e9f007d5d05fb55d905b4",
@@ -95,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.BlueHK_EN-US7870996687_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=The%20only%20way%20is%20up",
     "createdAt": "2026-11-14T20:40:28.281Z",
-    "updatedAt": "2026-11-19T23:00:59.439Z"
+    "updatedAt": "2026-11-20T22:38:38.662Z"
   },
   {
     "id": "en-US:2026-11-13:6462c5aec6bd8ae03df5c691f2e6b4fc",
@@ -109,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.AbrahamCanada_EN-US3455540217_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Hidden%20depths",
     "createdAt": "2026-11-13T21:56:44.707Z",
-    "updatedAt": "2026-11-19T23:00:59.439Z"
+    "updatedAt": "2026-11-20T22:38:38.662Z"
   },
   {
     "id": "en-US:2026-11-12:2aac21b56f5b97586a221073599558e3",
