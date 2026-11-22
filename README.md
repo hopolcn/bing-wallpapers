@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Terracotta dreams](https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Shelter among the waves](https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-11-21
+**日期：** 2026-11-22
 **区域：** en-US
-**描述：** Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)
+**描述：** The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-11-22 | en-US | ![](https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-22 | zh-CN | ![](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-22 | ja-JP | ![](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-21 | en-US | ![](https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-21 | zh-CN | ![](https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-21 | ja-JP | ![](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-21 | de-DE | ![](https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-21 | fr-FR | ![](https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-20 | en-US | ![](https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-20 | zh-CN | ![](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-20 | ja-JP | ![](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-20 | de-DE | ![](https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-20 | fr-FR | ![](https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-19 | en-US | ![](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-19 | zh-CN | ![](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
