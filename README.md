@@ -4,26 +4,26 @@
 
 ## 今日壁纸
 
-[![Geometry in nature](https://www.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+[![Autumnal camouflage](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 
-**日期：** 2026-11-23
+**日期：** 2026-11-24
 **区域：** en-US
-**描述：** Fiddlehead fern (© Reza Saputra/Getty Images)
+**描述：** Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)
 
 ## 最新壁纸
 
 | 日期 | 区域 | 预览 | 下载 |
 |---|---|---|---|
+| 2026-11-24 | en-US | ![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-24 | zh-CN | ![](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-24 | ja-JP | ![](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-24 | de-DE | ![](https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
+| 2026-11-24 | fr-FR | ![](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-23 | en-US | ![](https://www.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-23 | zh-CN | ![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-23 | ja-JP | ![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-23 | de-DE | ![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 | 2026-11-23 | fr-FR | ![](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-22 | en-US | ![](https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-22 | zh-CN | ![](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-22 | ja-JP | ![](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-22 | de-DE | ![](https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
-| 2026-11-22 | fr-FR | ![](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4) | [4K](https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) |
 
 ## 项目说明
 
