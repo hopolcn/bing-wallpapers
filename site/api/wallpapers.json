@@ -1,5 +1,75 @@
 [
   {
+    "id": "en-US:2026-11-27:c2ad97da857ed5867524b50ab6071f8e",
+    "region": "en-US",
+    "date": "2026-11-27",
+    "title": "Ribbons of gray and gold",
+    "copyright": "Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)",
+    "copyrightLink": "https://www.bing.com/search?q=Lake+Powell&form=hpcapt&filters=HpDate%3a%2220261127_0800%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Ribbons%20of%20gray%20and%20gold",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
+  },
+  {
+    "id": "zh-CN:2026-11-27:d50dad4dd134b0637281d0dd1d196123",
+    "region": "zh-CN",
+    "date": "2026-11-27",
+    "title": "跨越时光的桥梁",
+    "copyright": "捷克布拉格老城区与伏尔塔瓦河 (© Lara_Uhryn/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%B8%83%E6%8B%89%E6%A0%BC%E7%9A%84%E6%A1%A5%E6%A2%81&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_ZH-CN9898139716_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E8%B7%A8%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%A1%A5%E6%A2%81",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
+  },
+  {
+    "id": "ja-JP:2026-11-27:d0a808c2b76ea1a25dbd3b39f79bfe0f",
+    "region": "ja-JP",
+    "date": "2026-11-27",
+    "title": "歴史をつなぐ橋",
+    "copyright": "旧市街とヴルタヴァ川、プラハ、チェコ (© Lara_Uhryn/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E3%83%97%E3%83%A9%E3%83%8F+%E6%A9%8B&form=hpcapt&filters=HpDate%3a%2220261127_1500%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_JA-JP5027997170_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E6%AD%B4%E5%8F%B2%E3%82%92%E3%81%A4%E3%81%AA%E3%81%90%E6%A9%8B",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
+  },
+  {
+    "id": "de-DE:2026-11-27:ca4acc1151f4d08c56378a4926ef9ea5",
+    "region": "de-DE",
+    "date": "2026-11-27",
+    "title": "Brücken in die Vergangenheit",
+    "copyright": "Altstadt und Moldau, Prag, Tschechien (© Lara_Uhryn/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Prager+Br%C3%BCcken&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_DE-DE9849101774_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=Br%C3%BCcken%20in%20die%20Vergangenheit",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
+  },
+  {
+    "id": "fr-FR:2026-11-27:02c220569bfe344dc3fc92c04825ae17",
+    "region": "fr-FR",
+    "date": "2026-11-27",
+    "title": "De pont en pont",
+    "copyright": "Vieille ville et rivière Vltava, Prague, Tchéquie (© Lara_Uhryn/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=Prague+ponts&form=hpcapt&filters=HpDate%3a%2220261127_2300%22",
+    "imageUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.VltavaPrague_FR-FR4286783845_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=De%20pont%20en%20pont",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
+  },
+  {
     "id": "en-US:2026-11-26:c4288d8653709a61b3d64b1860132dd9",
     "region": "en-US",
     "date": "2026-11-26",
@@ -11,7 +81,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Turkey%20twins",
     "createdAt": "2026-11-27T00:32:48.273Z",
-    "updatedAt": "2026-11-27T00:32:48.273Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "zh-CN:2026-11-26:9bb58610d5e98383a8e07c677053481b",
@@ -39,7 +109,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_JA-JP4501981808_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%81%B0%E8%89%B2%E3%81%A8%E9%BB%84%E9%87%91%E8%89%B2%E3%81%8C%E7%B9%94%E3%82%8A%E3%81%AA%E3%81%99%E9%A2%A8%E6%99%AF",
     "createdAt": "2026-11-27T00:32:48.274Z",
-    "updatedAt": "2026-11-27T00:32:48.274Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "de-DE:2026-11-26:9c6a7c694754fb6af48d2889cbc79067",
@@ -53,7 +123,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_DE-DE8985806432_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Streifen%20in%20Grau%20und%20Gold",
     "createdAt": "2026-11-27T00:32:48.274Z",
-    "updatedAt": "2026-11-27T00:32:48.274Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "fr-FR:2026-11-26:48e0d1b384285179582d73c0f7566261",
@@ -67,7 +137,21 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_FR-FR9763207069_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Rubans%20gris%20et%20or",
     "createdAt": "2026-11-27T00:32:48.274Z",
-    "updatedAt": "2026-11-27T00:32:48.274Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
+  },
+  {
+    "id": "zh-CN:2026-11-26:6fa234c05d72766abc5a1f3a831e2c58",
+    "region": "zh-CN",
+    "date": "2026-11-26",
+    "title": "灰金交织的峡谷",
+    "copyright": "夕阳下的孤峰，鲍威尔湖脸峡谷，犹他州，美国 (© Jeff Foott/Minden)",
+    "copyrightLink": "https://www.bing.com/search?q=%E9%B2%8D%E5%A8%81%E5%B0%94%E6%B9%96&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.FaceCanyon_ZH-CN9505064248_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E7%81%B0%E9%87%91%E4%BA%A4%E7%BB%87%E7%9A%84%E5%B3%A1%E8%B0%B7",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
   },
   {
     "id": "en-US:2026-11-25:6a002d5147815a474454594663dd02a8",
@@ -81,7 +165,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=A%20southwestern%20snowfall",
     "createdAt": "2026-11-26T00:16:08.734Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "zh-CN:2026-11-25:f8c04b2a00aa14c262abbfe7827c039b",
@@ -109,7 +193,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RFHilo_JA-JP7653681991_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%99%B9%E3%81%8C%E8%88%9E%E3%81%84%E9%99%8D%E3%82%8A%E3%82%8B%E6%BB%9D",
     "createdAt": "2026-11-26T00:16:08.735Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "de-DE:2026-11-25:1b52ecd6a7d4b0e192c9ebfc50dc3ec8",
@@ -123,7 +207,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RFHilo_DE-DE3182652312_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Wo%20Regenbogen%20fallen",
     "createdAt": "2026-11-26T00:16:08.735Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "fr-FR:2026-11-25:a07ff1b3f55c4d732b5a735b0ae085c2",
@@ -137,7 +221,21 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RFHilo_FR-FR7467471346_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=L%C3%A0%20o%C3%B9%20tombent%20les%20arcs-en-ciel",
     "createdAt": "2026-11-26T00:16:08.735Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
+  },
+  {
+    "id": "zh-CN:2026-11-25:844cfed9401ded2b0052be722ebb07a6",
+    "region": "zh-CN",
+    "date": "2026-11-25",
+    "title": "彩虹落下的地方",
+    "copyright": "怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%A4%8F%E5%A8%81%E5%A4%B7%E5%B7%9E%E6%80%80%E5%8D%A2%E5%BA%93%E6%B2%B3%E7%9A%84%E5%BD%A9%E8%99%B9%E7%80%91%E5%B8%83&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E5%BD%A9%E8%99%B9%E8%90%BD%E4%B8%8B%E7%9A%84%E5%9C%B0%E6%96%B9",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
   },
   {
     "id": "en-US:2026-11-24:75a2fbfe8c20f538428ecf2aca696467",
@@ -151,7 +249,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_EN-US7053432564_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Autumnal%20camouflage",
     "createdAt": "2026-11-25T00:36:54.189Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "zh-CN:2026-11-24:0fde8be729d820a01149c059f0b16a26",
@@ -179,7 +277,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetPoint_JA-JP7278727628_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%B5%A4%E3%81%84%E5%A5%87%E5%B2%A9%E3%81%AE%E9%9B%AA%E5%8C%96%E7%B2%A7",
     "createdAt": "2026-11-25T00:36:54.189Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "de-DE:2026-11-24:0fad4c5de1561083b355c0af491b8436",
@@ -193,7 +291,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetPoint_DE-DE0548911114_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Schneefall%20im%20S%C3%BCdwesten",
     "createdAt": "2026-11-25T00:36:54.189Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "fr-FR:2026-11-24:5e89860a6821bea56889532e650eaf6e",
@@ -207,7 +305,21 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetPoint_FR-FR4616557781_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Chemin%C3%A9es%20de%20f%C3%A9es%20enneig%C3%A9es",
     "createdAt": "2026-11-25T00:36:54.189Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
+  },
+  {
+    "id": "zh-CN:2026-11-24:483a06801d54c4b982d4c43658e5b196",
+    "region": "zh-CN",
+    "date": "2026-11-24",
+    "title": "美国西南部的一场雪",
+    "copyright": "日落观景点，布莱斯峡谷国家公园，犹他州 (© Colin D. Young/Alamy)",
+    "copyrightLink": "https://www.bing.com/search?q=%E5%B8%83%E8%8E%B1%E6%96%AF%E5%B3%A1%E8%B0%B7%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E7%BE%8E%E5%9B%BD%E8%A5%BF%E5%8D%97%E9%83%A8%E7%9A%84%E4%B8%80%E5%9C%BA%E9%9B%AA",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
   },
   {
     "id": "en-US:2026-11-23:41dc6134210c2c00e8f1c3fa298af656",
@@ -221,7 +333,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FibonacciFern_EN-US6307771770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Geometry%20in%20nature",
     "createdAt": "2026-11-24T02:52:56.176Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "zh-CN:2026-11-23:f61be471a0e42e7718b05ee7817a4ef7",
@@ -249,7 +361,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_JA-JP8531667327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E7%B4%85%E8%91%89%E3%81%AB%E3%81%BE%E3%81%8E%E3%82%8C%E3%81%A6",
     "createdAt": "2026-11-24T02:52:56.176Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "de-DE:2026-11-23:b2b78b437c78d3157e123d3df1ac6c4a",
@@ -263,7 +375,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_DE-DE7485834001_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Herbstliche%20Tarnung",
     "createdAt": "2026-11-24T02:52:56.176Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "fr-FR:2026-11-23:a73e1266209fb640a3a4054a754c3f73",
@@ -277,7 +389,21 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_FR-FR2394488770_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Camouflage%20d%E2%80%99automne",
     "createdAt": "2026-11-24T02:52:56.176Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
+  },
+  {
+    "id": "zh-CN:2026-11-23:3c81f16c7e68c454d57c4a850ff617e9",
+    "region": "zh-CN",
+    "date": "2026-11-23",
+    "title": "秋日的保护色",
+    "copyright": "红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)",
+    "copyrightLink": "https://www.bing.com/search?q=%E6%AC%A7%E4%BA%9A%E7%BA%A2%E6%9D%BE%E9%BC%A0&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E7%A7%8B%E6%97%A5%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%89%B2",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
   },
   {
     "id": "en-US:2026-11-22:27a6577f0d2d5462fa3a35fc50bb1726",
@@ -291,7 +417,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Shelter%20among%20the%20waves",
     "createdAt": "2026-11-22T21:43:48.370Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "zh-CN:2026-11-22:8bcab12cbf53fd1c7b81ec7e9b34e20c",
@@ -319,7 +445,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FibonacciFern_JA-JP6039925060_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E8%87%AA%E7%84%B6%E3%81%8C%E6%8F%8F%E3%81%8F%E5%B9%BE%E4%BD%95%E5%AD%A6%E6%A8%A1%E6%A7%98",
     "createdAt": "2026-11-22T21:43:48.370Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "de-DE:2026-11-22:732c3d5ced8276f0e4697d1aebb5d523",
@@ -333,7 +459,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FibonacciFern_DE-DE6300100112_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Geometrie%20in%20der%20Natur",
     "createdAt": "2026-11-24T02:52:56.176Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "fr-FR:2026-11-22:39a012ce6819b703c92fe3c58c2818df",
@@ -347,7 +473,21 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.FibonacciFern_FR-FR6204076819_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=G%C3%A9om%C3%A9trie%20au%20naturel",
     "createdAt": "2026-11-24T02:52:56.176Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
+  },
+  {
+    "id": "zh-CN:2026-11-22:dc2d82dba6cae505093b7a9d55207b7f",
+    "region": "zh-CN",
+    "date": "2026-11-22",
+    "title": "自然中的几何之美",
+    "copyright": "蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)",
+    "copyrightLink": "https://www.bing.com/search?q=%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%97%A5&form=hpcapt&mkt=zh-cn",
+    "imageUrl": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "downloadUrl": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4",
+    "thumbnailUrl": "https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
+    "sourceUrl": "https://www.bing.com/search?q=%E8%87%AA%E7%84%B6%E4%B8%AD%E7%9A%84%E5%87%A0%E4%BD%95%E4%B9%8B%E7%BE%8E",
+    "createdAt": "2026-11-28T00:00:19.377Z",
+    "updatedAt": "2026-11-28T00:00:19.377Z"
   },
   {
     "id": "en-US:2026-11-21:bdbf309e7d31d6f49a3c47bf1b9d1185",
@@ -361,7 +501,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Terracotta%20dreams",
     "createdAt": "2026-11-21T21:37:20.540Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "zh-CN:2026-11-21:e76c9c230746d4523a18ea94ad7b6872",
@@ -375,7 +515,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B5%B7%E6%B5%AA%E9%97%B4%E7%9A%84%E5%BA%87%E6%8A%A4%E6%89%80",
     "createdAt": "2026-11-21T21:37:20.541Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "ja-JP:2026-11-21:817c1206d091c9cb5ecefc8fa151b21c",
@@ -389,7 +529,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JustaHermitage_JA-JP5350379708_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E6%B3%A2%E9%96%93%E3%81%AB%E3%81%9F%E3%81%9F%E3%81%9A%E3%82%80%E9%9A%A0%E3%82%8C%E5%AE%B6",
     "createdAt": "2026-11-21T21:37:20.541Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "de-DE:2026-11-21:e16513a5b7a739975bddd0f814335acd",
@@ -403,7 +543,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JustaHermitage_DE-DE4182731523_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Kapelle%20im%20Fels",
     "createdAt": "2026-11-22T21:43:48.370Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "fr-FR:2026-11-21:02fc32fbf8cbad06ff76a8144fd74438",
@@ -417,7 +557,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.JustaHermitage_FR-FR2303317894_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Refuge%20au%20milieu%20des%20vagues",
     "createdAt": "2026-11-22T21:43:48.370Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "en-US:2026-11-20:07078706aa6f722be2c3f4078aed1cbe",
@@ -431,7 +571,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Feasting%20in%20the%20fjords",
     "createdAt": "2026-11-20T22:38:38.655Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "zh-CN:2026-11-20:0dbe86a1eee8d9db8080a64b54dec647",
@@ -445,7 +585,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E9%99%B6%E7%93%A6%E5%B1%8B%E9%A1%B6%E4%B8%8B%E7%9A%84%E6%A2%A6",
     "createdAt": "2026-11-20T22:38:38.656Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "ja-JP:2026-11-20:672431e4846482bc1e4ba94fd8b6fa16",
@@ -459,7 +599,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedNice_JA-JP4725682184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=%E3%83%86%E3%83%A9%E3%82%B3%E3%83%83%E3%82%BF%E8%89%B2%E3%81%AB%E6%9F%93%E3%81%BE%E3%82%8B%E8%A1%97",
     "createdAt": "2026-11-20T22:38:38.656Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "de-DE:2026-11-20:d5dc30910e6b80aa335160825890c0a2",
@@ -473,7 +613,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedNice_DE-DE7638538750_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Ein%20Traum%20aus%20Terrakotta",
     "createdAt": "2026-11-21T21:37:20.541Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "fr-FR:2026-11-20:c7dc8ea10146fdbd017b316f9c6d0078",
@@ -487,7 +627,7 @@
     "thumbnailUrl": "https://www.bing.com/th?id=OHR.RedNice_FR-FR1499556885_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4",
     "sourceUrl": "https://www.bing.com/search?q=Mosa%C3%AFque%20de%20terre%20cuite",
     "createdAt": "2026-11-21T21:37:20.541Z",
-    "updatedAt": "2026-11-27T00:32:48.277Z"
+    "updatedAt": "2026-11-28T00:00:19.382Z"
   },
   {
     "id": "en-US:2026-11-19:f89bdb875059d2794e228044e25f53ab",
